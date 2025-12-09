@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-11-04 12:51:06">
+<shop>
+<name>Modern Children</name>
+<company>Bembi</company>
+<currencies>
+<currency id="UAH" rate="1"/>
+</currencies>
+<offers>
+<offer id="381500223" available="False">
+<price>274</price>
+<currencyId>UAH</currencyId>
+<categoryId>4635623</categoryId>
+<picture>https://shop.bembi.ua/uploads/products/bd59a(11)_09(40e)a.jpg</picture>
+<name>Детское боди для новорожденных девочек Бемби БД59а_40E 62 см Голубое (01059101132.40E)</name>
+<name_ua>Дитяче боді для новонароджених дівчаток Бембі БД59а_40E 62 см Блакитне (01059101132.40E)</name_ua>
+<vendor>Bembi</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>![CDATA[&lt;p&gt;Боди от украинского производителя &lt;strong&gt;Бемби&lt;/strong&gt; выполнено из мягкой, приятной на ощупь ткани. Модель с длинным рукавом отлично подойдет и мальчикам и девочкам. Удобный крой не сковывает детских движений и дарит чувство комфорта. Боди отлично подойдет для прогулок или сна.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Детали:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Приятная на ощупь ткань интерлок из 100% хлопка&lt;/li&gt; &lt;li&gt;Длинный рукав&lt;/li&gt; &lt;li&gt;Круглый вырез горловины&amp;nbsp;&lt;/li&gt; &lt;li&gt;Застегивается на кнопки по всей длине и между ног&lt;/li&gt; &lt;li&gt;Принт слева на груди выдерживает многократную стирку&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Рекомендации по уходу:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Машинная стирка при температуре 30 градусов&lt;/li&gt; &lt;li&gt;Не сушить в сушильной машине&lt;/li&gt; &lt;li&gt;Не отбеливать&lt;/li&gt; &lt;li&gt;Не подвергать химической чистке&lt;/li&gt; &lt;/ul&gt;]]]</description>
+<description_ua>![CDATA[&lt;p&gt;Боді від українського виробника &lt;strong&gt;Бембі&lt;/strong&gt; виконано з м&#039;якої, приємної на дотик тканини. Модель із довгим рукавом відмінно підійде і хлопчикам та дівчаткам. Зручний крій не сковує дитячих рухів та дарує почуття комфорту. Боді відмінно підійде для прогулянок або сну.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Деталі:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Приємна на дотик тканина інтерлок зі 100% бавовни&lt;/li&gt; &lt;li&gt; Довгий рукав&lt;/li&gt; &lt;li&gt;Круглий виріз горловини. &lt;/li&gt; &lt;li&gt;Застібається на кнопки по всій довжині і між ніг&lt;/li&gt; &lt;li&gt;Принт зліва на грудях витримує багаторазове прання&lt;/li&gt; &lt;/ul &gt; &lt;p&gt;&lt;strong&gt;Рекомендації щодо догляду:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Машинне прання при температурі 30 градусів&lt;/li&gt; &lt;li&gt;Не сушити в сушильній машині&lt;/li&gt; &lt;li&gt; Не відбілювати&lt;/li&gt; &lt;li&gt;Не чистити хімічно &lt;/li&gt; &lt;/ul&gt;]]]</description_ua>
+<param name="EAN" paramId = "26294"  >![CDATA[4823116485907]]</param>
+<param name="Код УКТ ЗЕД" paramId = "82508"  >![CDATA[6209200000]]</param>
+<param name="Склад" paramId = "131615"  >![CDATA[100% хлопок]]</param>
+<param name="Модель для групування (МДГ)" paramId = "215080"  >![CDATA[БД59а-40E]]</param>
+<param name="Кількість вантажних місць" paramId = "72961" valueId="311769" >![CDATA[1]]</param>
+<param name="Країна реєстрації бренда" paramId = "87790" valueId="429058" >![CDATA[Украина]]</param>
+<param name="Країна-виробник товару" paramId = "98900" valueId="544338" >![CDATA[Украина]]</param>
+<param name="Довжина рукава" paramId = "105869" valueId="638464" >![CDATA[С длинными рукавами]]</param>
+<param name="Колір" paramId = "131559" valueId="1008372" >![CDATA[Голубой]]</param>
+<param name="Стать" paramId = "144168" valueId="1355336" >![CDATA[Для девочек]]</param>
+<param name="Дитячий вік" paramId = "151000" valueId="1416472" >![CDATA[3 месяца]]</param>
+<article>01059101132.40E</article>
+</offer>
+<offer id="413416251" available="False">
+<price>274</price>
+<currencyId>UAH</currencyId>
+<categoryId>4635623</categoryId>
+<picture>https://shop.bembi.ua/uploads/products/bd59a(11)_01(60f)1a.jpg</picture>
+<name>Детское боди для новорожденных мальчиков Бемби BD59-60F 68 см Зеленое (01059101133.60F)</name>
+<name_ua>Дитяче боді для новонароджених хлопчиків Бембі BD59-60F 68 см Зелене (01059101133.60F)</name_ua>
+<vendor>Bembi</vendor>
+<price_old>0</price_old>
+<state>new</state>
+<description>![CDATA[&lt;p&gt;Детское боди от украинского производителя &lt;strong&gt;Бемби&lt;/strong&gt; выполнено из мягкого и приятного на ощупь хлопка. Удобный крой не сковывает детских движений и дарит чувство комфорта. Модель отлично подходит для сна или прогулок.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Детали:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Мягкая ткань интерлок из 100% хлопка&lt;/li&gt; &lt;li&gt;Длинные рукава&lt;/li&gt; &lt;li&gt;Застегивается на кнопки&lt;/li&gt; &lt;li&gt;Забавный принт с динозаврами&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Рекомендации по уходу:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Машинная стирка при температуре 30&amp;deg;C&lt;/li&gt; &lt;li&gt;Не сушить в сушильной машине&lt;/li&gt; &lt;li&gt;Не отбеливать&lt;/li&gt; &lt;li&gt;Не подвергать химической чистке&lt;/li&gt; &lt;/ul&gt;]]]</description>
+<description_ua>![CDATA[&lt;p&gt;Дитяче боді від українського виробника &lt;strong&gt;Бембі&lt;/strong&gt; виконане з м&#039;якої і приємної на дотик бавовни. Зручний крій не сковує дитячих рухів та дарує почуття комфорту. Модель відмінно підходить для сну чи прогулянок.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Деталі:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;М&#039;яка тканина інтерлок зі 100% бавовни&lt;/li&gt; &lt;li&gt;Довгі рукава&lt;/li&gt; &lt;li&gt;Застібається на кнопки&lt;/li&gt; &lt;li&gt;Кумедний принт з динозаврами&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Рекомендації щодо догляду:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Машинне прання за температури 30&amp;deg;C&lt;/li&gt; &lt;li&gt;Не сушити в сушильній машині&lt;/li&gt; &lt;li&gt;Не відбілювати&lt;/li&gt; &lt;li&gt;Не піддавати хімічному чищенню&lt;/li&gt; &lt;/ul&gt;]]]</description_ua>
+<param name="EAN" paramId = "26294"  >![CDATA[4823116485907]]</param>
+<param name="Код УКТ ЗЕД" paramId = "82508"  >![CDATA[6209200000]]</param>
+<param name="Склад" paramId = "131615"  >![CDATA[100% хлопок]]</param>
+<param name="Модель для групування (МДГ)" paramId = "215080"  >![CDATA[БД59а-40E]]</param>
+<param name="Кількість вантажних місць" paramId = "72961" valueId="311769" >![CDATA[1]]</param>
+<param name="Країна реєстрації бренда" paramId = "87790" valueId="429058" >![CDATA[Украина]]</param>
+<param name="Країна-виробник товару" paramId = "98900" valueId="544338" >![CDATA[Украина]]</param>
+<param name="Довжина рукава" paramId = "105869" valueId="638464" >![CDATA[С длинными рукавами]]</param>
+<param name="Колір" paramId = "131559" valueId="1008372" >![CDATA[Голубой]]</param>
+<param name="Стать" paramId = "144168" valueId="1355336" >![CDATA[Для девочек]]</param>
+<param name="Дитячий вік" paramId = "151000" valueId="1416472" >![CDATA[3 месяца]]</param>
+<article>01059101133.60F</article>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
