@@ -10,7 +10,6 @@
 <category id="4642648" rz_id="4642648">Боди для девочек</category>
 <category id="4635623" rz_id="4635623">Боди для малышей</category>
 <category id="4668529" rz_id="4668529">Боди для мальчиков</category>
-<category id="4635623" rz_id="4635623">Боди для малышей</category>
 <category id="4637055" rz_id="4637055">Водолазки для девочек</category>
 <category id="4636535" rz_id="4636535">Водолазки для мальчиков</category>
 <category id="4646072" rz_id="4646072">Человечки</category>
@@ -125,6 +124,7 @@
 <param name="Країна-виробник товару" paramId = "98900" valueId="544338" >![CDATA[Украина]]</param>
 <param name="Довжина рукава" paramId = "105869" valueId="638464" >![CDATA[С длинными рукавами]]</param>
 <param name="Колір" paramId = "131559" valueId="1008372" >![CDATA[Голубой]]</param>
+<param name="Зріст" paramId = "131587" valueId="1132087" >![CDATA[62]]</param>
 <param name="Стать" paramId = "144168" valueId="1355336" >![CDATA[Для девочек]]</param>
 <param name="Дитячий вік" paramId = "151000" valueId="1416472" >![CDATA[3 месяца]]</param>
 <article>01059101132.40E</article>
@@ -151,6 +151,7 @@
 <param name="Країна-виробник товару" paramId = "98900" valueId="544338" >![CDATA[Украина]]</param>
 <param name="Довжина рукава" paramId = "105869" valueId="638464" >![CDATA[С длинными рукавами]]</param>
 <param name="Колір" paramId = "131559" valueId="1008372" >![CDATA[Голубой]]</param>
+<param name="Зріст" paramId = "131587" valueId="1132087" >![CDATA[62]]</param>
 <param name="Стать" paramId = "144168" valueId="1355336" >![CDATA[Для девочек]]</param>
 <param name="Дитячий вік" paramId = "151000" valueId="1416472" >![CDATA[3 месяца]]</param>
 <article>01059101133.60F</article>
@@ -158,7 +159,7 @@
 <offer id="381500226" available="False">
 <price>288</price>
 <price_old>288</price_old>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <currencyId>UAH</currencyId>
 <categoryId>4635623</categoryId>
 <picture>https://shop.bembi.ua/uploads/products/bd59a(11)_09(50e)1a.jpg</picture>
@@ -177,6 +178,7 @@
 <param name="Країна-виробник товару" paramId = "98900" valueId="544338" >![CDATA[Украина]]</param>
 <param name="Довжина рукава" paramId = "105869" valueId="638464" >![CDATA[С длинными рукавами]]</param>
 <param name="Колір" paramId = "131559" valueId="1008372" >![CDATA[Голубой]]</param>
+<param name="Зріст" paramId = "131587" valueId="1132087" >![CDATA[62]]</param>
 <param name="Стать" paramId = "144168" valueId="1355336" >![CDATA[Для девочек]]</param>
 <param name="Дитячий вік" paramId = "151000" valueId="1416472" >![CDATA[3 месяца]]</param>
 <article>01059101132.50E</article>
