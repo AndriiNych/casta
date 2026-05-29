@@ -1,0 +1,716 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Аналіз нарад Bembi — лютий–травень 2026</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --color-bg: #f8f7f4;
+    --color-surface: #ffffff;
+    --color-surface-2: #f1efe8;
+    --color-border: #e2e0d8;
+    --color-text: #1a1a18;
+    --color-text-muted: #6b6b65;
+    --color-text-hint: #9b9b94;
+    --color-blue: #185fa5;
+    --color-blue-light: #e6f1fb;
+    --color-green: #3b6d11;
+    --color-green-light: #eaf3de;
+    --color-amber: #854f0b;
+    --color-amber-light: #faeeda;
+    --color-red: #a32d2d;
+    --color-red-light: #fcebeb;
+    --color-purple: #534ab7;
+    --color-purple-light: #eeedfe;
+    --color-teal: #0f6e56;
+    --color-teal-light: #e1f5ee;
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 14px;
+  }
+
+  body {
+    font-family: Georgia, 'Times New Roman', serif;
+    background: var(--color-bg);
+    color: var(--color-text);
+    line-height: 1.7;
+    font-size: 15px;
+  }
+
+  .page-wrap {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 24px 80px;
+  }
+
+  /* HEADER */
+  .report-header {
+    border-bottom: 2px solid var(--color-text);
+    padding-bottom: 24px;
+    margin-bottom: 40px;
+  }
+  .report-header .label {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 10px;
+  }
+  .report-header h1 {
+    font-size: 32px;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 10px;
+  }
+  .report-header .subtitle {
+    font-size: 14px;
+    color: var(--color-text-muted);
+    font-style: italic;
+  }
+
+  /* SECTIONS */
+  .section {
+    margin-bottom: 48px;
+  }
+  .section-title {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 16px;
+    padding-bottom: 8px;
+    border-bottom: 0.5px solid var(--color-border);
+  }
+  h2 {
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom: 12px;
+    line-height: 1.3;
+  }
+  h3 {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    color: var(--color-text);
+  }
+  p { margin-bottom: 12px; }
+  p:last-child { margin-bottom: 0; }
+
+  /* METRIC CARDS */
+  .metric-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 12px;
+    margin-bottom: 32px;
+  }
+  .metric-card {
+    background: var(--color-surface);
+    border: 0.5px solid var(--color-border);
+    border-radius: var(--radius-md);
+    padding: 16px;
+  }
+  .metric-card .m-label {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11px;
+    color: var(--color-text-muted);
+    margin-bottom: 6px;
+  }
+  .metric-card .m-value {
+    font-size: 30px;
+    font-weight: normal;
+    line-height: 1;
+    margin-bottom: 4px;
+  }
+  .metric-card .m-sub {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11px;
+    color: var(--color-text-hint);
+  }
+  .m-blue .m-value { color: var(--color-blue); }
+  .m-green .m-value { color: var(--color-green); }
+  .m-red .m-value { color: var(--color-red); }
+  .m-amber .m-value { color: var(--color-amber); }
+
+  /* CHART CONTAINERS */
+  .chart-box {
+    background: var(--color-surface);
+    border: 0.5px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .chart-box h3 { margin-bottom: 14px; }
+  .chart-wrap { position: relative; width: 100%; }
+  .chart-wrap canvas { width: 100% !important; }
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    margin-bottom: 12px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 12px;
+    color: var(--color-text-muted);
+  }
+  .legend span { display: flex; align-items: center; gap: 5px; }
+  .swatch { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
+  .two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 20px;
+  }
+
+  /* BADGES */
+  .badge {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11px;
+    font-weight: 500;
+    padding: 2px 9px;
+    border-radius: 20px;
+    white-space: nowrap;
+    display: inline-block;
+  }
+  .badge-danger { background: var(--color-red-light); color: var(--color-red); }
+  .badge-warn { background: var(--color-amber-light); color: var(--color-amber); }
+  .badge-ok { background: var(--color-green-light); color: var(--color-green); }
+  .badge-info { background: var(--color-blue-light); color: var(--color-blue); }
+
+  /* LISTS */
+  .item-list { list-style: none; }
+  .item-list li {
+    padding: 10px 0;
+    border-bottom: 0.5px solid var(--color-border);
+    font-size: 14px;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    line-height: 1.5;
+  }
+  .item-list li:last-child { border-bottom: none; }
+
+  /* ADVICE CARDS */
+  .advice-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 16px;
+    margin-bottom: 20px;
+  }
+  .advice-card {
+    background: var(--color-surface);
+    border: 0.5px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    padding: 18px 20px;
+  }
+  .advice-card .a-icon {
+    font-size: 22px;
+    margin-bottom: 10px;
+    display: block;
+  }
+  .advice-card h3 { font-size: 13px; margin-bottom: 6px; }
+  .advice-card p {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 13px;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+  }
+  .advice-card.a-blue { border-left: 3px solid var(--color-blue); }
+  .advice-card.a-green { border-left: 3px solid var(--color-green); }
+  .advice-card.a-amber { border-left: 3px solid var(--color-amber); }
+  .advice-card.a-red { border-left: 3px solid var(--color-red); }
+  .advice-card.a-purple { border-left: 3px solid var(--color-purple); }
+  .advice-card.a-teal { border-left: 3px solid var(--color-teal); }
+
+  /* TREND TABLE */
+  .trend-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 13px;
+  }
+  .trend-table th {
+    text-align: left;
+    font-weight: 500;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-muted);
+    border-bottom: 0.5px solid var(--color-border);
+    padding: 8px 12px;
+  }
+  .trend-table td {
+    padding: 9px 12px;
+    border-bottom: 0.5px solid var(--color-border);
+    vertical-align: top;
+    line-height: 1.5;
+  }
+  .trend-table tr:last-child td { border-bottom: none; }
+  .trend-table tr:hover td { background: var(--color-surface-2); }
+
+  /* QUOTE / HIGHLIGHT */
+  .highlight-box {
+    background: var(--color-purple-light);
+    border-left: 3px solid var(--color-purple);
+    border-radius: 0 var(--radius-md) var(--radius-md) 0;
+    padding: 14px 18px;
+    margin: 20px 0;
+    font-size: 14px;
+    line-height: 1.65;
+  }
+  .highlight-box strong {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 500;
+  }
+
+  /* FOOTER */
+  .report-footer {
+    margin-top: 60px;
+    padding-top: 20px;
+    border-top: 0.5px solid var(--color-border);
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 12px;
+    color: var(--color-text-hint);
+  }
+
+  @media (max-width: 600px) {
+    .two-col { grid-template-columns: 1fr; }
+    .metric-grid { grid-template-columns: repeat(2, 1fr); }
+    body { font-size: 14px; }
+    .report-header h1 { font-size: 24px; }
+  }
+</style>
+</head>
+<body>
+<div class="page-wrap">
+
+  <!-- HEADER -->
+  <div class="report-header">
+    <p class="label">Внутрішній аналіз · Bembi</p>
+    <h1>Аналіз тижневих нарад<br>лютий — травень 2026</h1>
+    <p class="subtitle">На основі 13 протоколів нарад (16.02.2026 — 25.05.2026)</p>
+  </div>
+
+  <!-- КЛЮЧОВІ ПОКАЗНИКИ -->
+  <div class="section">
+    <p class="section-title">Загальні показники</p>
+    <div class="metric-grid">
+      <div class="metric-card">
+        <p class="m-label">Протоколів</p>
+        <p class="m-value">13</p>
+        <p class="m-sub">за 3,5 місяці</p>
+      </div>
+      <div class="metric-card m-blue">
+        <p class="m-label">Задач всього</p>
+        <p class="m-value">~160</p>
+        <p class="m-sub">поставлено за весь період</p>
+      </div>
+      <div class="metric-card m-green">
+        <p class="m-label">Закрито задач</p>
+        <p class="m-value">~95</p>
+        <p class="m-sub">≈ 59% від усіх</p>
+      </div>
+      <div class="metric-card m-red">
+        <p class="m-label">Хронічних проблем</p>
+        <p class="m-value">4</p>
+        <p class="m-sub">відкриті 6+ тижнів</p>
+      </div>
+      <div class="metric-card m-amber">
+        <p class="m-label">Учасників</p>
+        <p class="m-value">12+</p>
+        <p class="m-sub">основна команда</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ДИНАМІКА ЗАДАЧ -->
+  <div class="section">
+    <p class="section-title">Динаміка задач по нарадах</p>
+    <div class="chart-box">
+      <h3>Кількість нових і закритих задач</h3>
+      <div class="legend">
+        <span><span class="swatch" style="background:#185fa5"></span>Нових задач</span>
+        <span><span class="swatch" style="background:#3b6d11"></span>Закритих задач</span>
+      </div>
+      <div class="chart-wrap" style="height:240px">
+        <canvas id="taskChart" role="img" aria-label="Динаміка нових і закритих задач по нарадах">Динаміка задач по нарадах.</canvas>
+      </div>
+    </div>
+    <p style="font-size:14px; color:var(--color-text-muted); font-family:'Helvetica Neue',Arial,sans-serif;">
+      Перші три протоколи — формат «стратегічних нарад» з меншою кількістю конкретних задач (до 8). З 16 березня нарада перейшла в операційний режим, кількість задач зросла до 14–21 на тиждень. Кількість закритих задач стабілізувалась на рівні 5–9, тоді як нових щоразу більше — це ознака того, що команда генерує більше, ніж встигає закривати.
+    </p>
+  </div>
+
+  <!-- НАВАНТАЖЕННЯ ПО ЛЮДЯХ -->
+  <div class="section">
+    <p class="section-title">Розподіл задач по відповідальних</p>
+    <div class="two-col">
+      <div class="chart-box">
+        <h3>Кількість задач (всього)</h3>
+        <div class="chart-wrap" style="height:320px">
+          <canvas id="personChart" role="img" aria-label="Задачі по відповідальних">Задачі по відповідальних.</canvas>
+        </div>
+      </div>
+      <div class="chart-box">
+        <h3>Виконано / відкрито (задачі)</h3>
+        <div class="legend">
+          <span><span class="swatch" style="background:#3b6d11"></span>Виконано</span>
+          <span><span class="swatch" style="background:#a32d2d"></span>Відкрито/перенесено</span>
+        </div>
+        <div class="chart-wrap" style="height:320px">
+          <canvas id="execChart" role="img" aria-label="Виконані і відкриті задачі по людях">Виконання по людях.</canvas>
+        </div>
+      </div>
+    </div>
+    <div class="highlight-box">
+      <strong>Увага: концентрація задач на Андрію.</strong> На нього припадає близько 38 задач — більше 23% від усіх у протоколах. Це майже вдвічі більше, ніж у Сергія, який йде другим. При цьому Андрій відповідає за критично різні напрямки: сайт, 1С, інтеграції з маркетплейсами, автоматизацію, пошту, алгоритми. Одна людина як єдина точка відповідальності в IT — це системний ризик.
+    </div>
+  </div>
+
+  <!-- ТЕМИ НАРАД -->
+  <div class="section">
+    <p class="section-title">Теми, що з'являються на нарадах найчастіше</p>
+    <div class="chart-box">
+      <h3>Частота тем (кількість нарад, де тема звучала)</h3>
+      <div class="chart-wrap" style="height:260px">
+        <canvas id="topicChart" role="img" aria-label="Частота тем на нарадах">Теми нарад.</canvas>
+      </div>
+    </div>
+    <p style="font-size:14px; color:var(--color-text-muted); font-family:'Helvetica Neue',Arial,sans-serif;">
+      Три теми-лідери — інтернет-магазин, виробництво і маркетинг — присутні практично на кожній нараді. Це говорить про те, що саме ці напрямки є операційним ядром бізнесу. Стратегічні питання з'являються рідше і часто тонуть у поточці.
+    </p>
+  </div>
+
+  <!-- ХРОНІЧНІ ПРОБЛЕМИ -->
+  <div class="section">
+    <p class="section-title">Хронічні проблеми — відкриті 6+ тижнів</p>
+    <ul class="item-list">
+      <li>
+        <span class="badge badge-danger">критично</span>
+        <span><strong>Вантажник на склад</strong> — відкрито з 23.03 (нарада №6). Зустрічається у протоколах 8 разів. Рішення немає досі. Ситуація: мобілізація, складний ринок праці, тимчасові заплатки силами команди.</span>
+      </li>
+      <li>
+        <span class="badge badge-danger">критично</span>
+        <span><strong>Сегментація клієнтів</strong> — поставлено 06.04, дедлайн «до червня 2026». Щотижня статус «в процесі», без конкретних проміжних результатів. Ризик: дедлайн підійде, а структурованого результату не буде.</span>
+      </li>
+      <li>
+        <span class="badge badge-warn">зависло</span>
+        <span><strong>Посадкова сторінка QR</strong> — поставлено 06.04, очікує макет від Наді/Насті/Іри. Перенесено 4 рази. Андрій готовий реалізувати одразу після макету, але макет не надходить.</span>
+      </li>
+      <li>
+        <span class="badge badge-warn">зависло</span>
+        <span><strong>Автоматизація КБ-документообігу (Степанюк)</strong> — стартовано 15.04, показало перший результат, але в травні вже переведено в статус «поки відкладено». Задача мала суттєвий потенціал економії часу Сергія.</span>
+      </li>
+      <li>
+        <span class="badge badge-ok">закрито нарешті</span>
+        <span><strong>Шаблон сайту</strong> — 4 тижні переносів (23.03 → 15.04). Показовий приклад: задача без жорсткого зовнішнього тиску переноситься майже місяць.</span>
+      </li>
+      <li>
+        <span class="badge badge-ok">закрито нарешті</span>
+        <span><strong>Відправка замовлення школи 2026</strong> — 3 тижні затримки після готовності (готова 30.03, відправлена 16.04). Причина: очікування рішення від Вікторії. Ризик зриву виробничого сезону.</span>
+      </li>
+    </ul>
+  </div>
+
+  <!-- ДИНАМІКА ЯКОСТІ -->
+  <div class="section">
+    <p class="section-title">Як змінилася якість виконання від початку до кінця</p>
+
+    <div class="chart-box" style="margin-bottom:20px;">
+      <h3>Зрілість протоколів: від лютого до травня</h3>
+      <div class="legend">
+        <span><span class="swatch" style="background:#534ab7"></span>Якість протоколу (структура, закриті питання, дедлайни)</span>
+        <span><span class="swatch" style="background:#1d9e75"></span>Кількість закритих задач на нараді</span>
+      </div>
+      <div class="chart-wrap" style="height:220px">
+        <canvas id="maturityChart" role="img" aria-label="Зрілість нарад і виконання задач у динаміці">Динаміка зрілості команди.</canvas>
+      </div>
+    </div>
+
+    <table class="trend-table" style="margin-bottom:20px; background:var(--color-surface); border-radius:var(--radius-lg); overflow:hidden; border:0.5px solid var(--color-border);">
+      <thead>
+        <tr>
+          <th>Показник</th>
+          <th>Лютий–березень</th>
+          <th>Квітень–травень</th>
+          <th>Динаміка</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Структура протоколу</td>
+          <td>Базова, без зведеної таблиці</td>
+          <td>Повна: зведена таблиця, закриті питання, загальний підсумок</td>
+          <td><span class="badge badge-ok">суттєве покращення</span></td>
+        </tr>
+        <tr>
+          <td>Зведена таблиця задач</td>
+          <td>Немає або неповна</td>
+          <td>Є в кожному протоколі, з відповідальним і дедлайном</td>
+          <td><span class="badge badge-ok">суттєве покращення</span></td>
+        </tr>
+        <tr>
+          <td>Секція «закриті питання»</td>
+          <td>Відсутня</td>
+          <td>З'явилась з 30.03, закріпилась як стандарт</td>
+          <td><span class="badge badge-ok">нова гарна практика</span></td>
+        </tr>
+        <tr>
+          <td>Дедлайни задач</td>
+          <td>Розмиті: «поточний тиждень», «найближчим часом»</td>
+          <td>Стали конкретнішими: конкретна дата в 40–50% задач</td>
+          <td><span class="badge badge-warn">покращення, але є куди рости</span></td>
+        </tr>
+        <tr>
+          <td>Швидкість закриття</td>
+          <td>Більшість задач переносяться по 2–4 тижні</td>
+          <td>Прості задачі закриваються за тиждень; системні — досі висять</td>
+          <td><span class="badge badge-warn">часткове покращення</span></td>
+        </tr>
+        <tr>
+          <td>Тривалість нарад</td>
+          <td>Виходили за 1 годину, стратегічні дискусії без рішень</td>
+          <td>Деякі наради — 30 хв (оперативний формат), але є й «значно довше норми»</td>
+          <td><span class="badge badge-warn">непослідовно</span></td>
+        </tr>
+        <tr>
+          <td>Стратегічні цілі</td>
+          <td>Прописав лише один учасник з усіх</td>
+          <td>Тема з'являється, але виконання досі не перевіряється системно</td>
+          <td><span class="badge badge-danger">залишається слабким місцем</span></td>
+        </tr>
+        <tr>
+          <td>Робота з аналітикою</td>
+          <td>Рішення на інтуїції та досвіді</td>
+          <td>ChatGPT для аналізу клієнтів, аналіз чеків, сегментація</td>
+          <td><span class="badge badge-ok">чіткий прогрес</span></td>
+        </tr>
+        <tr>
+          <td>Формат нарад</td>
+          <td>Один формат для всіх тем</td>
+          <td>З'явились оперативні 30-хв наради та формат доповідей керівників</td>
+          <td><span class="badge badge-ok">позитивна еволюція</span></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p style="font-size:14px; color:var(--color-text-muted); font-family:'Helvetica Neue',Arial,sans-serif;">
+      <strong style="color:var(--color-text)">Загальний висновок щодо динаміки:</strong> команда зробила помітний стрибок у якості фіксації домовленостей. Структура протоколів з лютого до травня стала значно зрілішою. Водночас виконавська дисципліна покращилась лише частково — прості, зрозумілі задачі закриваються швидше, але системні й міжособистісні проблеми (вантажник, QR-сторінка, стратегічні цілі) залишаються хронічно відкритими незалежно від того, скільки разів їх виносять на нараду.
+    </p>
+  </div>
+
+  <!-- ПОРАДИ -->
+  <div class="section">
+    <p class="section-title">Рекомендації для команди</p>
+
+    <h2 style="margin-bottom:20px;">Що варто змінити або покращити</h2>
+
+    <div class="advice-grid">
+      <div class="advice-card a-red">
+        <span class="a-icon">⚠️</span>
+        <h3>Правило трьох тижнів</h3>
+        <p>Якщо задача висить більше трьох тижнів без прогресу — на нараді не «читати» її вчергове, а приймати рішення: або змінити підхід / відповідального, або закрити зовсім. Задачі-зомбі забирають час і демотивують.</p>
+      </div>
+
+      <div class="advice-card a-blue">
+        <span class="a-icon">👤</span>
+        <h3>Розвантажити Андрія</h3>
+        <p>Більше чверті всіх задач — на одній людині. Необхідно або розподілити IT-напрямки між кількома людьми, або найняти другого IT-спеціаліста. Поки цього немає, будь-яка хвороба / відпустка / перевантаження Андрія зупиняє роботу всіх.</p>
+      </div>
+
+      <div class="advice-card a-amber">
+        <span class="a-icon">📋</span>
+        <h3>Конкретні дедлайни — завжди</h3>
+        <p>«Найближчим часом» і «поточний тиждень» — не дедлайни. Кожна задача має конкретну дату. Якщо дата невідома — поставити дату через 5 робочих днів і переглянути на наступній нараді. Розмиті дедлайни — головна причина зависання задач.</p>
+      </div>
+
+      <div class="advice-card a-green">
+        <span class="a-icon">🕐</span>
+        <h3>Захистити час на стратегію</h3>
+        <p>Стратегічні теми (цілі, сегментація, B2B платформа) постійно витісняються поточкою. Рекомендація: один раз на місяць — окрема 1-годинна нарада виключно по стратегії. Без операційних питань. Інакше цілі так і залишаться «до червня».</p>
+      </div>
+
+      <div class="advice-card a-purple">
+        <span class="a-icon">📊</span>
+        <h3>Щомісячний AI-аналіз протоколів</h3>
+        <p>Ідею вже озвучено на нараді 25.05. Щомісяця скидати всі протоколи в AI і отримувати відповіді: які задачі висять більше 3 тижнів, хто найбільш перевантажений, які теми не вирішуються. Це займає 15 хвилин і дає об'єктивну картину.</p>
+      </div>
+
+      <div class="advice-card a-teal">
+        <span class="a-icon">🔀</span>
+        <h3>Розділити формати нарад</h3>
+        <p>Оперативна пробіжка по задачах (30 хв) і стратегічне обговорення — це різні речі. Добрий знак, що 20.04 вже зробили коротку нараду. Потрібно закріпити: коротка щотижня, стратегічна раз на місяць. Не змішувати.</p>
+      </div>
+
+      <div class="advice-card a-blue">
+        <span class="a-icon">🎯</span>
+        <h3>Один відповідальний — одна задача</h3>
+        <p>Задачі на «всіх учасників» (наприклад, пошук вантажника) фактично не виконуються ніким. Якщо задача стосується всіх — все одно призначати одного координатора, який збирає результати і звітує. Колективна відповідальність = нічия відповідальність.</p>
+      </div>
+
+      <div class="advice-card a-amber">
+        <span class="a-icon">📈</span>
+        <h3>Вимірювати стратегічні цілі</h3>
+        <p>Цілі прописані у лютому, але перевірка їх виконання жодного разу не була повноцінною темою наради. Раз на місяць — короткий звіт кожного керівника напрямку: що зроблено, що ні, чому. Без конкретних вимірів цілі залишаються побажаннями.</p>
+      </div>
+
+      <div class="advice-card a-green">
+        <span class="a-icon">✅</span>
+        <h3>Зберегти те, що вже добре працює</h3>
+        <p>Зведена таблиця задач у протоколі, секція «закриті питання», оперативні наради у форматі пробіжки по агенді, формат доповідей керівників з 18.05 — це вже добрі практики. Не відмовлятись від них під тиском часу.</p>
+      </div>
+    </div>
+
+    <div class="highlight-box">
+      <strong>Головний висновок.</strong> Команда показує реальний прогрес — і в якості фіксації домовленостей, і в культурі нарад. Водночас є чіткий розрив між тим, що <em>обговорюється</em>, і тим, що <em>виконується</em>. Вирішення цього розриву — не в кращих протоколах, а в чіткіших дедлайнах, конкретних відповідальних і системному контролі хронічних проблем. Щомісячний AI-аналіз протоколів, який запропонував Андрій на останній нараді, — це найпростіший і найдешевший спосіб тримати руку на пульсі без додаткових зусиль команди.
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="report-footer">
+    Аналіз підготовлено на основі 13 протоколів нарад Bembi за період 16.02.2026 — 25.05.2026.<br>
+    Кількісні дані є наближеними оцінками на основі контент-аналізу протоколів.
+  </div>
+
+</div>
+
+<!-- CHARTS SCRIPTS -->
+<script>
+const BLUE = '#185fa5';
+const GREEN = '#3b6d11';
+const AMBER = '#ba7517';
+const RED = '#a32d2d';
+const PURPLE = '#534ab7';
+const TEAL = '#1d9e75';
+const TEXT = '#6b6b65';
+const GRID = 'rgba(0,0,0,0.07)';
+
+const base = {
+  responsive: true,
+  maintainAspectRatio: false,
+  plugins: { legend: { display: false } },
+  scales: {
+    x: { ticks: { color: TEXT, font: { size: 11 } }, grid: { color: GRID } },
+    y: { ticks: { color: TEXT, font: { size: 11 } }, grid: { color: GRID } }
+  }
+};
+
+// 1. Динаміка задач
+new Chart(document.getElementById('taskChart'), {
+  type: 'bar',
+  data: {
+    labels: ['16.02','23.02','09.03','16.03','23.03','30.03','06.04','15.04','20.04','27.04','11.05','18.05','25.05'],
+    datasets: [
+      { label: 'Нових задач', data: [8,6,7,14,15,12,21,20,20,21,11,17,20], backgroundColor: BLUE, borderRadius: 3 },
+      { label: 'Закритих задач', data: [0,0,0,3,5,6,7,9,7,6,6,4,5], backgroundColor: GREEN, borderRadius: 3 }
+    ]
+  },
+  options: {
+    ...base,
+    scales: {
+      x: { ticks: { color: TEXT, font: { size: 10 }, maxRotation: 45, autoSkip: false }, grid: { color: GRID } },
+      y: { ticks: { color: TEXT, font: { size: 11 } }, grid: { color: GRID } }
+    }
+  }
+});
+
+// 2. Задачі по людях (горизонтальний)
+new Chart(document.getElementById('personChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Андрій','Сергій','Надя','Наташа','Вікторія','Марина','Настя','Маша','Іра','Всі','Ілона'],
+    datasets: [{ data: [38,22,18,12,11,11,10,9,8,7,6], backgroundColor: PURPLE, borderRadius: 3 }]
+  },
+  options: {
+    ...base,
+    indexAxis: 'y',
+    scales: {
+      x: { ticks: { color: TEXT, font: { size: 11 } }, grid: { color: GRID } },
+      y: { ticks: { color: TEXT, font: { size: 11 } }, grid: { color: GRID } }
+    }
+  }
+});
+
+// 3. Виконано / відкрито (кількість)
+new Chart(document.getElementById('execChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Андрій','Сергій','Надя','Наташа','Вікторія','Марина','Настя'],
+    datasets: [
+      { label: 'Виконано', data: [28,18,13,10,7,9,8], backgroundColor: GREEN, borderRadius: 3 },
+      { label: 'Відкрито', data: [10,4,5,2,4,2,2], backgroundColor: RED, borderRadius: 3 }
+    ]
+  },
+  options: {
+    ...base,
+    scales: {
+      x: { stacked: true, ticks: { color: TEXT, font: { size: 11 } }, grid: { color: GRID } },
+      y: { stacked: true, ticks: { color: TEXT, font: { size: 11 } }, grid: { color: GRID } }
+    }
+  }
+});
+
+// 4. Теми нарад
+new Chart(document.getElementById('topicChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Інтернет-магазин','Виробництво','Маркетинг','Task-менеджмент','Стратегія','B2B / партнери','Кадри','Фінанси'],
+    datasets: [{ data: [11,10,9,9,7,6,4,3], backgroundColor: TEAL, borderRadius: 3 }]
+  },
+  options: {
+    ...base,
+    indexAxis: 'y',
+    scales: {
+      x: { ticks: { color: TEXT, font: { size: 11 } }, grid: { color: GRID } },
+      y: { ticks: { color: TEXT, font: { size: 11 } }, grid: { color: GRID } }
+    }
+  }
+});
+
+// 5. Зрілість (лінійний)
+new Chart(document.getElementById('maturityChart'), {
+  type: 'line',
+  data: {
+    labels: ['16.02','23.02','09.03','16.03','23.03','30.03','06.04','15.04','20.04','27.04','11.05','18.05','25.05'],
+    datasets: [
+      {
+        label: 'Якість протоколу',
+        data: [3,3,4,5,6,7,8,8,8,8,8,9,9],
+        borderColor: PURPLE,
+        backgroundColor: 'rgba(83,74,183,0.08)',
+        fill: true,
+        tension: 0.35,
+        pointRadius: 4,
+        pointBackgroundColor: PURPLE
+      },
+      {
+        label: 'Закритих задач',
+        data: [0,0,0,3,5,6,7,9,7,6,6,4,5],
+        borderColor: TEAL,
+        backgroundColor: 'rgba(29,158,117,0.08)',
+        fill: true,
+        tension: 0.35,
+        pointRadius: 4,
+        pointBackgroundColor: TEAL
+      }
+    ]
+  },
+  options: {
+    ...base,
+    plugins: { legend: { display: false } },
+    scales: {
+      x: { ticks: { color: TEXT, font: { size: 10 }, maxRotation: 45, autoSkip: false }, grid: { color: GRID } },
+      y: { ticks: { color: TEXT, font: { size: 11 } }, grid: { color: GRID } }
+    }
+  }
+});
+</script>
+</body>
+</html>
