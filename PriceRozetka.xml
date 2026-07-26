@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-25 20:08">
+<yml_catalog date="2026-07-26 12:08">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -31691,7 +31691,7 @@
 			</offer>
 			<offer available="true" id="350348379">
 				<price>440</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636415</categoryId>
 				<name>Подростковый лонгслив для мальчика Бемби GF122-XM0 152 см Серый меланж (4823116445055)</name>
@@ -49654,7 +49654,7 @@
 			</offer>
 			<offer available="true" id="363520077">
 				<price>245</price>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>7</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби МК26-900 128 см (10026021043.900)</name>
@@ -76960,86 +76960,6 @@
 					<![CDATA[4824045015296]]></param>
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[KP293-800]]></param>
-				<param name="Кількість предметів" paramid="92802" valueid="476428">
-					<![CDATA[2]]></param>
-				<param name="Довжина рукава" paramid="105869" valueid="638457">
-					<![CDATA[С короткими рукавами]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4614846">
-					<![CDATA[март 2024]]></param>
-			</offer>
-			<offer available="true" id="420208620">
-				<price>419</price>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4668289</categoryId>
-				<name>Детский летний комплект (футболка + шорты) для мальчика Бемби KS770-EH0 80 см Охра/Коричневый (06770311035.EH0)</name>
-				<name_ua>Дитячий літній комплект (футболка + шорти) для хлопчика Бембі KS770-EH0 80 см Охра/Коричневий (06770311035.EH0)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/ks770(10)_01(eh0)1.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/ks770(10)_01(eh0)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/ks770(10)_01(eh0)1b.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/ks770(10)_01(eh0)1c.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/ks770(10)_01(eh0)1d.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Детский летний комплект от украинского бренда <strong>Бемби</strong> - это идеальный вариант для активных детей. Сочетание стильной футболки и удобных шорт обеспечит комфорт и свободу движения. Этот летний комплект подходит для различных мероприятий - от прогулок в парке до походов на пляж или в парк аттракционов.</p>
-<p><strong>Детали:</strong></p>
-<ul>
-<li>Состав: 95% хлопок, 5% эластан</li>
-<li>Легкая и приятная на ощупь ткань супрем</li>
-<li>Комплект состоит из футболки и шорт</li>
-<li>Футболка с короткими рукавами и круглым вырезом горловины</li>
-<li>Шорты с эластичным поясом для комфортной посадки</li>
-</ul>
-<p><strong>Рекомендации по уходу:</strong></p>
-<ul>
-<li>Машинная стирка при температуре 30°C</li>
-<li>Не сушить в сушильной машине</li>
-<li>Не отбеливать</li>
-<li>Не подвергать химической чистке</li>
-</ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Дитячий літній комплект від українського бренду <strong>Бембі</strong> - це ідеальний варіант для активних дітей. Поєднання стильної футболки та зручних шортів забезпечить комфорт і свободу руху. Цей літній комплект підходить для різних заходів - від прогулянок у парку до походів на пляж або в парк атракціонів.</p>
-<p><strong>Деталі:</strong></p>
-<ul>
-<li>Склад: 95% бавовна, 5% еластан</li>
-<li>Легка та приємна на дотик тканина супрем</li>
-<li>Комплект складається з футболки та шортів</li>
-<li>Футболка з короткими рукавами та круглим вирізом горловини</li>
-<li>Шорти з еластичним поясом для комфортної посадки</li>
-</ul>
-<p><strong>Рекомендації з догляду:</strong></p>
-<ul>
-<li>Машинне прання за температури 30°C</li>
-<li>Не сушити в сушильній машині</li>
-<li>Не вибілювати</li>
-<li>Не піддавати хімічному чищенню</li>
-</ul>]]></description_ua>
-				<article>06770311035.EH0</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008435">
-					<![CDATA[Коричневый]]></param>
-				<param name="Зріст" paramid="131587" valueid="1014021">
-					<![CDATA[80]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416544">
-					<![CDATA[1 год]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[95% хлопок, 5% эластан]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[KS770-EH0]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1501800">
-					<![CDATA[Супрем]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4824045026087]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[KS770-EH0]]></param>
 				<param name="Кількість предметів" paramid="92802" valueid="476428">
 					<![CDATA[2]]></param>
 				<param name="Довжина рукава" paramid="105869" valueid="638457">
@@ -114143,7 +114063,7 @@
 			</offer>
 			<offer available="true" id="45617632">
 				<price>169</price>
-				<stock_quantity>23</stock_quantity>
+				<stock_quantity>22</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636535</categoryId>
 				<name>Детская водолазка-гольф для мальчика Бемби ГФ1 80 см Голубой (02001001135.400)</name>
@@ -115414,7 +115334,7 @@
 			</offer>
 			<offer available="true" id="45637576">
 				<price>215</price>
-				<stock_quantity>59</stock_quantity>
+				<stock_quantity>58</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби МК6 128 см Белая (10006021243.100)</name>
