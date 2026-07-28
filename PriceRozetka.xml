@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-28 12:08">
+<yml_catalog date="2026-07-28 18:07">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -36382,7 +36382,7 @@
 			</offer>
 			<offer available="true" id="350595060">
 				<price>239</price>
-				<stock_quantity>6</stock_quantity>
+				<stock_quantity>5</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-боксеры для мальчика Бемби TR42-Y00 158 см Черные (4823109696259)</name>
@@ -40665,7 +40665,7 @@
 			</offer>
 			<offer available="true" id="350595441">
 				<price>225</price>
-				<stock_quantity>26</stock_quantity>
+				<stock_quantity>16</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-боксеры для мальчика Бемби TR46-R00 158 см Бирюзовые (4823109695337)</name>
@@ -47413,7 +47413,7 @@
 			</offer>
 			<offer available="true" id="363518664">
 				<price>239</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-боксеры для мальчика Бемби ТР42-400 158 см (22042011071.400)</name>
@@ -47454,7 +47454,7 @@
 			</offer>
 			<offer available="true" id="363518667">
 				<price>239</price>
-				<stock_quantity>24</stock_quantity>
+				<stock_quantity>19</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-боксеры для мальчика Бемби ТР42-800 158 см (22042011071.800)</name>
@@ -47521,7 +47521,7 @@
 			</offer>
 			<offer available="true" id="363518685">
 				<price>239</price>
-				<stock_quantity>7</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-боксеры для мальчика Бемби ТР42-R00 158 см (22042011071.R00)</name>
@@ -120419,7 +120419,7 @@
 			</offer>
 			<offer available="true" id="495736924">
 				<price>235</price>
-				<stock_quantity>13</stock_quantity>
+				<stock_quantity>8</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-боксеры для мальчика Бемби TR47-V01 158 см Хаки (22047011071.V01)</name>
