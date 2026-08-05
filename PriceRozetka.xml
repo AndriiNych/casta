@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-04 20:08">
+<yml_catalog date="2026-08-05 12:10">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -3830,7 +3830,7 @@
 			</offer>
 			<offer available="true" id="244945051">
 				<price>545</price>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>7</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив для мальчика Бемби FB723 800 134 см Синий (24723001244.800)</name>
@@ -5735,7 +5735,7 @@
 			<offer available="true" id="269505251">
 				<price>99</price>
 				<price_old>350</price_old>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636911</categoryId>
 				<name>Подростковая юбка для девочки Бемби UB106 140 см Разноцветная (36106026645.801)</name>
@@ -10476,7 +10476,7 @@
 			</offer>
 			<offer available="true" id="309767488">
 				<price>459</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637055</categoryId>
 				<name>Детская водолазка-гольф для девочки Бемби City collection GF120-900 134 см Розовая (02120021144.900)</name>
@@ -29282,7 +29282,7 @@
 			</offer>
 			<offer available="true" id="332868712">
 				<price>139</price>
-				<stock_quantity>43</stock_quantity>
+				<stock_quantity>33</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668211</categoryId>
 				<name>Детские трусы-слипы для девочки Бемби TR16-100 128 см Белые (4823116405318)</name>
@@ -29400,7 +29400,7 @@
 			</offer>
 			<offer available="true" id="332868736">
 				<price>139</price>
-				<stock_quantity>32</stock_quantity>
+				<stock_quantity>22</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668211</categoryId>
 				<name>Детские трусы-слипы для девочки Бемби TR16-100 134 см Белые (4823116405325)</name>
@@ -29516,7 +29516,7 @@
 			</offer>
 			<offer available="true" id="332868742">
 				<price>139</price>
-				<stock_quantity>49</stock_quantity>
+				<stock_quantity>39</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668211</categoryId>
 				<name>Подростковые трусы-слипы для девочки Бемби TR16-100 140 см Белые (4823116405332)</name>
@@ -33563,7 +33563,7 @@
 			</offer>
 			<offer available="true" id="350594730">
 				<price>185</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-слипы для мальчика Бемби TR5-W00 158 см Светло-серые (4823109697713)</name>
@@ -37879,7 +37879,7 @@
 			</offer>
 			<offer available="true" id="350595198">
 				<price>219</price>
-				<stock_quantity>12</stock_quantity>
+				<stock_quantity>10</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-слипы для мальчика Бемби TR43-Y00 158 см Черные (4823109696969)</name>
@@ -59731,7 +59731,7 @@
 			<offer available="true" id="393603984">
 				<price>549</price>
 				<price_old>714</price_old>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637119</categoryId>
 				<name>Детское теплое худи для девочки Бемби ДЖ335-200 104 см Молочное (35335422239.200)</name>
@@ -60272,7 +60272,7 @@
 			<offer available="true" id="393611259">
 				<price>1099</price>
 				<price_old>2210</price_old>
-				<stock_quantity>9</stock_quantity>
+				<stock_quantity>7</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635447</categoryId>
 				<name>Детская демисезонная куртка для девочки Бемби КТ315-K00 134 см Коралловая (33315423344.K00)</name>
@@ -63073,7 +63073,7 @@
 			<offer available="true" id="393612642">
 				<price>619</price>
 				<price_old>805</price_old>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636575</categoryId>
 				<name>Детское теплое худи для мальчика Бемби ДЖ330-HY0 134 см Коричневый/Черный (35330412244.HY0)</name>
@@ -75392,53 +75392,6 @@
 				<param name="Керування новою колекцією" paramid="248698" valueid="4614846">
 					<![CDATA[март 2024]]></param>
 			</offer>
-			<offer available="true" id="420207561">
-				<price>259</price>
-				<price_old>389</price_old>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4636407</categoryId>
-				<name>Подростковая футболка для мальчика Бемби FB979-E00 146 см Охра (24979311068.E00)</name>
-				<name_ua>Підліткова футболка для хлопчика Бембі FB979-E00 146 см Охра (24979311068.E00)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/fb979(10)_01(e00)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/fb979(10)_01(e00)2a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/fb979(10)_01(e00)1b.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Футболка от украинского бренда <strong>Бемби</strong> &mdash; это стильный, удобный и качественный элемент гардероба на каждый день. Удобный крой не сковывает движений, а мягкая ткань дарит чувство комфорта. Практичная модель отлично подойдет для создания стильного повседневного образа.</p> <p><strong>Детали:</strong></p> <ul> <li>Состав:&nbsp;95% хлопок, 5% эластан</li> <li>Легкая и дышащая ткань супрем</li> <li>Круглый вырез горловины</li> <li>Качественный принт выдерживает многократную стирку</li> </ul> <p><strong>Рекомендации по уходу:</strong></p> <ul> <li>Машинная стирка при температуре 30&deg;C</li> <li>Не сушить в сушильной машине</li> <li>Не отбеливать</li> <li>Не подвергать химической чистке</li> </ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Футболка від українського бренду <strong>Бембі</strong> - це стильний, зручний і якісний елемент гардероба на кожен день. Зручний крій не сковує рухів, а м&#039;яка тканина дарує відчуття комфорту. Практична модель відмінно підійде для створення стильного повсякденного образу.</p> <p><strong>Деталі:</strong></p> <ul> <li>Склад: 95% бавовна, 5% еластан</li> <li>Легка і дихаюча тканина супрем</li> <li>Круглий виріз горловини</li> <li>Якісний принт витримує багаторазове прання</li> </ul> <p><strong>Рекомендації з догляду:</strong></p> <ul> <li>Машинне прання за температури 30&deg;C</li> <li>Не сушити в сушильній машині</li> <li>Не вибілювати</li> <li>Не піддавати хімічному чищенню</li> </ul>]]></description_ua>
-				<article>24979311068.E00</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1010339">
-					<![CDATA[Оранжевый]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013111">
-					<![CDATA[146]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416632">
-					<![CDATA[11 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[95% хлопок, 5% эластан]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[FB979-E00]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1501800">
-					<![CDATA[Супрем]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4824045025196]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[FB979-E00]]></param>
-				<param name="Кількість предметів" paramid="92802" valueid="475520">
-					<![CDATA[1]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4614846">
-					<![CDATA[март 2024]]></param>
-			</offer>
 			<offer available="true" id="420207579">
 				<price>269</price>
 				<price_old>399</price_old>
@@ -75554,6 +75507,53 @@
 					<![CDATA[4824045013827]]></param>
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[FB981-810]]></param>
+				<param name="Кількість предметів" paramid="92802" valueid="475520">
+					<![CDATA[1]]></param>
+				<param name="Керування новою колекцією" paramid="248698" valueid="4614846">
+					<![CDATA[март 2024]]></param>
+			</offer>
+			<offer available="true" id="420207708">
+				<price>279</price>
+				<price_old>399</price_old>
+				<stock_quantity>1</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4636407</categoryId>
+				<name>Детская футболка для мальчика Бемби FB983-V00 116 см Хаки (24983511041.V00)</name>
+				<name_ua>Дитяча футболка для хлопчика Бембі FB983-V00 116 см Хакі (24983511041.V00)</name_ua>
+				<picture>https://shop.bembi.ua/uploads/products/fb983(10)_01(v00)1a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/fb983(10)_01(v00)2a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/fb983(10)_01(v00)1b.jpg</picture>
+				<vendor>Бемби</vendor>
+				<state>new</state>
+				<description>
+					<![CDATA[<p>Футболка для мальчиков от украинского бренда <strong>Бемби</strong> &mdash; это стильный, удобный и качественный элемент гардероба на каждый день. Удобный крой не сковывает движений, а мягкая ткань дарит чувство комфорта. Практичная модель отлично подойдет для создания стильного повседневного образа.</p> <p><strong>Детали:</strong></p> <ul> <li>Состав: 95% хлопок, 5% эластан</li> <li>Легкая и дышащая ткань супрем</li> <li>Круглый вырез горловины</li> <li>Накладной карман слева на груди</li> </ul> <p><strong>Рекомендации по уходу:</strong></p> <ul> <li>Машинная стирка при температуре 30&deg;C</li> <li>Не сушить в сушильной машине</li> <li>Не отбеливать</li> <li>Не подвергать химической чистке</li> </ul>]]></description>
+				<description_ua>
+					<![CDATA[<p>Футболка для хлопчиків від українського бренду <strong>Бембі</strong> - це стильний, зручний і якісний елемент гардероба на кожен день. Зручний крій не сковує рухів, а м&#039;яка тканина дарує відчуття комфорту. Практична модель відмінно підійде для створення стильного повсякденного образу.</p> <p><strong>Деталі:</strong></p> <ul> <li>Склад: 95% бавовна, 5% еластан</li> <li>Легка і дихаюча тканина супрем</li> <li>Круглий виріз горловини</li> <li>Накладна кишеня зліва на грудях</li> </ul> <p><strong>Рекомендації з догляду:</strong></p> <ul> <li>Машинне прання за температури 30&deg;C</li> <li>Не сушити в сушильній машині</li> <li>Не вибілювати</li> <li>Не піддавати хімічному чищенню</li> </ul>]]></description_ua>
+				<article>24983511041.V00</article>
+				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
+					<![CDATA[Украина]]></param>
+				<param name="Колір" paramid="131559" valueid="1008757">
+					<![CDATA[Хаки]]></param>
+				<param name="Зріст" paramid="131587" valueid="1013636">
+					<![CDATA[116]]></param>
+				<param name="Дитячий вік" paramid="151000" valueid="1416592">
+					<![CDATA[6 лет]]></param>
+				<param name="Код УКТ ЗЕД" paramid="82508">
+					<![CDATA[6209200000]]></param>
+				<param name="Склад" paramid="131615">
+					<![CDATA[95% хлопок, 5% эластан]]></param>
+				<param name="Модель для групування (МДГ)" paramid="215080">
+					<![CDATA[FB983-V00]]></param>
+				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+					<![CDATA[1]]></param>
+				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
+					<![CDATA[Украина]]></param>
+				<param name="Матеріал" paramid="131573" valueid="1501800">
+					<![CDATA[Супрем]]></param>
+				<param name="EAN" paramid="26294">
+					<![CDATA[4824045025547]]></param>
+				<param name="Артикул моделі" paramid="256977">
+					<![CDATA[FB983-V00]]></param>
 				<param name="Кількість предметів" paramid="92802" valueid="475520">
 					<![CDATA[1]]></param>
 				<param name="Керування новою колекцією" paramid="248698" valueid="4614846">
@@ -87443,7 +87443,7 @@
 			<offer available="true" id="430960187">
 				<price>479</price>
 				<price_old>847</price_old>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636911</categoryId>
 				<name>Подростковая юбка для девочки Бемби Rythm Of Nature UB118-G00 140 см Бежевая (36118527545.G00)</name>
@@ -89673,7 +89673,7 @@
 			<offer available="true" id="440607545">
 				<price>499</price>
 				<price_old>799</price_old>
-				<stock_quantity>10</stock_quantity>
+				<stock_quantity>9</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636759</categoryId>
 				<name>Детская блузка для девочки Бемби RB199-200 134 см Молочная (19199725444.200)</name>
@@ -92695,48 +92695,6 @@
 					<![CDATA[PL415-201]]></param>
 				<param name="Довжина рукава" paramid="105869" valueid="638464">
 					<![CDATA[С длинными рукавами]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4689353">
-					<![CDATA[июль 2024]]></param>
-			</offer>
-			<offer available="true" id="441954737">
-				<price>749</price>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4636903</categoryId>
-				<name>Детский вельветовый сарафан для девочки Бемби SF159-R00 92 см Бирюзовый (20159522837.R00)</name>
-				<name_ua>Дитячий вельветовий сарафан для дівчинки Бембі SF159-R00 92 см Бірюзовий (20159522837.R00)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/sf159(28)_01(r00)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/sf159(28)_01(r00)1b.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/sf159(28)_01(r00)c.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Стильный и удобный вельветовый сарафан от украинского бренда <strong>Бемби</strong> станет отличным выбором для любой девочки. Выполненный из 100% хлопка, этот сарафан отличается мягкостью и высоким качеством ткани. Универсальный дизайн сарафана позволяет сочетать его с различными блузками и водолазками, создавая стильные и удобные образы для прогулок и праздников.</p> <p><strong>Детали:</strong></p> <ul> <li>Состав: 100% хлопок</li> <li>Мягкий и приятный на ощупь микровельвет</li> <li>Круглый вырез горловины</li> <li>Застегивается на пуговицы на спине</li> </ul> <p><strong>Рекомендации по уходу:</strong></p> <ul> <li>Машинная стирка при температуре 30&deg;C</li> <li>Не сушить в сушильной машине</li> <li>Не отбеливать</li> <li>Не подвергать химической чистке</li> </ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Стильний і зручний вельветовий сарафан від українського бренду <strong>Бембі</strong> стане відмінним вибором для будь-якої дівчинки. Виконаний зі 100% бавовни, цей сарафан вирізняється м&#039;якістю та високою якістю тканини. Універсальний дизайн сарафана дає змогу поєднувати його з різними блузками та водолазками, створюючи стильні та зручні образи для прогулянок і свят.</p> <p><strong>Деталі:</strong></p> <ul> <li>Склад: 100% бавовна</li> <li>М&#039;який і приємний на дотик мікровельвет</li> <li>Круглий виріз горловини</li> <li>Застібається на ґудзики на спині</li> </ul> <p><strong>Рекомендації щодо догляду:</strong></p> <ul> <li>Машинне прання за температури 30&deg;C</li> <li>Не сушити в сушильній машині</li> <li>Не вибілювати</li> <li>Не піддавати хімічному чищенню</li> </ul>]]></description_ua>
-				<article>20159522837.R00</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008526">
-					<![CDATA[Бирюзовый]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013664">
-					<![CDATA[92]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416560">
-					<![CDATA[2 года]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[100% хлопок]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[SF159-R00]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4824045031586]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[SF159-R00]]></param>
 				<param name="Керування новою колекцією" paramid="248698" valueid="4689353">
 					<![CDATA[июль 2024]]></param>
 			</offer>
@@ -99442,7 +99400,7 @@
 			<offer available="true" id="448293107">
 				<price>469</price>
 				<price_old>610</price_old>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>7</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636559</categoryId>
 				<name>Детский теплый свитшот для мальчика Бемби DJ353-H01 80 см Коричневый (35353412235.H01)</name>
@@ -100527,7 +100485,7 @@
 			<offer available="true" id="448293347">
 				<price>510</price>
 				<price_old>663</price_old>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>7</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637103</categoryId>
 				<name>Детский теплый свитшот для девочки Бемби DJ360-G00 110 см Бежевый (35360422240.G00)</name>
@@ -102311,7 +102269,7 @@
 			</offer>
 			<offer available="true" id="453568349">
 				<price>575</price>
-				<stock_quantity>14</stock_quantity>
+				<stock_quantity>13</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637055</categoryId>
 				<name>Детский теплый водолазка-гольф в полоску для девочки Бемби GF2-X32 134 см Серый/Розовый (02002001744.X32)</name>
@@ -103753,7 +103711,7 @@
 			</offer>
 			<offer available="true" id="453569090">
 				<price>1400</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636311</categoryId>
 				<name>Подростковая льняная вышиванка для мальчика Бемби RB171-206 140 см Молочная (19171703845.206)</name>
@@ -117850,7 +117808,7 @@
 			</offer>
 			<offer available="true" id="467791189">
 				<price>635</price>
-				<stock_quantity>30</stock_quantity>
+				<stock_quantity>29</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635623</categoryId>
 				<name>Детское боди-платье для новорожденных девочек Бемби BD222-200 62 см Молочное (01222727432.200)</name>
