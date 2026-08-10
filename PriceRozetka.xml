@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-10 12:10">
+<yml_catalog date="2026-08-10 18:07">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -2574,7 +2574,7 @@
 			</offer>
 			<offer available="true" id="234345049">
 				<price>669</price>
-				<stock_quantity>22</stock_quantity>
+				<stock_quantity>20</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636999</categoryId>
 				<name>Подростковые школьные брюки для девочки Бемби SHR654-800 146 см Синие (26654025768.800)</name>
@@ -6132,7 +6132,7 @@
 			</offer>
 			<offer available="true" id="270463206">
 				<price>229</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>34</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Подростковая майка для девочки Бемби МК4 100 146 см Белая (10004021268.100)</name>
@@ -12181,7 +12181,7 @@
 			</offer>
 			<offer available="true" id="309768608">
 				<price>769</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636999</categoryId>
 				<name>Подростковые школьные брюки для девочки Бемби City collection SHR654-800 152 см (26654025770.800)</name>
@@ -12220,7 +12220,7 @@
 			</offer>
 			<offer available="true" id="309768873">
 				<price>769</price>
-				<stock_quantity>25</stock_quantity>
+				<stock_quantity>22</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636999</categoryId>
 				<name>Подростковые школьные брюки для девочки Бемби City collection SHR654-800 158 см (26654025771.800)</name>
@@ -42502,7 +42502,7 @@
 			<offer available="true" id="352033971">
 				<price>629</price>
 				<price_old>818</price_old>
-				<stock_quantity>11</stock_quantity>
+				<stock_quantity>9</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636231</categoryId>
 				<name>Детские джинсы на резинке для мальчика Бемби SHR789-800 98 см Синие (4823116453678)</name>
@@ -111492,7 +111492,7 @@
 			</offer>
 			<offer available="true" id="45637376">
 				<price>169</price>
-				<stock_quantity>12</stock_quantity>
+				<stock_quantity>42</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби МК4 98 см Белая (10004021238.100)</name>
@@ -111632,7 +111632,7 @@
 			</offer>
 			<offer available="true" id="45637392">
 				<price>199</price>
-				<stock_quantity>13</stock_quantity>
+				<stock_quantity>8</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби МК4 104 см Белая (10004021239.100)</name>
@@ -111772,7 +111772,7 @@
 			</offer>
 			<offer available="true" id="45637416">
 				<price>199</price>
-				<stock_quantity>43</stock_quantity>
+				<stock_quantity>38</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби МК4 110 см Белая (10004021240.100)</name>
@@ -111912,7 +111912,7 @@
 			</offer>
 			<offer available="true" id="45637448">
 				<price>199</price>
-				<stock_quantity>11</stock_quantity>
+				<stock_quantity>36</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби МК4 116 см Белая (10004021241.100)</name>
@@ -112052,7 +112052,7 @@
 			</offer>
 			<offer available="true" id="45637464">
 				<price>199</price>
-				<stock_quantity>28</stock_quantity>
+				<stock_quantity>33</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби МК4 122 см Белая (10004021242.100)</name>
@@ -112192,7 +112192,7 @@
 			</offer>
 			<offer available="true" id="45637480">
 				<price>229</price>
-				<stock_quantity>40</stock_quantity>
+				<stock_quantity>35</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби МК4 128 см Белая (10004021243.100)</name>
@@ -112332,7 +112332,7 @@
 			</offer>
 			<offer available="true" id="45637496">
 				<price>229</price>
-				<stock_quantity>15</stock_quantity>
+				<stock_quantity>41</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби МК4 134 см Белая (10004021244.100)</name>
@@ -112402,7 +112402,7 @@
 			</offer>
 			<offer available="true" id="45637512">
 				<price>229</price>
-				<stock_quantity>49</stock_quantity>
+				<stock_quantity>47</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Подростковая майка для девочки Бемби МК4 140 см Белая (10004021245.100)</name>
