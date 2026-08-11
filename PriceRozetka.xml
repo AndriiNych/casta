@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-11 12:08">
+<yml_catalog date="2026-08-11 18:09">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -32281,7 +32281,7 @@
 			</offer>
 			<offer available="true" id="350594646">
 				<price>149</price>
-				<stock_quantity>55</stock_quantity>
+				<stock_quantity>54</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Детские трусы-слипы для мальчика Бемби TR5-W00 116 см Светло-серые (4823109697645)</name>
@@ -40513,7 +40513,7 @@
 			</offer>
 			<offer available="true" id="350595429">
 				<price>225</price>
-				<stock_quantity>27</stock_quantity>
+				<stock_quantity>26</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-боксеры для мальчика Бемби TR46-R00 152 см Бирюзовые (4823109695320)</name>
@@ -57198,8 +57198,7 @@
 					<![CDATA[Рубашки]]></param>
 			</offer>
 			<offer available="true" id="393600588">
-				<price>1225</price>
-				<price_old>2451</price_old>
+				<price>2451</price>
 				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635463</categoryId>
@@ -93725,7 +93724,8 @@
 					<![CDATA[июль 2024]]></param>
 			</offer>
 			<offer available="true" id="444670424">
-				<price>1799</price>
+				<price>1249</price>
+				<price_old>1799</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637047</categoryId>
