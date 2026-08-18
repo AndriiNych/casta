@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-17 18:07">
+<yml_catalog date="2026-08-18 12:10">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -6106,7 +6106,7 @@
 			</offer>
 			<offer available="true" id="270463216">
 				<price>219</price>
-				<stock_quantity>25</stock_quantity>
+				<stock_quantity>10</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668271</categoryId>
 				<name>Подростковая майка для мальчика Бемби МК7 100 146 см Белая (10007011268.100)</name>
@@ -9794,46 +9794,6 @@
 				<param name="Керування новою колекцією" paramid="248698" valueid="4119053">
 					<![CDATA[июль 2021]]></param>
 			</offer>
-			<offer available="true" id="309767223">
-				<price>489</price>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4636535</categoryId>
-				<name>Детская водолазка-гольф для мальчика Бемби City collection GF118-X00 128 см (02118011043.X00)</name>
-				<name_ua>Дитяча водолазка-гольф для хлопчика Бемби City collection GF118-X00 128 см (02118011043.X00)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/gf118(41)_01(x00)a.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Детская водолазка-гольф из коллекции <strong>Бемби</strong>. Модель выполнена из материала супрем. Незаменимая вещь в гардеробе вашего ребенка. Базовая модель сочетается с любым низом. Выглядит стильно и аккуратно.</p><p><strong>Особенности</strong>:</p><ul><li>Прямой крой.</li><li>Однотонный гольф.</li><li>Эластичные манжеты.</li><li>Небольшой воротник-стойка.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Машинная стирка при температуре 30&deg;C. Режим обычный.</li><li>Не отбеливать.</li><li>Сушка без отжима в вертикальном положении.</li><li>Гладить при температуре до 110&deg;C.</li><li>Запрещено сушить в барабане.</li></ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Дитяча водолазка-гольф із колекції <strong>Бембі</strong>. Модель виконана з матеріалу супрем. Незамінна річ у гардеробі вашої дитини. Базова модель поєднується з будь-яким низом. Виглядає стильно й акуратно.</p><p><strong>Особливості</strong>:</p><ul><li>Прямий крій.</li><li>Однотонний гольф.</li><li>Еластичні манжети.</li><li>Невеликий комір-стійка.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Машинне прання за температури 30&deg;C. Режим звичайний.</li><li>Не відбілювати.</li><li>Сушка без віджимання у вертикальному положенні.</li><li>Прасувати за температури до 110&deg;C.</li><li>Заборонено сушити в барабані.</li></ul>]]></description_ua>
-				<article>02118011043.X00</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1010395">
-					<![CDATA[Молочный]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013608">
-					<![CDATA[128]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416608">
-					<![CDATA[8 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[хлопок 95%, эластан 5%]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[GF118-X00]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1501800">
-					<![CDATA[Супрем]]></param>
-				<param name="Кількість предметів" paramid="92802" valueid="475520">
-					<![CDATA[1]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4119053">
-					<![CDATA[июль 2021]]></param>
-			</offer>
 			<offer available="true" id="309767238">
 				<price>489</price>
 				<stock_quantity>2</stock_quantity>
@@ -10155,6 +10115,49 @@
 					<![CDATA[Интерлок]]></param>
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[City collection GF120-900]]></param>
+				<param name="Кількість предметів" paramid="92802" valueid="475520">
+					<![CDATA[1]]></param>
+				<param name="Керування новою колекцією" paramid="248698" valueid="4119053">
+					<![CDATA[июль 2021]]></param>
+			</offer>
+			<offer available="true" id="309767448">
+				<price>459</price>
+				<stock_quantity>1</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4637055</categoryId>
+				<name>Детская водолазка-гольф для девочки Бемби City collection GF120-100 122 см Белая (02120021142.100)</name>
+				<name_ua>Дитяча водолазка-гольф для дівчинки Бемби City collection GF120-100 122 см Біла (02120021142.100)</name_ua>
+				<picture>https://shop.bembi.ua/uploads/products/gf120(41)_01(100)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/gf120(41)_01(100)b.jpg</picture>
+				<vendor>Бемби</vendor>
+				<state>new</state>
+				<description>
+					<![CDATA[<p>Детская водолазка-гольф из коллекции <strong>Бемби</strong>. Модель выполнена из материала интерлок. Незаменимая вещь в гардеробе вашего ребенка. Базовая водолазка сочетается с любым низом.</p><p><strong>Особенности</strong>:</p><ul><li>Высокий воротник-стойка.</li><li>Обработано опрятным оверложным швом.</li><li>Модель имеет нежную текстуру, что очень приятно на ощупь.</li><li>Простой и лаконичный дизайн, который хорошо сочетается с другими вещами из гардероба.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Машинная стирка при температуре 30&deg;C. Режим обычный.</li><li>Не отбеливать.</li><li>Сушка без отжима в вертикальном положении.</li><li>Гладить при температуре до 110&deg;C.</li><li>Запрещено сушить в барабане.</li></ul>]]></description>
+				<description_ua>
+					<![CDATA[<p>Дитяча водолазка-гольф із колекції <strong>Бембі</strong>. Модель виконана з матеріалу інтерлок. Незамінна річ у гардеробі вашої дитини. Базова водолазка поєднується з будь-яким низом.</p><p><strong>Особливості</strong>:</p><ul><li>Високий комір-стійка.</li><li>Оброблено охайним оверложним швом.</li><li>Модель має ніжну текстуру, що дуже приємно на дотик.</li><li>Простий і лаконічний дизайн, який добре поєднується з іншими речами з гардероба.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Машинне прання за температури 30&deg;C. Режим звичайний.</li><li>Не відбілювати.</li><li>Сушка без віджимання у вертикальному положенні.</li><li>Прасувати за температури до 110&deg;C.</li><li>Заборонено сушити в барабані.</li></ul>]]></description_ua>
+				<article>02120021142.100</article>
+				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
+					<![CDATA[Украина]]></param>
+				<param name="Колір" paramid="131559" valueid="1008176">
+					<![CDATA[Белый]]></param>
+				<param name="Зріст" paramid="131587" valueid="1013160">
+					<![CDATA[122]]></param>
+				<param name="Дитячий вік" paramid="151000" valueid="1416600">
+					<![CDATA[7 лет]]></param>
+				<param name="Код УКТ ЗЕД" paramid="82508">
+					<![CDATA[6209200000]]></param>
+				<param name="Склад" paramid="131615">
+					<![CDATA[хлопок 100%]]></param>
+				<param name="Модель для групування (МДГ)" paramid="215080">
+					<![CDATA[GF120-100]]></param>
+				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+					<![CDATA[1]]></param>
+				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
+					<![CDATA[Украина]]></param>
+				<param name="Матеріал" paramid="131573" valueid="1236383">
+					<![CDATA[Интерлок]]></param>
+				<param name="Артикул моделі" paramid="256977">
+					<![CDATA[City collection GF120-100]]></param>
 				<param name="Кількість предметів" paramid="92802" valueid="475520">
 					<![CDATA[1]]></param>
 				<param name="Керування новою колекцією" paramid="248698" valueid="4119053">
@@ -13166,7 +13169,7 @@
 			</offer>
 			<offer available="true" id="324180904">
 				<price>235</price>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668271</categoryId>
 				<name>Подростковая майка для мальчика Бемби MK7-100 152 см Белая (10007011270.100)</name>
@@ -13204,7 +13207,7 @@
 			</offer>
 			<offer available="true" id="324180907">
 				<price>235</price>
-				<stock_quantity>9</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668271</categoryId>
 				<name>Подростковая майка для мальчика Бемби MK7-100 158 см Белая (10007011271.100)</name>
@@ -18260,49 +18263,6 @@
 				<param name="Вид" paramid="223602" valueid="5207025">
 					<![CDATA[Топы]]></param>
 			</offer>
-			<offer available="true" id="330228553">
-				<price>145</price>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4668223</categoryId>
-				<name>Подростковый топ для девочки Бемби MK20 (100) 146 см Белый (10020021068.100)</name>
-				<name_ua>Підлітковий топ для дівчинки Бембі MK20 (100) 146 см Білий (10020021068.100)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/mk20(10)_01(100)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/mk20(10)_01(100)1b.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Детская укороченная майка для девочек универсального цвета от бренда <strong>Бемби</strong>. Модель отшита из ткани супрем. Майка довольно универсальная, её можно носить дома, под одеждой, чтобы согреться в холодную пору или во время ночного отдыха.</p><p><strong>Особенности</strong>:</p><ul><li>Модель создана из хлопкового материала, который идеально подходит для детей.</li><li>Нижнее белье из натурального хлопка экологичное, не вызывает аллергических реакций и очень приятно к телу. Такие свойства ткани особенно важны для нижнего белья, поскольку оно длительный период времени контактирует с кожей.</li><li>Хлопковые волокна, по своей природе очень, очень мягкие.</li><li>Такая ткань не натирает, прекрасно впитывает влагу, проводит тепло и легко стирается.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Ручная или машинная стирка при температуре 30℃.</li><li>Использовать мягкое средство для стирки и кондиционер для белья.</li><li>Изделие должно быть вывернуто наизнанку, отсортировано по цветному принципу.</li><li>Гладить с изнаночной стороны.</li></ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Дитяча укорочена майка для дівчаток універсального кольору від бренду <strong>Бембі</strong>. Модель відшита з тканини супрем. Майка досить універсальна, її можна носити вдома, під одягом, щоб зігрітися в холодну пору або під час нічного відпочинку.</p><p><strong>Особливості</strong>:</p><ul><li>Модель створена з бавовняного матеріалу, який ідеально підходить для дітей.</li><li>Нижня білизна з натуральної бавовни екологічна, не викликає алергічних реакцій і дуже приємна до тіла. Такі властивості тканини особливо важливі для нижньої білизни, оскільки вона тривалий період часу контактує зі шкірою.</li><li>Бавовняні волокна, за своєю природою дуже, дуже м&#039;які.</li><li>Така тканина не натирає, прекрасно вбирає вологу, проводить тепло і легко переться.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Ручне чи машинне прання за температури 30℃.</li><li>Використовувати м&#039;який засіб для прання та кондиціонер для білизни.</li><li>Виріб повинен бути вивернутий навиворіт, відсортований за кольоровим принципом.</li><li>Прасувати з виворітного боку.</li></ul>]]></description_ua>
-				<article>10020021068.100</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008176">
-					<![CDATA[Белый]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013111">
-					<![CDATA[146]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416632">
-					<![CDATA[11 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[100% хлопок]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[MK20-100]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4823116401136]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[MK20]]></param>
-				<param name="Кількість предметів" paramid="92802" valueid="475520">
-					<![CDATA[1]]></param>
-				<param name="Вид" paramid="223602" valueid="5207025">
-					<![CDATA[Топы]]></param>
-			</offer>
 			<offer available="true" id="330228556">
 				<price>145</price>
 				<stock_quantity>29</stock_quantity>
@@ -18369,75 +18329,6 @@
 					<![CDATA[4823116401211]]></param>
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[MK20 (900)]]></param>
-				<param name="Кількість предметів" paramid="92802" valueid="475520">
-					<![CDATA[1]]></param>
-				<param name="Вид" paramid="223602" valueid="5207025">
-					<![CDATA[Топы]]></param>
-			</offer>
-			<offer available="true" id="330228559">
-				<price>145</price>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4668223</categoryId>
-				<name>Подростковый топ для девочки Бемби MK20 (I00) 146 см Абрикосовый (10020021068.I00)</name>
-				<name_ua>Підлітковий топ для дівчинки Бембі MK20 (I00) 146 см Абрикосовий (10020021068.I00)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/mk20(10)_01(i00)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/mk20(10)_01(i00)1b.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Детская короткая майка для девочек универсального цвета от бренда <strong>Бемби</strong>. Модель отшита из ткани супрем. Майка довольно универсальная, её можно носить дома, под одеждой, чтобы согреться в холодную пору или во время ночного отдыха.</p>
-<p><strong>Особенности</strong>:</p>
-<ul>
-<li>Модель создана из хлопкового материала, который идеально подходит для детей.</li>
-<li>Нижнее белье из натурального хлопка экологичное, не вызывает аллергических реакций и очень приятно к телу. Такие свойства ткани особенно важны для нижнего белья, поскольку оно длительный период времени контактирует с кожей.</li>
-<li>Такая ткань не натирает, прекрасно впитывает влагу, проводит тепло и легко стирается.</li>
-</ul>
-<p><strong>Рекомендации по уходу:</strong></p>
-<ul>
-<li>Ручная или машинная стирка при температуре 30℃.</li>
-<li>Использовать мягкое средство для стирки и кондиционер для белья.</li>
-<li>Изделие должно быть вывернуто наизнанку, отсортировано по цветному принципу.</li>
-<li>Гладить с изнаночной стороны.</li>
-</ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Дитяча коротка майка для дівчаток універсального кольору від бренду <strong>Бембі</strong>. Модель відшита з тканини супрем. Майка досить універсальна, її можна носити вдома, під одягом, щоб зігрітися в холодну пору або під час нічного відпочинку.</p>
-<p><strong>Особливості</strong>:</p>
-<ul>
-<li>Модель створена з бавовняного матеріалу, який ідеально підходить для дітей.</li>
-<li>Нижня білизна з натуральної бавовни екологічна, не викликає алергічних реакцій і дуже приємна до тіла. Такі властивості тканини особливо важливі для нижньої білизни, оскільки вона тривалий період часу контактує зі шкірою.</li>
-<li>Така тканина не натирає, прекрасно вбирає вологу, проводить тепло і легко переться.</li>
-</ul>
-<p><strong>Рекомендації щодо догляду:</strong></p>
-<ul>
-<li>Ручне чи машинне прання за температури 30℃.</li>
-<li>Використовувати м&#039;який засіб для прання та кондиціонер для білизни.</li>
-<li>Виріб повинен бути вивернутий навиворіт, відсортований за кольоровим принципом.</li>
-<li>Прасувати з виворітного боку.</li>
-</ul>]]></description_ua>
-				<article>10020021068.I00</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1273448">
-					<![CDATA[Бледный лососевый]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013111">
-					<![CDATA[146]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416632">
-					<![CDATA[11 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[100% хлопок]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[MK20-I00]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4823116401297]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[MK20 (I00)]]></param>
 				<param name="Кількість предметів" paramid="92802" valueid="475520">
 					<![CDATA[1]]></param>
 				<param name="Вид" paramid="223602" valueid="5207025">
@@ -19050,78 +18941,9 @@
 				<param name="Вид" paramid="223602" valueid="5207025">
 					<![CDATA[Топы]]></param>
 			</offer>
-			<offer available="true" id="330228622">
-				<price>139</price>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4668223</categoryId>
-				<name>Подростковый топ для девочки Бемби MK21 (900) 140 см Светло-розовый (10021021045.900)</name>
-				<name_ua>Підлітковий топ для дівчинки Бембі MK21 (900) 140 см Світло-рожевий (10021021045.900)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/mk21(10)_01(900)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/mk21(10)_01(900)1b.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Детская короткая майка для девочек универсального цвета от бренда <strong>Бемби</strong>. Модель отшита из материала супрем. Майка довольно универсальная, её можно носить дома, под одеждой, чтобы согреться в холодную пору или во время ночного отдыха.</p>
-<p><strong>Особенности</strong>:</p>
-<ul>
-<li>Модель создана из материала, который идеально подходит для детей.</li>
-<li>Нижнее белье из натурального хлопка экологичное, не вызывает аллергических реакций и очень приятно к телу. Такие свойства ткани особенно важны для нижнего белья, поскольку оно длительный период времени контактирует с кожей.</li>
-<li>Такая ткань не натирает, прекрасно впитывает влагу, проводит тепло и легко стирается.</li>
-</ul>
-<p><strong>Рекомендации по уходу:</strong></p>
-<ul>
-<li>Ручная или машинная стирка при температуре 30℃.</li>
-<li>Использовать мягкое средство для стирки и кондиционер для белья.</li>
-<li>Изделие должно быть вывернуто наизнанку, отсортировано по цветному принципу.</li>
-<li>Гладить с изнаночной стороны.</li>
-</ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Дитяча коротка майка для дівчаток універсального кольору від бренду <strong>Бембі</strong>. Модель відшита з матеріалу супрем. Майка досить універсальна, її можна носити вдома, під одягом, щоб зігрітися в холодну пору або під час нічного відпочинку.</p>
-<p><strong>Особливості</strong>:</p>
-<ul>
-<li>Модель створена з матеріалу, який ідеально підходить для дітей.</li>
-<li>Нижня білизна з натуральної бавовни екологічна, не викликає алергічних реакцій і дуже приємна до тіла. Такі властивості тканини особливо важливі для нижньої білизни, оскільки вона тривалий період часу контактує зі шкірою.</li>
-<li>Така тканина не натирає, прекрасно вбирає вологу, проводить тепло і легко переться.</li>
-</ul>
-<p><strong>Рекомендації щодо догляду:</strong></p>
-<ul>
-<li>Ручне чи машинне прання за температури 30℃.</li>
-<li>Використовувати м&#039;який засіб для прання та кондиціонер для білизни.</li>
-<li>Виріб повинен бути вивернутий навиворіт, відсортований за кольоровим принципом.</li>
-<li>Прасувати з виворітного боку.</li>
-</ul>]]></description_ua>
-				<article>10021021045.900</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="2454534">
-					<![CDATA[Очень светлый розовый]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013286">
-					<![CDATA[140]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416624">
-					<![CDATA[10 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[100% хлопок]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[MK21-900]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4823116402843]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[MK21 (900)]]></param>
-				<param name="Кількість предметів" paramid="92802" valueid="475520">
-					<![CDATA[1]]></param>
-				<param name="Вид" paramid="223602" valueid="5207025">
-					<![CDATA[Топы]]></param>
-			</offer>
 			<offer available="true" id="330228625">
 				<price>139</price>
-				<stock_quantity>24</stock_quantity>
+				<stock_quantity>23</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668223</categoryId>
 				<name>Подростковый топ для девочки Бемби MK21 (100) 146 см Белый (10021021068.100)</name>
@@ -21857,7 +21679,7 @@
 			</offer>
 			<offer available="true" id="330229123">
 				<price>219</price>
-				<stock_quantity>11</stock_quantity>
+				<stock_quantity>10</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668271</categoryId>
 				<name>Детская майка для мальчика Бемби MK23 (100) 116 см Белая (10023011041.100)</name>
@@ -21896,7 +21718,7 @@
 			</offer>
 			<offer available="true" id="330229126">
 				<price>219</price>
-				<stock_quantity>22</stock_quantity>
+				<stock_quantity>21</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668271</categoryId>
 				<name>Детская майка для мальчика Бемби MK23 (400) 116 см Голубая (10023011041.400)</name>
@@ -25256,7 +25078,7 @@
 			</offer>
 			<offer available="true" id="332867164">
 				<price>469</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Набор детских трусов-боксеров 2 шт для мальчика Бемби NB17-801 134 см Синие (11017011044.801)</name>
@@ -25616,7 +25438,7 @@
 			</offer>
 			<offer available="true" id="332867245">
 				<price>139</price>
-				<stock_quantity>60</stock_quantity>
+				<stock_quantity>50</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668211</categoryId>
 				<name>Детские трусы-слипы для девочки Бемби TR 3-200 86 см Молочные (4823116401471)</name>
@@ -25713,7 +25535,7 @@
 			</offer>
 			<offer available="true" id="332867251">
 				<price>139</price>
-				<stock_quantity>45</stock_quantity>
+				<stock_quantity>35</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668211</categoryId>
 				<name>Детские трусы-слипы для девочки Бемби TR 3-100 92 см Белые (4823116401358)</name>
@@ -25756,7 +25578,7 @@
 			</offer>
 			<offer available="true" id="332867254">
 				<price>139</price>
-				<stock_quantity>65</stock_quantity>
+				<stock_quantity>55</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668211</categoryId>
 				<name>Детские трусы-слипы для девочки Бемби TR 3-200 92 см Молочные (4823116401488)</name>
@@ -26859,7 +26681,7 @@
 			</offer>
 			<offer available="true" id="332867578">
 				<price>165</price>
-				<stock_quantity>88</stock_quantity>
+				<stock_quantity>87</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668211</categoryId>
 				<name>Подростковые трусы-слипы для девочки Бемби TR 3-100 146 см Белые (4823116401440)</name>
@@ -29538,7 +29360,7 @@
 			</offer>
 			<offer available="true" id="336122569">
 				<price>259</price>
-				<stock_quantity>33</stock_quantity>
+				<stock_quantity>31</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668283</categoryId>
 				<name>Детский комплект белья (топ + трусы) для девочки Бемби KP266-Y00 116 см Черный (05266021041.Y00)</name>
@@ -29586,7 +29408,7 @@
 			</offer>
 			<offer available="true" id="336122572">
 				<price>259</price>
-				<stock_quantity>10</stock_quantity>
+				<stock_quantity>8</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668283</categoryId>
 				<name>Детский комплект белья (топ + трусы) для девочки Бемби KP266-Y00 122 см Черный (05266021042.Y00)</name>
@@ -29634,7 +29456,7 @@
 			</offer>
 			<offer available="true" id="336122575">
 				<price>259</price>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>5</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668283</categoryId>
 				<name>Детский комплект белья (топ + трусы) для девочки Бемби KP266-Y00 128 см Черный (05266021043.Y00)</name>
@@ -32505,7 +32327,7 @@
 			</offer>
 			<offer available="true" id="350594682">
 				<price>179</price>
-				<stock_quantity>61</stock_quantity>
+				<stock_quantity>60</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Детские трусы-слипы для мальчика Бемби TR5-W00 134 см Светло-серые (4823109697676)</name>
@@ -32779,7 +32601,7 @@
 			</offer>
 			<offer available="true" id="350594700">
 				<price>179</price>
-				<stock_quantity>36</stock_quantity>
+				<stock_quantity>35</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-слипы для мальчика Бемби TR5-400 146 см Голубые (4823109697249)</name>
@@ -32828,7 +32650,7 @@
 			</offer>
 			<offer available="true" id="350594703">
 				<price>179</price>
-				<stock_quantity>25</stock_quantity>
+				<stock_quantity>24</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-слипы для мальчика Бемби TR5-R00 146 см Бирюзовые (4823109697843)</name>
@@ -32961,7 +32783,7 @@
 			</offer>
 			<offer available="true" id="350594715">
 				<price>185</price>
-				<stock_quantity>35</stock_quantity>
+				<stock_quantity>32</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-слипы для мальчика Бемби TR5-R00 152 см Бирюзовые (4823109697850)</name>
@@ -33231,7 +33053,7 @@
 			</offer>
 			<offer available="true" id="350594733">
 				<price>185</price>
-				<stock_quantity>15</stock_quantity>
+				<stock_quantity>13</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-слипы для мальчика Бемби TR5-Y00 158 см Черные (4823109697560)</name>
@@ -33675,7 +33497,7 @@
 			</offer>
 			<offer available="true" id="350594766">
 				<price>99</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668211</categoryId>
 				<name>Трусики для девочки Бемби TR20-100 98 см Белые (4823116400085)</name>
@@ -36133,7 +35955,7 @@
 			</offer>
 			<offer available="true" id="350595054">
 				<price>229</price>
-				<stock_quantity>10</stock_quantity>
+				<stock_quantity>8</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-боксеры для мальчика Бемби TR42-Y00 146 см Черные (4823109696235)</name>
@@ -38812,7 +38634,7 @@
 			</offer>
 			<offer available="true" id="350595309">
 				<price>185</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Детские трусы-боксеры для мальчика Бемби TR46-400 110 см Голубые (4823109694774)</name>
@@ -39172,7 +38994,7 @@
 			</offer>
 			<offer available="true" id="350595339">
 				<price>185</price>
-				<stock_quantity>6</stock_quantity>
+				<stock_quantity>5</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Детские трусы-боксеры для мальчика Бемби TR46-Y00 116 см Черные (4823109695023)</name>
@@ -39436,51 +39258,6 @@
 				<param name="Керування новою колекцією" paramid="248698" valueid="4313823">
 					<![CDATA[август 2022]]></param>
 			</offer>
-			<offer available="true" id="350595363">
-				<price>209</price>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4668265</categoryId>
-				<name>Детские трусы-боксеры для мальчика Бемби TR46-400 128 см Голубые (4823109694804)</name>
-				<name_ua>Дитячі труси-боксери для хлопчика Бембі TR46-400 128 см Блакитні (4823109694804)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/tr46(10)_01(400)a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/tr46(10)_01(400)b.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Трусики-боксеры на мальчика из коллекции <strong>Бемби</strong>. Модель выполнена из качественного хлопчатобумажного материала супрем. Эта ткань представляет собой трикотажное полотно, которое идеально подходит для изготовления детской одежды и белья. Трикотаж отвечает всем гигиеническим и эксплуатационным свойствам. Благодаря тонкому и прочному материалу, белье для мальчика легкое и приятное к телу.</p><p><strong>Особенности</strong>:</p><ul><li>Поверхность трусов однотонная без декора.</li><li>Тонкая эластичная резинка-пояс.</li><li>Трусики-боксеры средней посадки.</li><li>Все швы идеально прошиты.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Машинная стирка при температуре не выше 30℃.</li><li>Не отбеливать.</li><li>Не сушить в стиральной машине.</li><li>Не подвергать химической чистке.</li><li>Гладить при низкой температуре (не более 110℃).</li></ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Трусики-боксери на хлопчика з колекції <strong>Бембі</strong>. Модель виконана з якісного бавовняного матеріалу супрем. Ця тканина являє собою трикотажне полотно, яке ідеально підходить для виготовлення дитячого одягу та білизни. Трикотаж відповідає всім гігієнічним і експлуатаційним властивостям. Завдяки тонкому і міцному матеріалу, білизна для хлопчика легка і приємна до тіла.</p><p><strong>Особливості</strong>:</p><ul><li>Поверхня трусів однотонна без декору.</li><li>Тонка еластична гумка-пояс.</li><li>Трусики-боксери середньої посадки.</li><li>Усі шви ідеально прошиті.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Машинне прання при температурі не вище 30℃.</li><li>Не вибілювати.</li><li>Не сушити в пральній машині.</li><li>Не піддавати хімічному чищенню.</li><li>Прасувати при низькій температурі (не більше 110℃).</li></ul>]]></description_ua>
-				<article>22046011043.400</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008372">
-					<![CDATA[Голубой]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013608">
-					<![CDATA[128]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416608">
-					<![CDATA[8 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[100% хлопок]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[TR46-400]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1501800">
-					<![CDATA[Супрем]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4823109694804]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[TR46-400]]></param>
-				<param name="Кількість предметів" paramid="92802" valueid="475520">
-					<![CDATA[1]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4313823">
-					<![CDATA[август 2022]]></param>
-			</offer>
 			<offer available="true" id="350595366">
 				<price>209</price>
 				<stock_quantity>16</stock_quantity>
@@ -39526,7 +39303,7 @@
 			</offer>
 			<offer available="true" id="350595369">
 				<price>209</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Детские трусы-боксеры для мальчика Бемби TR46-W00 128 см Светло-голубые (4823109695160)</name>
@@ -39837,7 +39614,7 @@
 			</offer>
 			<offer available="true" id="350595414">
 				<price>209</price>
-				<stock_quantity>10</stock_quantity>
+				<stock_quantity>9</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-боксеры для мальчика Бемби TR46-R00 146 см Бирюзовые (4823109695313)</name>
@@ -39873,51 +39650,6 @@
 					<![CDATA[Супрем]]></param>
 				<param name="EAN" paramid="26294">
 					<![CDATA[4823109695313]]></param>
-				<param name="Кількість предметів" paramid="92802" valueid="475520">
-					<![CDATA[1]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4313823">
-					<![CDATA[август 2022]]></param>
-			</offer>
-			<offer available="true" id="350595417">
-				<price>209</price>
-				<stock_quantity>2</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4668265</categoryId>
-				<name>Подростковые трусы-боксеры для мальчика Бемби TR46-W00 146 см Светло-голубые (4823109695191)</name>
-				<name_ua>Підліткові труси-боксери для хлопчика Бембі TR46-W00 146 см Світло-блакитні (4823109695191)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/tr46(10)_01(w00)a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/tr46(10)_01(w00)b.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Трусики-боксеры на мальчика из коллекции <strong>Бемби</strong>. Модель выполнена из качественного хлопчатобумажного материала супрем. Ткань представляет собой трикотажное полотно, которое идеально подходит для изготовления детской одежды и белья. Материал отвечает всем гигиеническим и эксплуатационным свойствам. Благодаря тонкому и прочному материалу, белье для мальчика очень легкое и приятное к телу.</p><p><strong>Особенности</strong>:</p><ul><li>Поверхность трусов однотонная без декора.</li><li>Тонкая эластичная резинка-пояс.</li><li>Трусики-боксеры средней посадки.</li><li>Все швы идеально прошиты.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Машинная стирка при температуре не выше 30℃.</li><li>Не отбеливать.</li><li>Не сушить в стиральной машине.</li><li>Не подвергать химической чистке.</li><li>Гладить при низкой температуре (не более 110℃).</li></ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Трусики-боксери на хлопчика з колекції <strong>Бембі</strong>. Модель виконана з якісного бавовняного матеріалу супрем. Тканина являє собою трикотажне полотно, яке ідеально підходить для виготовлення дитячого одягу та білизни. Матеріал відповідає всім гігієнічним і експлуатаційним властивостям. Завдяки тонкому і міцному матеріалу, білизна для хлопчика дуже легка і приємна до тіла.</p><p><strong>Особливості</strong>:</p><ul><li>Поверхня трусів однотонна без декору.</li><li>Тонка еластична гумка-пояс.</li><li>Трусики-боксери середньої посадки.</li><li>Усі шви ідеально прошиті.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Машинне прання при температурі не вище 30℃.</li><li>Не вибілювати.</li><li>Не сушити в пральній машині.</li><li>Не піддавати хімічному чищенню.</li><li>Прасувати при низькій температурі (не більше 110℃).</li></ul>]]></description_ua>
-				<article>22046011068.W00</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008372">
-					<![CDATA[Голубой]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013111">
-					<![CDATA[146]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416632">
-					<![CDATA[11 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[100% хлопок]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[TR46-W00]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1501800">
-					<![CDATA[Супрем]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4823109695191]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[TR46-W00]]></param>
 				<param name="Кількість предметів" paramid="92802" valueid="475520">
 					<![CDATA[1]]></param>
 				<param name="Керування новою колекцією" paramid="248698" valueid="4313823">
@@ -40182,49 +39914,6 @@
 					<![CDATA[Супрем]]></param>
 				<param name="EAN" paramid="26294">
 					<![CDATA[4823109695214]]></param>
-				<param name="Кількість предметів" paramid="92802" valueid="475520">
-					<![CDATA[1]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4313823">
-					<![CDATA[август 2022]]></param>
-			</offer>
-			<offer available="true" id="350595447">
-				<price>225</price>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4668265</categoryId>
-				<name>Подростковые трусы-боксеры для мальчика Бемби TR46-Y00 158 см Черные (4823109695092)</name>
-				<name_ua>Підліткові труси-боксери для хлопчика Бембі TR46-Y00 158 см Чорні (4823109695092)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/tr46(10)_02(y00)a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/tr46(10)_02(y00)b.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Трусики-боксеры на мальчика из коллекции <strong>Бемби</strong>. Выполнены из качественного хлопчатобумажного материала супрем. Ткань представляет собой трикотажное полотно, которое идеально подходит для изготовления детской одежды и белья. Материал отвечает всем гигиеническим и эксплуатационным свойствам. Благодаря тонкому и прочному материалу, белье для мальчика очень легкое и приятное к телу.</p><p><strong>Особенности</strong>:</p><ul><li>Поверхность трусов однотонная без декора.</li><li>Тонкая эластичная резинка-пояс.</li><li>Трусики-боксеры средней посадки.</li><li>Все швы идеально прошиты.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Машинная стирка при температуре не выше 30℃.</li><li>Не отбеливать.</li><li>Не сушить в стиральной машине.</li><li>Не подвергать химической чистке.</li><li>Гладить при низкой температуре (не более 110℃).</li></ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Трусики-боксери на хлопчика з колекції <strong>Бембі</strong>. Виконані з якісного бавовняного матеріалу супрем. Тканина являє собою трикотажне полотно, яке ідеально підходить для виготовлення дитячого одягу та білизни. Матеріал відповідає всім гігієнічним і експлуатаційним властивостям. Завдяки тонкому і міцному матеріалу, білизна для хлопчика дуже легка і приємна до тіла.</p><p><strong>Особливості</strong>:</p><ul><li>Поверхня трусів однотонна без декору.</li><li>Тонка еластична гумка-пояс.</li><li>Трусики-боксери середньої посадки.</li><li>Усі шви ідеально прошиті.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Машинне прання при температурі не вище 30℃.</li><li>Не вибілювати.</li><li>Не сушити в пральній машині.</li><li>Не піддавати хімічному чищенню.</li><li>Прасувати при низькій температурі (не більше 110℃).</li></ul>]]></description_ua>
-				<article>22046011071.Y00</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008470">
-					<![CDATA[Черный]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013475">
-					<![CDATA[158]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416648">
-					<![CDATA[13 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[100% хлопок]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[TR46-Y00]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1501800">
-					<![CDATA[Супрем]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4823109695092]]></param>
 				<param name="Кількість предметів" paramid="92802" valueid="475520">
 					<![CDATA[1]]></param>
 				<param name="Керування новою колекцією" paramid="248698" valueid="4313823">
@@ -44352,7 +44041,7 @@
 			</offer>
 			<offer available="true" id="363518019">
 				<price>269</price>
-				<stock_quantity>11</stock_quantity>
+				<stock_quantity>10</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668283</categoryId>
 				<name>Подростковый комплект белья (топ + трусы) для девочки Бемби КП265-XM0 140 см (05265021045.XM0)</name>
@@ -44399,7 +44088,7 @@
 			</offer>
 			<offer available="true" id="363518022">
 				<price>269</price>
-				<stock_quantity>7</stock_quantity>
+				<stock_quantity>6</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668283</categoryId>
 				<name>Подростковый комплект белья (топ + трусы) для девочки Бемби КП265-XM0 146 см (05265021068.XM0)</name>
@@ -47675,7 +47364,7 @@
 			</offer>
 			<offer available="true" id="363519744">
 				<price>199</price>
-				<stock_quantity>23</stock_quantity>
+				<stock_quantity>22</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби МК26-100 104 см (10026021039.100)</name>
@@ -48651,7 +48340,7 @@
 			</offer>
 			<offer available="true" id="363520710">
 				<price>245</price>
-				<stock_quantity>20</stock_quantity>
+				<stock_quantity>19</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Подростковая майка для девочки Бемби МК26-900 140 см (10026021045.900)</name>
@@ -48875,7 +48564,7 @@
 			</offer>
 			<offer available="true" id="363521055">
 				<price>245</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Подростковая майка для девочки Бемби МК26-I00 146 см (10026021068.I00)</name>
@@ -50006,47 +49695,6 @@
 				<param name="EAN" paramid="26294">
 					<![CDATA[2000000003825]]></param>
 			</offer>
-			<offer available="true" id="365284239">
-				<price>599</price>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4637111</categoryId>
-				<name>Детская флисовая толстовка Бемби КФ226-200 122 см Молочная (07226702142.200)</name>
-				<name_ua>Дитяча флісова толстовка Бембі КФ226-200 122 см Молочна (07226702142.200)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/kf226(21)_01(200)a2.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/kf226(21)_01(200)b2.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/kf226(21)_01(200)c2.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/kf226(21)_01(200)d2.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Теплая толстовка из коллекции <strong>Бемби</strong>. Модель выполнена из флиса. Отличный вариант для повседневной носки в прохладные дни. Сочетается с любым низом.</p><p><strong>Особенности</strong>:</p><ul><li>Модель декорирована контрастной строчкой и застежкой.</li><li>Застегивается на молнию по всей длине.</li><li>Защита от защемления подбородка.</li><li>Небольшой воротник-стойка.</li><li>Врезные боковые карманы.</li><li>Эластичные манжеты.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Машинная стирка в холодной воде.</li><li>Не отбеливать.</li><li>Сушить в стиральной машине при низкой температуре.</li><li>Гладить теплым утюгом при необходимости.</li><li>Возможна химчистка.</li><li>Постирать перед тем, как надеть.</li><li>Стирать вывернутым наизнанку с похожими цветами.</li></ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Тепла толстовка з колекції <strong>Бембі</strong>. Модель виконана з флісу. Відмінний варіант для повсякденного носіння в прохолодні дні. Поєднується з будь-яким низом.</p><p><strong>Особливості</strong>:</p><ul><li>Модель декорована контрастним рядком і застібкою.</li><li>Застібається на блискавку по всій довжині.</li><li>Захист від защемлення підборіддя.</li><li>Невеликий комір-стійка.</li><li>Врізні бічні кишені.</li><li>Еластичні манжети.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Машинне прання в холодній воді.</li><li>Не відбілювати.</li><li>Сушити в пральній машині за низької температури.</li><li>Прасувати теплою праскою за необхідності.</li><li>Можлива хімчистка.</li><li>Випрати перед тим, як надіти.</li><li>Прати вивернутим навиворіт зі схожими кольорами.</li></ul>]]></description_ua>
-				<article>07226702142.200</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1010395">
-					<![CDATA[Молочный]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013160">
-					<![CDATA[122]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416600">
-					<![CDATA[7 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[100% полиэстер]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[КФ226-200]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[2000000003832]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[КФ226-200]]></param>
-			</offer>
 			<offer available="true" id="365284251">
 				<price>699</price>
 				<stock_quantity>13</stock_quantity>
@@ -50970,7 +50618,7 @@
 			</offer>
 			<offer available="true" id="365412873">
 				<price>479</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636559</categoryId>
 				<name>Детский теплый свитшот для мальчика Бемби ДЖ341-G00 110 см Бежевый (35341702140.G00)</name>
@@ -51101,7 +50749,7 @@
 			</offer>
 			<offer available="true" id="365412882">
 				<price>559</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636559</categoryId>
 				<name>Детский теплый свитшот для мальчика Бемби ДЖ341-G00 128 см Бежевый (35341702143.G00)</name>
@@ -55046,7 +54694,7 @@
 			<offer available="true" id="387705645">
 				<price>356</price>
 				<price_old>593</price_old>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636415</categoryId>
 				<name>Подростковый лонгслив для мальчика Бемби ФБ958-840 140 см Синий с голубым (24958711145.840)</name>
@@ -55688,42 +55336,6 @@
 					<![CDATA[1]]></param>
 				<param name="Керування новою колекцією" paramid="248698" valueid="4475763">
 					<![CDATA[июль 2023]]></param>
-			</offer>
-			<offer available="true" id="390989691">
-				<price>439</price>
-				<price_old>571</price_old>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4636503</categoryId>
-				<name>Штаны спортивные утепленные детские Бемби ШР753_XM1 158 см Серый меланж (26753712271.XM1)</name>
-				<name_ua>Штани спортивні дитячі утеплені Бембі ШР753_XM1 158 см Сірий меланж (26753712271.XM1)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/shr753(22)_01(xm1)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/shr753(22)_01(xm1)1b.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Детские спортивные штаны от украинского производителя одежды <strong>Бемби</strong> выполнены из мягкого трикотажа, утепленного флисом. Удобный крой не сковывает движений и дарит чувство комфорта. Штаны отлично дополнят повседневный образ и согреют ребенка в прохладное время года.</p> <p><strong>Детали:</strong></p> <ul> <li>Трикотаж, утепленный флисом</li> <li>Эластичный пояс с декоративным шнурком</li> <li>Удобные карманы</li> <li>Эластичные манжеты в рубчик</li> </ul> <p><strong>Рекомендации по уходу:</strong></p> <ul> <li>Машинная стирка при температуре 30 градусов</li> <li>Не сушить в сушильной машине</li> <li>Не отбеливать</li> <li>Не подвергать химической чистке</li> </ul>]]></description>
-				<article>26753712271.XM1</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013475">
-					<![CDATA[158]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416648">
-					<![CDATA[13 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[60% хлопок, 40% полиэстер]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[ШР753-XM1]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1010507">
-					<![CDATA[Трикотаж]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4823116460874]]></param>
 			</offer>
 			<offer available="true" id="391131504">
 				<price>512</price>
@@ -57314,70 +56926,6 @@
 				<param name="Вид" paramid="223602" valueid="3159465">
 					<![CDATA[Куртки]]></param>
 			</offer>
-			<offer available="true" id="393600807">
-				<price>1815</price>
-				<price_old>3631</price_old>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4636303</categoryId>
-				<name>Подростковая демисезонная куртка для мальчика Бемби КТ317-800 146 см Синяя (33317513368.800)</name>
-				<name_ua>Підліткова демісезонна куртка для хлопчика Бембі КТ317-800 146 см Синя (33317513368.800)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/kt317(33)_02(800)2a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/kt317(33)_02(800)2b.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/kt317(33)_02(800)c.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/kt317(33)_02(800)d.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/kt317(33)_02(800)e.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Детская осенняя куртка для мальчиков от <strong>Бемби</strong> сшита из водоотталкивающей плащевки. Подходит для ежедневной носки в прохладное время года. Прекрасно защищает от дождя и ветра.</p>
-<p><strong>Особенности</strong>:</p>
-<ul>
-<li>Утеплитель и флисовая подкладка добавляют тепла.</li>
-<li>Детская куртка имеет рукава-реглан с манжетой по краю.</li>
-<li>Застёгивается на молнию по всей длине.</li>
-<li>Капюшон для защиты от ветра и осадков.</li>
-<li>Модель имеет карманы по бокам.</li>
-</ul>
-<p><strong>Рекомендации по уходу:</strong></p>
-<ul>
-<li>Стирать вручную или в стиральной машине при температуре не меньше 30℃.</li>
-<li>Используйте жидкое средство для стирки, чтобы избежать разводов.</li>
-<li>Максимальная интенсивность при отжиме — 600 оборотов.</li>
-<li>Сушите куртку в хорошо проветриваемом помещении или в тени. Прямых солнечных лучей следует избегать.</li>
-</ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Дитяча осіння куртка від <strong>Бембі</strong> зшита з водовідштовхувальної плащівки. Підходить для щоденного носіння в прохолодну пору року.</p> <p><strong>Особливості</strong> :</p> <ul> <li>Утеплювач та флісова підкладка додають тепла.</li> <li>Дитяча куртка має рукава-реглан із манжетою по краю.</li> <li>Застібається на блискавку по всій довжині.</li> <li>Має кишені з боків.</li> <li>Капюшон для захисту від вітру та опадів.</li> </ul> <p><strong>Рекомендації щодо догляду:</strong></p> <ul> <li>Прати вручну або в пральній машині за температури не менше 30℃.</li> <li>Використовуйте рідкий пральний засіб, щоб уникнути розводів.</li> <li>Максимальна інтенсивність при віджиму – 600 оборотів.</li> <li>Сушіть куртку в приміщенні, що добре провітрюється, або в тіні. Прямих сонячних променів слід уникати.</li> </ul>]]></description_ua>
-				<article>33317513368.800</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008190">
-					<![CDATA[Синий]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013111">
-					<![CDATA[146]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416632">
-					<![CDATA[11 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209300000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[100% полиэстер]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[КТ317-800]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1247085">
-					<![CDATA[Плащевка]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4824045000070]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[КТ317-800]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4480089">
-					<![CDATA[август 2023]]></param>
-				<param name="Вид" paramid="223602" valueid="3159465">
-					<![CDATA[Куртки]]></param>
-			</offer>
 			<offer available="true" id="393600981">
 				<price>1215</price>
 				<price_old>1580</price_old>
@@ -57452,87 +57000,6 @@
 					<![CDATA[Трикотаж]]></param>
 				<param name="EAN" paramid="26294">
 					<![CDATA[4823116495128]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[КС750-301]]></param>
-				<param name="Кількість предметів" paramid="92802" valueid="476428">
-					<![CDATA[2]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4480089">
-					<![CDATA[август 2023]]></param>
-			</offer>
-			<offer available="true" id="393600993">
-				<price>1215</price>
-				<price_old>1580</price_old>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4637047</categoryId>
-				<name>Подростковый теплый спортивный костюм (толстовка + штаны) для девочки Бемби КС750-301 146 см Розовый (06750722268.301)</name>
-				<name_ua>Підлітковий теплий спортивний костюм (толстовка + штани) для дівчинки Бембі КС750-301 146 см Рожевий (06750722268.301)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(301)11.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(301)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(301)1b.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(301)1c.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(301)1d.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Детский утепленный костюм от <strong>Бемби</strong> изготовлен из натурального хлопка с добавлением полиэстера. Модель подходит для повседневной носки и активного отдыха.</p>
-<p><strong>Особенности:</strong></p>
-<ul>
-<li>Костюм состоит из худи с капюшоном и спортивных штанов.</li>
-<li>Теплый и приятный на ощупь трикотаж с начесом.</li>
-<li>Капюшон дополнен вшитыми завязками для регулировки.</li>
-<li>Худи с длинными рукавами на манжетах и удобными карманами.</li>
-<li>Штаны по бокам имеют карманы с косым входом.</li>
-<li>По краю резинки для дополнительного комфорта.</li>
-</ul>
-<p><strong>Рекомендации по уходу:</strong></p>
-<ul>
-<li>Стирать вручную или в стиральной машине в деликатном режиме при температуре 40℃.</li>
-<li>Использовать жидкие средства для стирки, гель или мягкий порошок для стирки.</li>
-<li>Сушить естественным способом вдали от обогревательных приборов.</li>
-<li>Гладить без пара при минимальной и температуре и давлении утюга на ткань.</li>
-</ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Дитячий утеплений костюм від <strong>Бембі</strong> виготовлено з натуральної бавовни з додаванням поліестеру. Модель підходить для повсякденного носіння та активного відпочинку.</p>
-<p><strong>Особливості:</strong></p>
-<ul>
-<li>Костюм складається з худі з капюшоном і спортивних штанів.</li>
-<li>Теплий і приємний на дотик трикотаж із начосом.</li>
-<li>Капюшон доповнений вшитими зав&#039;язками для регулювання.</li>
-<li>Худі з довгими рукавами на манжетах і зручними кишенями.</li>
-<li>Штани з боків мають кишені з косим входом.</li>
-<li>По краю резинки для додаткового комфорту.</li>
-</ul>
-<p><strong>Рекомендації з догляду:</strong></p>
-<ul>
-<li>Прати вручну або в пральній машині в делікатному режимі за температури 40℃.</li>
-<li>Використовувати рідкі засоби для прання, гель або м&#039;який порошок для прання.</li>
-<li>Сушити природним способом далеко від обігрівальних приладів.</li>
-<li>Прасувати без пари за мінімальної температури та тиску праски на тканину.</li>
-</ul>]]></description_ua>
-				<article>06750722268.301</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008484">
-					<![CDATA[Насыщенный сиреневый розовый]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013111">
-					<![CDATA[146]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416632">
-					<![CDATA[11 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[85% хлопок, 15% полиэстер]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[КС750-301]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1010507">
-					<![CDATA[Трикотаж]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4823116495142]]></param>
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[КС750-301]]></param>
 				<param name="Кількість предметів" paramid="92802" valueid="476428">
@@ -57676,7 +57143,7 @@
 			<offer available="true" id="393601020">
 				<price>529</price>
 				<price_old>688</price_old>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636567</categoryId>
 				<name>Детская теплая толстовка для мальчика Бемби КФ222-210 92 см Молочная (07222712237.210)</name>
@@ -61466,7 +60933,7 @@
 			<offer available="true" id="393612543">
 				<price>479</price>
 				<price_old>623</price_old>
-				<stock_quantity>11</stock_quantity>
+				<stock_quantity>10</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636559</categoryId>
 				<name>Подростковый теплый свитшот для мальчика Бемби ДЖ329-H00 140 см Коричневый (35329412245.H00)</name>
@@ -63581,7 +63048,7 @@
 			<offer available="true" id="394928214">
 				<price>649</price>
 				<price_old>853</price_old>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636503</categoryId>
 				<name>Подростковые спортивные штаны-джогеры Бемби ШР809_V00 146 см Хаки (26809706668.V00)</name>
@@ -63678,7 +63145,7 @@
 			<offer available="true" id="394928220">
 				<price>699</price>
 				<price_old>930</price_old>
-				<stock_quantity>6</stock_quantity>
+				<stock_quantity>5</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636503</categoryId>
 				<name>Подростковые спортивные штаны-джогеры Бемби ШР809_V00 158 см Хаки (26809706671.V00)</name>
@@ -70324,50 +69791,6 @@
 					<![CDATA[С длинными рукавами]]></param>
 				<param name="Керування новою колекцією" paramid="248698" valueid="4561842">
 					<![CDATA[декабрь 2023]]></param>
-			</offer>
-			<offer available="true" id="412954614">
-				<price>1550</price>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4636311</categoryId>
-				<name>Детская вышиванка льняная для мальчика Бемби RB175-806 134 см Синяя (19175713844.806)</name>
-				<name_ua>Дитяча вишиванка лляна для хлопчика Бембі RB175-806 134 см Синя (19175713844.806)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/rb175(38)_01(806)a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/rb175(806)1.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/rb175(38)_01(806)b.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/rb175(38)_01(806)c.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/rb175(38)_01(806)d.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[Стильная и комфортная вышиванка для мальчика. Выполнена из качественного материала. При производстве использованы качественные нитки, которые не линяют после стирки. Ткань приятная к телу, не деформируется и не меняет цвет.]]></description>
-				<description_ua>
-					<![CDATA[Стильна та комфортна вишиванка для хлопчика. Виконана з якісного матеріалу. При виробництві використані якісні нитки, які не линяють після прання. Тканина приємна до тіла, не деформується і не змінює колір.]]></description_ua>
-				<article>19175713844.806</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008190">
-					<![CDATA[Синий]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013139">
-					<![CDATA[134]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416616">
-					<![CDATA[9 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209909000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[90% лен, 10% полиэстер]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[RB175-806]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1011354">
-					<![CDATA[Лен]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4824045016422]]></param>
-				<param name="Довжина рукава" paramid="105869" valueid="638464">
-					<![CDATA[С длинными рукавами]]></param>
 			</offer>
 			<offer available="true" id="412954620">
 				<price>1550</price>
@@ -80696,7 +80119,7 @@
 			<offer available="true" id="420214413">
 				<price>359</price>
 				<price_old>699</price_old>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>7</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636911</categoryId>
 				<name>Детская муслиновая юбка для девочки Бемби UB116-Q00 134 см Сиреневая (36116526844.Q00)</name>
@@ -83452,7 +82875,7 @@
 			<offer available="true" id="430959395">
 				<price>269</price>
 				<price_old>576</price_old>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636927</categoryId>
 				<name>Подростковая укороченная футболка-топ для девочки Бемби Rythm Of Nature FB987-200 140 см Молочная (24987521045.200)</name>
@@ -85539,82 +84962,6 @@
 				<param name="Керування новою колекцією" paramid="248698" valueid="4649354">
 					<![CDATA[май 2024]]></param>
 			</offer>
-			<offer available="true" id="431689745">
-				<price>1489</price>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4636767</categoryId>
-				<name>Детское платье-вышиванка льняное для девочки Бемби Этно ПЛ379-206 128 см Молочное (14379723843.206)</name>
-				<name_ua>Дитяча сукня-вишиванка лляна для дівчинки Бембі Етно ПЛ379-206 128 см Молочна (14379723843.206)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/pl379(38)_01(206)a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/pl379(38)_01(206)b.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/pl379(38)_01(206)c.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Детское платье-вышиванка из коллекции Этно от <strong>Бемби</strong>. Модель отшита из комбинации натуральных материалов: льна и вискозы. Отличный вариант для носки на торжественные мероприятия и праздники.</p>
-<p><strong>Особенности</strong>:</p>
-<ul>
-<li>Модель свободного кроя.</li>
-<li>Платье с присобранной юбкой.</li>
-<li>Рукава с манжетами на резинке.</li>
-<li>Круглая горловина на завязках с кисточками.</li>
-<li>Декорировано традиционной украинской народной вышивкой.</li>
-</ul>
-<p><strong>Рекомендации по уходу:</strong></p>
-<ul>
-<li>Стирать в деликатном режиме при температуре 40℃.</li>
-<li>Отжимать на низких оборотах.</li>
-<li>Не использовать машинную сушку, лучше выполнить эту операцию на открытом воздухе.</li>
-<li>Гладить вещи слегка влажными с изнаночной стороны.</li>
-</ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Дитяча сукня-вишиванка з колекції Етно від <strong>Бембі</strong>. Модель зшита з комбінації натуральних матеріалів: льону та віскози. Чудовий варіант для носіння на урочисті заходи та свята.</p>
-<p><strong>Особливості</strong>:</p>
-<ul>
-<li>Модель вільного крою.</li>
-<li>Сукня з призібраною спідницею.</li>
-<li>Рукави з манжетами на гумці.</li>
-<li>Кругла горловина на зав&#039;язках із пензликами.</li>
-<li>Декорована традиційною українською народною вишивкою.</li>
-</ul>
-<p><strong>Рекомендації щодо догляду:</strong></p>
-<ul>
-<li>Прати в делікатному режимі за температури 40℃.</li>
-<li>Віджимати на низьких обертах.</li>
-<li>Не використовувати машинне сушіння, краще виконати цю операцію на відкритому повітрі.</li>
-<li>Прасувати речі злегка вологими з виворітного боку.</li>
-</ul>]]></description_ua>
-				<article>14379723843.206</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1010395">
-					<![CDATA[Молочный]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013608">
-					<![CDATA[128]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416608">
-					<![CDATA[8 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209909000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[70% лен, 30% вискоза]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[ПЛ379-206]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1011354">
-					<![CDATA[Лен]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4824045003507]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[Этно ПЛ379-206]]></param>
-				<param name="Довжина рукава" paramid="105869" valueid="638464">
-					<![CDATA[С длинными рукавами]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4649354">
-					<![CDATA[май 2024]]></param>
-			</offer>
 			<offer available="true" id="431689751">
 				<price>1489</price>
 				<stock_quantity>3</stock_quantity>
@@ -87267,7 +86614,7 @@
 			<offer available="true" id="440607515">
 				<price>499</price>
 				<price_old>799</price_old>
-				<stock_quantity>15</stock_quantity>
+				<stock_quantity>14</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636759</categoryId>
 				<name>Детская блузка для девочки Бемби RB199-200 128 см Молочная (19199725443.200)</name>
@@ -88030,7 +87377,7 @@
 			</offer>
 			<offer available="true" id="440608571">
 				<price>729</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636383</categoryId>
 				<name>Подростковое поло с длинным рукавом для мальчика Бемби FB993-800 158 см Синее (24993715971.800)</name>
@@ -88993,52 +88340,6 @@
 					<![CDATA[4824045038776]]></param>
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[SHR849-800]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4689353">
-					<![CDATA[июль 2024]]></param>
-			</offer>
-			<offer available="true" id="440610584">
-				<price>619</price>
-				<price_old>805</price_old>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4636959</categoryId>
-				<name>Подростковые шорты для девочки Бемби SHR851-800 140 см Синие (26851425745.800)</name>
-				<name_ua>Підліткові шорти для дівчинки Бемби SHR851-800 140 см Сині (26851425745.800)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/shr851(57)_01(800)a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/shr851(57)_01(800)b.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Подростковые шорты для девочки из коллекции <strong>Бемби</strong>. Модель отшита из ткани джерси, в составе которой полиэстер, вискоза и эластан. Сочетается с любым верхом. Подходит для повседневной носки.</p> <p><strong>Особенности</strong>:</p> <ul> <li>Пояс эластичный, имеет шлевки и застегивается спереди на пуговицу.</li> <li>Классические детские шорты имеют боковые карманы с удобным косым входом.</li> <li>Свободный крой и удобная ткань не сдерживают движения и доказывают, что это идеальные шорты для школьной формы для девочек.</li> </ul> <p><strong>Рекомендации по уходу:</strong></p> <ul> <li>Машинная стирка в холодной воде (нормальный режим).</li> <li>Стирать наизнанку с похожими цветами.</li> <li>Не отбеливать.</li> <li>Сушить в стиральной машине при средней температуре.</li> <li>Гладить горячим способом.</li> </ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Підліткові шорти для дівчинки з колекції <strong>Бембі</strong>. Модель відшита з тканини джерсі, у складі якої поліестер, віскоза та еластан. Поєднується з будь-яким верхом. Підходить для повсякденного носіння.</p> <p><strong>Особливості</strong>:</p> <ul> <li>Пояс еластичний, має шлевки та застібається спереду на ґудзик.</li> <li>Класичні дитячі шорти мають бічні кишені зі зручним косим входом.</li> <li>Вільний крій і зручна тканина не стримують рухи і доводять, що це ідеальні шорти для шкільної форми для дівчаток.</li> </ul> <p><strong>Рекомендації щодо догляду:</strong></p> <ul> <li>Машинне прання у холодній воді (нормальний режим).</li> <li>Прати навиворіт зі схожими кольорами.</li> <li>Не вибілювати.</li> <li>Сушити в пральній машині за середньої температури.</li> <li>Прасувати гарячим способом.</li> </ul>]]></description_ua>
-				<article>26851425745.800</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008190">
-					<![CDATA[Синий]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013286">
-					<![CDATA[140]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416624">
-					<![CDATA[10 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209300000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[63% полиэстер, 31% вискоза, 6% эластан]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[SHR851-800]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1235744">
-					<![CDATA[Джерси]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4824045032064]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[SHR851-800]]></param>
-				<param name="Кількість предметів" paramid="92802" valueid="475520">
-					<![CDATA[1]]></param>
 				<param name="Керування новою колекцією" paramid="248698" valueid="4689353">
 					<![CDATA[июль 2024]]></param>
 			</offer>
@@ -92106,6 +91407,49 @@
 				<param name="Керування новою колекцією" paramid="248698" valueid="4702874">
 					<![CDATA[август 2024]]></param>
 			</offer>
+			<offer available="true" id="444869957">
+				<price>819</price>
+				<price_old>1065</price_old>
+				<stock_quantity>1</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4636999</categoryId>
+				<name>Детские школьные брюки для девочки Бемби City collection SHR850-X00 122 см Серые (26850725342.X00)</name>
+				<name_ua>Дитячі шкільні штани для дівчинки Бембі City collection SHR850-X00 122 см Сірі (26850725342.X00)</name_ua>
+				<picture>https://shop.bembi.ua/uploads/products/shr850(53)_01(x00)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/shr850(53)_01(x00)b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/shr850(53)_01(x00)c.jpg</picture>
+				<vendor>Бемби</vendor>
+				<state>new</state>
+				<description>
+					<![CDATA[<p>Детские школьные брюки для девочки из коллекции City collection от <strong>Бемби</strong>. Модель отшита из костюмной ткани. Отличный вариант для повседневной носки в школу. Сочетается с классическим верхом и обувью.</p><p><strong>Особенности</strong>:</p><ul><li>Штаны прямого классического кроя с боковыми карманами.</li><li>Модель застегивается на молнию и пуговицу.</li><li>Есть шлейки для продевания ремня.</li><li>Однотонная модель.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Стирать в стиральной машине при температуре 30-40℃.</li><li>Не отбеливать.</li><li>Гладить при максимальной температуре 70-90℃.</li><li>Сухая чистка (химчистка).</li><li>Разрешено отжимать и высушивать в стиральной машине.</li></ul>]]></description>
+				<description_ua>
+					<![CDATA[<p>Дитячі шкільні штани для дівчинки з колекції City collection від <strong>Бембі</strong>. Модель відшита з костюмної тканини. Відмінний варіант для повсякденного носіння в школу. Поєднується з класичним верхом і взуттям.</p><p><strong>Особливості</strong>:</p><ul><li>Штани прямого класичного крою з бічними кишенями.</li><li>Модель застібається на блискавку і ґудзик.</li><li>Є шлейки для протягування ременя.</li><li>Однотонна модель.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Прати в пральній машині за температури 30-40℃.</li><li>Не відбілювати.</li><li>Прасувати за максимальної температури 70-90℃.</li><li>Сухе чищення (хімчистка).</li><li>Дозволено віджимати і висушувати в пральній машині.</li></ul>]]></description_ua>
+				<article>26850725342.X00</article>
+				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
+					<![CDATA[Украина]]></param>
+				<param name="Колір" paramid="131559" valueid="1008407">
+					<![CDATA[Серый]]></param>
+				<param name="Зріст" paramid="131587" valueid="1013160">
+					<![CDATA[122]]></param>
+				<param name="Дитячий вік" paramid="151000" valueid="1416600">
+					<![CDATA[7 лет]]></param>
+				<param name="Код УКТ ЗЕД" paramid="82508">
+					<![CDATA[6209300000]]></param>
+				<param name="Склад" paramid="131615">
+					<![CDATA[65% полиэстер, 35% вискоза]]></param>
+				<param name="Модель для групування (МДГ)" paramid="215080">
+					<![CDATA[SHR850-X00]]></param>
+				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+					<![CDATA[1]]></param>
+				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
+					<![CDATA[Украина]]></param>
+				<param name="EAN" paramid="26294">
+					<![CDATA[4824045040380]]></param>
+				<param name="Артикул моделі" paramid="256977">
+					<![CDATA[SHR850-X00]]></param>
+				<param name="Керування новою колекцією" paramid="248698" valueid="4702874">
+					<![CDATA[август 2024]]></param>
+			</offer>
 			<offer available="true" id="444870428">
 				<price>819</price>
 				<price_old>1065</price_old>
@@ -92491,7 +91835,7 @@
 			<offer available="true" id="445259372">
 				<price>749</price>
 				<price_old>959</price_old>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637119</categoryId>
 				<name>Детское худи для девочки Бемби DJ361-G00 134 см Бежевое (4824045038370)</name>
@@ -93336,7 +92680,7 @@
 			<offer available="true" id="445259852">
 				<price>649</price>
 				<price_old>829</price_old>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636503</categoryId>
 				<name>Детские спортивные штаны для мальчика Бемби SHR837-800 104 см Синие (4824045036765)</name>
@@ -93885,9 +93229,9 @@
 				<categoryId>4636807</categoryId>
 				<name>Детский комбинезон для девочки Бемби KB222-J00 98 см Ягодный (03222702238.J00)</name>
 				<name_ua>Дитячий комбінезон для дівчинки Бембі KB222-J00 98 см Ягідний (03222702238.J00)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/kb222(22)_01(j00)1a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/kb222(22)_01(j00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/kb222(22)_01(j00)b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/kb222(22)_01(j00)1a.jpg</picture>
 				<vendor>Бемби</vendor>
 				<state>new</state>
 				<description>
@@ -94478,53 +93822,6 @@
 					<![CDATA[Супрем]]></param>
 				<param name="EAN" paramid="26294">
 					<![CDATA[4824045043244]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[PL408-YX0]]></param>
-				<param name="Довжина рукава" paramid="105869" valueid="638464">
-					<![CDATA[С длинными рукавами]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4723910">
-					<![CDATA[сентябрь 2024]]></param>
-			</offer>
-			<offer available="true" id="448292204">
-				<price>829</price>
-				<price_old>1078</price_old>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4636879</categoryId>
-				<name>Детское платье для девочки Бемби PL408-YX0 122 см Черный/Серый (14408721042.YX0)</name>
-				<name_ua>Дитяче плаття для дівчинки Бембі PL408-YX0 122 см Чорне/Сіре (14408721042.YX0)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/pl408(10)_01(yx0)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/pl408(10)_01(yx0)2a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/pl408(10)_01(yx0)1b.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Детское нарядное платье из коллекции <strong>Бемби</strong>. Модель отшита из мягкой и приятной на ощупь ткани супрем. Платье идеально подходит для повседневной носки.</p><p><strong>Особенности</strong>:</p><ul><li>Приталенный силуэт.</li><li>Платье средней длины.</li><li>Модель с длинными рукавами.</li><li>Круглый вырез горловины.</li><li>Сзади присутствует застежка на пуговице.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Стирать в стиральной машине при температуре 30-40℃.</li><li>Не отбеливать.</li><li>Гладить при максимальной температуре 70-90℃.</li><li>Сухая чистка (химчистка).</li><li>Разрешено отжимать и высушивать в стиральной машине.</li></ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Дитяча святкова сукня з колекції <strong>Бембі</strong>. Модель відшита з м&#039;якої та приємної на дотик тканини супрем. Сукня ідеально підходить для повсякденного носіння.</p><p><strong>Особливості</strong>:</p><ul><li>Приталений силует.</li><li>Сукня середньої довжини.</li><li>Модель з довгими рукавами.</li><li>Круглий виріз горловини.</li><li>Ззаду присутня застібка на ґудзику.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Прати в пральній машині за температури 30-40℃.</li><li>Не відбілювати.</li><li>Прасувати за максимальної температури 70-90℃.</li><li>Сухе чищення (хімчистка).</li><li>Дозволено віджимати і висушувати в пральній машині.</li></ul>]]></description_ua>
-				<article>14408721042.YX0</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008470">
-					<![CDATA[Черный]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013160">
-					<![CDATA[122]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416600">
-					<![CDATA[7 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[95% хлопок, 5% эластан]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[PL408-YX0]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1501800">
-					<![CDATA[Супрем]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4824045043251]]></param>
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[PL408-YX0]]></param>
 				<param name="Довжина рукава" paramid="105869" valueid="638464">
@@ -99702,8 +98999,8 @@
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив Бемби FB723-Y00 104 см Черный (24723001239.Y00)</name>
 				<name_ua>Дитячий термолонгслів Бембі FB723-Y00 104 см Чорний (24723001239.Y00)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_01(y00)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_01(y00)1b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_02(y00)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_02(y00)b.jpg</picture>
 				<vendor>Бемби</vendor>
 				<state>new</state>
 				<description>
@@ -99747,8 +99044,8 @@
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив Бемби FB723-Y00 110 см Черный (24723001240.Y00)</name>
 				<name_ua>Дитячий термолонгслів Бембі FB723-Y00 110 см Чорний (24723001240.Y00)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_01(y00)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_01(y00)1b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_02(y00)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_02(y00)b.jpg</picture>
 				<vendor>Бемби</vendor>
 				<state>new</state>
 				<description>
@@ -99792,8 +99089,8 @@
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив Бемби FB723-Y00 116 см Черный (24723001241.Y00)</name>
 				<name_ua>Дитячий термолонгслів Бембі FB723-Y00 116 см Чорний (24723001241.Y00)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_01(y00)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_01(y00)1b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_02(y00)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_02(y00)b.jpg</picture>
 				<vendor>Бемби</vendor>
 				<state>new</state>
 				<description>
@@ -99837,8 +99134,8 @@
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив Бемби FB723-Y00 134 см Черный (24723001244.Y00)</name>
 				<name_ua>Дитячий термолонгслів Бембі FB723-Y00 134 см Чорний (24723001244.Y00)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_01(y00)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_01(y00)1b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_02(y00)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_02(y00)b.jpg</picture>
 				<vendor>Бемби</vendor>
 				<state>new</state>
 				<description>
@@ -99882,8 +99179,8 @@
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив Бемби FB723-Y00 140 см Черный (24723001245.Y00)</name>
 				<name_ua>Дитячий термолонгслів Бембі FB723-Y00 140 см Чорний (24723001245.Y00)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_01(y00)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_01(y00)1b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_02(y00)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_02(y00)b.jpg</picture>
 				<vendor>Бемби</vendor>
 				<state>new</state>
 				<description>
@@ -99927,8 +99224,8 @@
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив Бемби FB723-Y00 146 см Черный (24723001268.Y00)</name>
 				<name_ua>Дитячий термолонгслів Бембі FB723-Y00 146 см Чорний (24723001268.Y00)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_01(y00)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_01(y00)1b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_02(y00)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/fb723(12)_02(y00)b.jpg</picture>
 				<vendor>Бемби</vendor>
 				<state>new</state>
 				<description>
@@ -100300,7 +99597,7 @@
 			</offer>
 			<offer available="true" id="453569039">
 				<price>1200</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636767</categoryId>
 				<name>Детское платье-вышиванка для девочки Бемби Этно PL405-206 92 см Молочное (14405723837.206)</name>
@@ -101232,7 +100529,7 @@
 			<offer available="true" id="454047050">
 				<price>1809</price>
 				<price_old>2352</price_old>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637047</categoryId>
 				<name>Детский теплый спортивный костюм (толстовка + штаны) Бемби KS791-G00 134 см Бежевый (06791702244.G00)</name>
@@ -104331,7 +103628,7 @@
 			</offer>
 			<offer available="true" id="455479779">
 				<price>179</price>
-				<stock_quantity>109</stock_quantity>
+				<stock_quantity>108</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Детские трусы-слипы для мальчика Бемби TR5-100 134 см Белые (22005011044.100)</name>
@@ -104556,7 +103853,7 @@
 			</offer>
 			<offer available="true" id="455479899">
 				<price>179</price>
-				<stock_quantity>33</stock_quantity>
+				<stock_quantity>32</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-слипы для мальчика Бемби TR5-800 146 см Синие (22005011068.800)</name>
@@ -104644,7 +103941,7 @@
 			</offer>
 			<offer available="true" id="455479909">
 				<price>185</price>
-				<stock_quantity>26</stock_quantity>
+				<stock_quantity>25</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-слипы для мальчика Бемби TR5-800 152 см Синие (22005011070.800)</name>
@@ -105272,7 +104569,7 @@
 			</offer>
 			<offer available="true" id="455480019">
 				<price>219</price>
-				<stock_quantity>7</stock_quantity>
+				<stock_quantity>6</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-слипы для мальчика Бемби TR43-800 152 см Синие (22043011070.800)</name>
@@ -106058,7 +105355,7 @@
 			</offer>
 			<offer available="true" id="455480604">
 				<price>420</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637015</categoryId>
 				<name>Детские лосины для девочки Бемби SHR822-Y00 92 см Черные (26822727437.Y00)</name>
@@ -106101,9 +105398,183 @@
 				<param name="Керування новою колекцією" paramid="248698" valueid="4741511">
 					<![CDATA[октябрь 2024]]></param>
 			</offer>
+			<offer available="true" id="455480744">
+				<price>440</price>
+				<stock_quantity>2</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4637015</categoryId>
+				<name>Детские лосины для девочки Бемби SHR822-Y00 122 см Черные (26822727442.Y00)</name>
+				<name_ua>Дитячі лосини для дівчинки Бембі SHR822-Y00 122 см Чорні (26822727442.Y00)</name_ua>
+				<picture>https://shop.bembi.ua/uploads/products/shr822(74)_01(y00)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/shr822(74)_01(y00)b.jpg</picture>
+				<vendor>Бемби</vendor>
+				<state>new</state>
+				<description>
+					<![CDATA[<p>Детские лосины для девочки из коллекции <strong>Бемби</strong> отшиты из трикотажа, в составе которого натуральный хлопок. Отличный выбор для повседневной носки, занятий гимнастикой или другими активностями.</p><p><strong>Особенности</strong>:</p><ul><li>Высокая посадка.</li><li>Облегающий крой.</li><li>Однотонная модель.</li><li>Тонкая эластичная резинка.</li><li>Поверхность в мелкий рубчик.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Ручная или машинная стирка при температуре 30-40℃.</li><li>Использовать мягкое средство для стирки.</li><li>Вывернуть на изнанку и отсортировать по цветовому принципу.</li><li>Для стирки в стиральной машине необходимо использовать специальный мешок для стирки.</li><li>Не рекомендуется сушить феном, вешать на горячие полотенцесушители, использовать для ускорения процесса высыхания горячий утюг.</li></ul>]]></description>
+				<description_ua>
+					<![CDATA[<p>Дитячі лосини для дівчинки з колекції <strong>Бембі</strong> відшиті з трикотажу, у складі якого натуральна бавовна. Відмінний вибір для повсякденного носіння, занять гімнастикою або іншими активностями.</p><p><strong>Особливості</strong>:</p><ul><li>Висока посадка.</li><li>Облягаючий крій.</li><li>Однотонна модель.</li><li>Тонка еластична резинка.</li><li>Поверхня в дрібний рубчик.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Ручне або машинне прання за температури 30-40℃.</li><li>Використовувати м&#039;який засіб для прання.</li><li>Вивернути на виворіт і відсортувати за колірним принципом.</li><li>Для прання в пральній машині необхідно використовувати спеціальний мішок для прання.</li><li>Не рекомендується сушити феном, вішати на гарячі рушникосушки, використовувати для прискорення процесу висихання гарячу праску.</li></ul>]]></description_ua>
+				<article>26822727442.Y00</article>
+				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
+					<![CDATA[Украина]]></param>
+				<param name="Колір" paramid="131559" valueid="1008470">
+					<![CDATA[Черный]]></param>
+				<param name="Зріст" paramid="131587" valueid="1013160">
+					<![CDATA[122]]></param>
+				<param name="Дитячий вік" paramid="151000" valueid="1416600">
+					<![CDATA[7 лет]]></param>
+				<param name="Код УКТ ЗЕД" paramid="82508">
+					<![CDATA[6209200000]]></param>
+				<param name="Склад" paramid="131615">
+					<![CDATA[100% хлопок]]></param>
+				<param name="Модель для групування (МДГ)" paramid="215080">
+					<![CDATA[SHR822-Y00]]></param>
+				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+					<![CDATA[1]]></param>
+				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
+					<![CDATA[Украина]]></param>
+				<param name="Матеріал" paramid="131573" valueid="1010507;1236543">
+					<![CDATA[Трикотаж, Рубчик]]></param>
+				<param name="EAN" paramid="26294">
+					<![CDATA[4824045026919]]></param>
+				<param name="Кількість предметів" paramid="92802" valueid="475520">
+					<![CDATA[1]]></param>
+				<param name="Керування новою колекцією" paramid="248698" valueid="4741511">
+					<![CDATA[октябрь 2024]]></param>
+			</offer>
+			<offer available="true" id="455480749">
+				<price>540</price>
+				<stock_quantity>2</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4637015</categoryId>
+				<name>Детские лосины для девочки Бемби SHR822-Y00 128 см Черные (26822727443.Y00)</name>
+				<name_ua>Дитячі лосини для дівчинки Бембі SHR822-Y00 128 см Чорні (26822727443.Y00)</name_ua>
+				<picture>https://shop.bembi.ua/uploads/products/shr822(74)_01(y00)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/shr822(74)_01(y00)b.jpg</picture>
+				<vendor>Бемби</vendor>
+				<state>new</state>
+				<description>
+					<![CDATA[<p>Детские лосины для девочки из коллекции <strong>Бемби</strong> отшиты из трикотажа, в составе которого натуральный хлопок. Отличный выбор для повседневной носки, занятий гимнастикой или другими активностями.</p><p><strong>Особенности</strong>:</p><ul><li>Высокая посадка.</li><li>Облегающий крой.</li><li>Однотонная модель.</li><li>Тонкая эластичная резинка.</li><li>Поверхность в мелкий рубчик.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Ручная или машинная стирка при температуре 30-40℃.</li><li>Использовать мягкое средство для стирки.</li><li>Вывернуть на изнанку и отсортировать по цветовому принципу.</li><li>Для стирки в стиральной машине необходимо использовать специальный мешок для стирки.</li><li>Не рекомендуется сушить феном, вешать на горячие полотенцесушители, использовать для ускорения процесса высыхания горячий утюг.</li></ul>]]></description>
+				<description_ua>
+					<![CDATA[<p>Дитячі лосини для дівчинки з колекції <strong>Бембі</strong> відшиті з трикотажу, у складі якого натуральна бавовна. Відмінний вибір для повсякденного носіння, занять гімнастикою або іншими активностями.</p><p><strong>Особливості</strong>:</p><ul><li>Висока посадка.</li><li>Облягаючий крій.</li><li>Однотонна модель.</li><li>Тонка еластична резинка.</li><li>Поверхня в дрібний рубчик.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Ручне або машинне прання за температури 30-40℃.</li><li>Використовувати м&#039;який засіб для прання.</li><li>Вивернути на виворіт і відсортувати за колірним принципом.</li><li>Для прання в пральній машині необхідно використовувати спеціальний мішок для прання.</li><li>Не рекомендується сушити феном, вішати на гарячі рушникосушки, використовувати для прискорення процесу висихання гарячу праску.</li></ul>]]></description_ua>
+				<article>26822727443.Y00</article>
+				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
+					<![CDATA[Украина]]></param>
+				<param name="Колір" paramid="131559" valueid="1008470">
+					<![CDATA[Черный]]></param>
+				<param name="Зріст" paramid="131587" valueid="1013608">
+					<![CDATA[128]]></param>
+				<param name="Дитячий вік" paramid="151000" valueid="1416608">
+					<![CDATA[8 лет]]></param>
+				<param name="Код УКТ ЗЕД" paramid="82508">
+					<![CDATA[6209200000]]></param>
+				<param name="Склад" paramid="131615">
+					<![CDATA[100% хлопок]]></param>
+				<param name="Модель для групування (МДГ)" paramid="215080">
+					<![CDATA[SHR822-Y00]]></param>
+				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+					<![CDATA[1]]></param>
+				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
+					<![CDATA[Украина]]></param>
+				<param name="Матеріал" paramid="131573" valueid="1010507;1236543">
+					<![CDATA[Трикотаж, Рубчик]]></param>
+				<param name="EAN" paramid="26294">
+					<![CDATA[4824045026926]]></param>
+				<param name="Кількість предметів" paramid="92802" valueid="475520">
+					<![CDATA[1]]></param>
+				<param name="Керування новою колекцією" paramid="248698" valueid="4741511">
+					<![CDATA[октябрь 2024]]></param>
+			</offer>
+			<offer available="true" id="455480754">
+				<price>540</price>
+				<stock_quantity>2</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4637015</categoryId>
+				<name>Детские лосины для девочки Бемби SHR822-Y00 134 см Черные (26822727444.Y00)</name>
+				<name_ua>Дитячі лосини для дівчинки Бембі SHR822-Y00 134 см Чорні (26822727444.Y00)</name_ua>
+				<picture>https://shop.bembi.ua/uploads/products/shr822(74)_01(y00)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/shr822(74)_01(y00)b.jpg</picture>
+				<vendor>Бемби</vendor>
+				<state>new</state>
+				<description>
+					<![CDATA[<p>Детские лосины для девочки из коллекции <strong>Бемби</strong> отшиты из трикотажа, в составе которого натуральный хлопок. Отличный выбор для повседневной носки, занятий гимнастикой или другими активностями.</p><p><strong>Особенности</strong>:</p><ul><li>Высокая посадка.</li><li>Облегающий крой.</li><li>Однотонная модель.</li><li>Тонкая эластичная резинка.</li><li>Поверхность в мелкий рубчик.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Ручная или машинная стирка при температуре 30-40℃.</li><li>Использовать мягкое средство для стирки.</li><li>Вывернуть на изнанку и отсортировать по цветовому принципу.</li><li>Для стирки в стиральной машине необходимо использовать специальный мешок для стирки.</li><li>Не рекомендуется сушить феном, вешать на горячие полотенцесушители, использовать для ускорения процесса высыхания горячий утюг.</li></ul>]]></description>
+				<description_ua>
+					<![CDATA[<p>Дитячі лосини для дівчинки з колекції <strong>Бембі</strong> відшиті з трикотажу, у складі якого натуральна бавовна. Відмінний вибір для повсякденного носіння, занять гімнастикою або іншими активностями.</p><p><strong>Особливості</strong>:</p><ul><li>Висока посадка.</li><li>Облягаючий крій.</li><li>Однотонна модель.</li><li>Тонка еластична резинка.</li><li>Поверхня в дрібний рубчик.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Ручне або машинне прання за температури 30-40℃.</li><li>Використовувати м&#039;який засіб для прання.</li><li>Вивернути на виворіт і відсортувати за колірним принципом.</li><li>Для прання в пральній машині необхідно використовувати спеціальний мішок для прання.</li><li>Не рекомендується сушити феном, вішати на гарячі рушникосушки, використовувати для прискорення процесу висихання гарячу праску.</li></ul>]]></description_ua>
+				<article>26822727444.Y00</article>
+				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
+					<![CDATA[Украина]]></param>
+				<param name="Колір" paramid="131559" valueid="1008470">
+					<![CDATA[Черный]]></param>
+				<param name="Зріст" paramid="131587" valueid="1013139">
+					<![CDATA[134]]></param>
+				<param name="Дитячий вік" paramid="151000" valueid="1416616">
+					<![CDATA[9 лет]]></param>
+				<param name="Код УКТ ЗЕД" paramid="82508">
+					<![CDATA[6209200000]]></param>
+				<param name="Склад" paramid="131615">
+					<![CDATA[100% хлопок]]></param>
+				<param name="Модель для групування (МДГ)" paramid="215080">
+					<![CDATA[SHR822-Y00]]></param>
+				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+					<![CDATA[1]]></param>
+				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
+					<![CDATA[Украина]]></param>
+				<param name="Матеріал" paramid="131573" valueid="1010507;1236543">
+					<![CDATA[Трикотаж, Рубчик]]></param>
+				<param name="EAN" paramid="26294">
+					<![CDATA[4824045026933]]></param>
+				<param name="Кількість предметів" paramid="92802" valueid="475520">
+					<![CDATA[1]]></param>
+				<param name="Керування новою колекцією" paramid="248698" valueid="4741511">
+					<![CDATA[октябрь 2024]]></param>
+			</offer>
+			<offer available="true" id="455480759">
+				<price>540</price>
+				<stock_quantity>2</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4637015</categoryId>
+				<name>Подростковые лосины для девочки Бемби SHR822-Y00 140 см Черные (26822727445.Y00)</name>
+				<name_ua>Підліткові лосини для дівчинки Бембі SHR822-Y00 140 см Чорні (26822727445.Y00)</name_ua>
+				<picture>https://shop.bembi.ua/uploads/products/shr822(74)_01(y00)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/shr822(74)_01(y00)b.jpg</picture>
+				<vendor>Бемби</vendor>
+				<state>new</state>
+				<description>
+					<![CDATA[<p>Подростковые лосины для девочки из коллекции <strong>Бемби</strong> отшиты из трикотажа, в составе которого натуральный хлопок. Отличный выбор для повседневной носки, занятий гимнастикой или другими активностями.</p><p><strong>Особенности</strong>:</p><ul><li>Высокая посадка.</li><li>Облегающий крой.</li><li>Однотонная модель.</li><li>Тонкая эластичная резинка.</li><li>Поверхность в мелкий рубчик.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Ручная или машинная стирка при температуре 30-40℃.</li><li>Использовать мягкое средство для стирки.</li><li>Вывернуть на изнанку и отсортировать по цветовому принципу.</li><li>Для стирки в стиральной машине необходимо использовать специальный мешок для стирки.</li><li>Не рекомендуется сушить феном, вешать на горячие полотенцесушители, использовать для ускорения процесса высыхания горячий утюг.</li></ul>]]></description>
+				<description_ua>
+					<![CDATA[<p>Підліткові лосини для дівчинки з колекції <strong>Бембі</strong> відшиті з трикотажу, у складі якого натуральна бавовна. Відмінний вибір для повсякденного носіння, занять гімнастикою або іншими активностями.</p><p><strong>Особливості</strong>:</p><ul><li>Висока посадка.</li><li>Облягаючий крій.</li><li>Однотонна модель.</li><li>Тонка еластична резинка.</li><li>Поверхня в дрібний рубчик.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Ручне або машинне прання за температури 30-40℃.</li><li>Використовувати м&#039;який засіб для прання.</li><li>Вивернути на виворіт і відсортувати за колірним принципом.</li><li>Для прання в пральній машині необхідно використовувати спеціальний мішок для прання.</li><li>Не рекомендується сушити феном, вішати на гарячі рушникосушки, використовувати для прискорення процесу висихання гарячу праску.</li></ul>]]></description_ua>
+				<article>26822727445.Y00</article>
+				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
+					<![CDATA[Украина]]></param>
+				<param name="Колір" paramid="131559" valueid="1008470">
+					<![CDATA[Черный]]></param>
+				<param name="Зріст" paramid="131587" valueid="1013286">
+					<![CDATA[140]]></param>
+				<param name="Дитячий вік" paramid="151000" valueid="1416624">
+					<![CDATA[10 лет]]></param>
+				<param name="Код УКТ ЗЕД" paramid="82508">
+					<![CDATA[6209200000]]></param>
+				<param name="Склад" paramid="131615">
+					<![CDATA[100% хлопок]]></param>
+				<param name="Модель для групування (МДГ)" paramid="215080">
+					<![CDATA[SHR822-Y00]]></param>
+				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+					<![CDATA[1]]></param>
+				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
+					<![CDATA[Украина]]></param>
+				<param name="Матеріал" paramid="131573" valueid="1010507;1236543">
+					<![CDATA[Трикотаж, Рубчик]]></param>
+				<param name="EAN" paramid="26294">
+					<![CDATA[4824045026940]]></param>
+				<param name="Артикул моделі" paramid="256977">
+					<![CDATA[SHR822-Y00]]></param>
+				<param name="Кількість предметів" paramid="92802" valueid="475520">
+					<![CDATA[1]]></param>
+				<param name="Керування новою колекцією" paramid="248698" valueid="4741511">
+					<![CDATA[октябрь 2024]]></param>
+			</offer>
 			<offer available="true" id="455480764">
 				<price>540</price>
-				<stock_quantity>9</stock_quantity>
+				<stock_quantity>11</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637015</categoryId>
 				<name>Подростковые лосины для девочки Бемби SHR822-Y00 146 см Черные (26822727468.Y00)</name>
@@ -106216,83 +105687,6 @@
 					<![CDATA[Флис]]></param>
 				<param name="EAN" paramid="26294">
 					<![CDATA[4824045012745]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[KF226-G00]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4741511">
-					<![CDATA[октябрь 2024]]></param>
-			</offer>
-			<offer available="true" id="455481014">
-				<price>699</price>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4636567</categoryId>
-				<name>Подростковая флисовая толстовка Бембі KF226-G00 140 см Бежевая (07226702145.G00)</name>
-				<name_ua>Підліткова флісова толстовка Бембі KF226-G00 140 см Бежева (07226702145.G00)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/kf226(21)_01(g00)a2.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/kf226(21)_01(g00)b2.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/kf226(21)_01(g00)c2.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/kf226(21)_01(g00)d2.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Подростковая кофта из коллекции <strong>Бемби</strong> отшита из флиса. Рукав вшивной на манжете из основной ткани. Карманы обшиты декоративной строчкой. Ткань мягкая, теплая и приятная на ощупь.</p>
-<p><strong>Особенности</strong>:</p>
-<ul>
-<li>Модель на замке по всей длине изделия.</li>
-<li>Имеет воротник-стойку с защитой подбородка.</li>
-<li>Длинный рукав собран манжетой.</li>
-<li>По бокам удобные прорезные карманы.</li>
-<li>Модель свободного кроя.</li>
-</ul>
-<p><strong>Рекомендации по уходу:</strong></p>
-<ul>
-<li>Машинная стирка не выше 30℃.</li>
-<li>Не отбеливать.</li>
-<li>Не сушить в стиральной машине.</li>
-<li>Гладить при максимальной температуре 110℃.</li>
-<li>Не подвергать химической чистке.</li>
-</ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Підліткова кофта з колекції <strong>Бембі</strong> відшита з флісу. Рукав вшивний на манжеті з основної тканини. Кишені обшиті декоративним рядком. Тканина м&#039;яка, тепла і приємна на дотик.</p>
-<p><strong>Особливості</strong>:</p>
-<ul>
-<li>Модель на замку по всій довжині виробу.</li>
-<li>Має комір-стійку із захистом підборіддя.</li>
-<li>Довгий рукав зібраний манжетою.</li>
-<li>З боків зручні прорізні кишені.</li>
-<li>Модель вільного крою.</li>
-</ul>
-<p><strong>Рекомендації щодо догляду:</strong></p>
-<ul>
-<li>Машинне прання не вище 30℃.</li>
-<li>Не вибілювати.</li>
-<li>Не сушити у пральній машині.</li>
-<li>Прасувати при максимальній температурі 110℃.</li>
-<li>Не піддавати хімічному чищенню.</li>
-</ul>]]></description_ua>
-				<article>07226702145.G00</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008148">
-					<![CDATA[Бежевый]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013286">
-					<![CDATA[140]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416624">
-					<![CDATA[10 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209300000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[100% полиэстер]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[KF226-G00]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1177535">
-					<![CDATA[Флис]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4824045012752]]></param>
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[KF226-G00]]></param>
 				<param name="Керування новою колекцією" paramid="248698" valueid="4741511">
@@ -108458,7 +107852,7 @@
 			</offer>
 			<offer available="true" id="45637360">
 				<price>169</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби МК4 92 см Белая (10004021237.100)</name>
@@ -110186,7 +109580,7 @@
 			</offer>
 			<offer available="true" id="45637672">
 				<price>219</price>
-				<stock_quantity>11</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668271</categoryId>
 				<name>Подростковая майка для мальчика Бемби МК7 140 см Белая (10007011245.100)</name>
@@ -110242,43 +109636,6 @@
 					<![CDATA[Серый]]></param>
 				<param name="Зріст" paramid="131587" valueid="1013363">
 					<![CDATA[110]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6103320000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[100% хлопок]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[МК12-MX0]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[МК12]]></param>
-				<param name="Кількість предметів" paramid="92802" valueid="475520">
-					<![CDATA[1]]></param>
-			</offer>
-			<offer available="true" id="45637688">
-				<price>189</price>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4668271</categoryId>
-				<name>Детская майка для мальчика Бемби МК12 116 см Серый меланж (10012011241.MX0)</name>
-				<name_ua>Дитяча майка для хлопчика Бембі МК12 116 см Сірий меланж (10012011241.MX0)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/mk12(12)_02(mx0)a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/mk12(12)_02(mx0)b.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Детская майка от <strong>Бемби</strong> отшита из материала рибана, в составе натуральный хлопок. Модель универсальная, её можно носить дома, под одеждой, чтобы согреться в холодную пору или во время ночного отдыха.</p><p><strong>Особенности</strong>:</p><ul><li>Майка создана из хлопкового материала.</li><li>Хлопок не вызывает аллергических реакций и очень приятен к телу.</li><li>Ткань не натирает, прекрасно впитывает влагу, проводит тепло и легко стирается.</li><li>Модель на широких бретелях.</li><li>Однотонная модель.</li><li>Прямой крой.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Стирка в стиральной машине 40℃.</li><li>Не гладьте графические элементы.</li><li>Не подвергать химической чистке.</li><li>Стирать, вывернув наизнанку.</li></ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Дитяча майка від <strong>Бембі</strong> зшита з матеріалу рібана, у складі натуральна бавовна. Модель досить універсальна, її можна носити вдома, під одягом, щоб зігрітися в холодну пору або під час нічного відпочинку.</p><p><strong>Особливості</strong>:</p><ul><li>Майка створена з бавовняного матеріалу.</li><li>Бавовна не викликає алергічних реакцій і дуже приємна до тіла.</li><li>Тканина не натирає, прекрасно вбирає вологу, проводить тепло і легко переться.</li><li>Модель на широких бретелях.</li><li>Однотонна модель.</li><li>Прямий крій.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Прання у пральній машині 40℃.</li><li>Не прасуйте графічні елементи.</li><li>Не піддавати хімічному чищенню.</li><li>Прати, вивернувши навиворіт.</li></ul>]]></description_ua>
-				<article>10012011241.MX0</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008407">
-					<![CDATA[Серый]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013636">
-					<![CDATA[116]]></param>
 				<param name="Код УКТ ЗЕД" paramid="82508">
 					<![CDATA[6103320000]]></param>
 				<param name="Склад" paramid="131615">
@@ -113208,81 +112565,6 @@
 				<param name="Керування новою колекцією" paramid="248698" valueid="4786134">
 					<![CDATA[декабрь 2024]]></param>
 			</offer>
-			<offer available="true" id="464980034">
-				<price>459</price>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4646072</categoryId>
-				<name>Детский теплый человечек для новорожденных Бемби KB122-G05 62 см Бежевый (03122001532.G05)</name>
-				<name_ua>Дитячий теплий чоловічок для новонароджених Бембі KB122-G05 62 см Бежевий (03122001532.G05)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/kb122(15)_10(g05)11b.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/kb122(15)_10(g05)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/kb122(15)_10(g05)c.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/kb122(15)_10(g05)d.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Детский теплый человечек из коллекции <strong>Бемби</strong>. Модель пошита из материала байка, в составе которого только натуральный хлопок. Человечек украшен рисунками животных.</p>
-<p><strong>Особенности</strong>:</p>
-<ul>
-<li>Застёгивается на кнопки по всей длине.</li>
-<li>Круглый вырез горловины.</li>
-<li>Рукава-антицарапка.</li>
-<li>Закрытые ножки.</li>
-</ul>
-<p><strong>Рекомендации по уходу:</strong></p>
-<ul>
-<li>Ручная или машинная стирка при температуре 40℃.</li>
-<li>Использовать мягкое средство для стирки и кондиционер для белья.</li>
-<li>Изделие должно быть вывернуто наизнанку, отсортировано по цветному принципу.</li>
-<li>Гладить с изнаночной стороны.</li>
-</ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Дитячий теплий чоловічок із колекції <strong>Бембі</strong>. Модель пошита з матеріалу байка, у складі якого тільки натуральна бавовна. Чоловічок прикрашений малюнками тварин.</p>
-<p><strong>Особливості</strong>:</p>
-<ul>
-<li>Застібається на кнопки по всій довжині.</li>
-<li>Круглий виріз горловини.</li>
-<li>Рукава-антиподряпка.</li>
-<li>Закриті ніжки.</li>
-</ul>
-<p><strong>Рекомендації щодо догляду:</strong></p>
-<ul>
-<li>Ручне чи машинне прання за температури 30℃.</li>
-<li>Використовувати м&#039;який засіб для прання та кондиціонер для білизни.</li>
-<li>Виріб повинен бути вивернутий навиворіт, відсортований за кольоровим принципом.</li>
-<li>Прасувати з виворітного боку.</li>
-</ul>]]></description_ua>
-				<article>03122001532.G05</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008148">
-					<![CDATA[Бежевый]]></param>
-				<param name="Зріст" paramid="131587" valueid="1132087">
-					<![CDATA[62]]></param>
-				<param name="Стать" paramid="144168" valueid="1355352;1355336">
-					<![CDATA[Для мальчиков, Для девочек]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416472">
-					<![CDATA[3 месяца]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[100% хлопок]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[KB122-G05]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4824045048447]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[KB122-G05]]></param>
-				<param name="Кількість предметів" paramid="92802" valueid="475520">
-					<![CDATA[1]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4786134">
-					<![CDATA[декабрь 2024]]></param>
-			</offer>
 			<offer available="true" id="464980079">
 				<price>565</price>
 				<stock_quantity>5</stock_quantity>
@@ -115904,7 +115186,7 @@
 			</offer>
 			<offer available="true" id="493668474">
 				<price>199</price>
-				<stock_quantity>69</stock_quantity>
+				<stock_quantity>59</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Детские трусы-боксеры для мальчика Бемби TR47-841 104 см Синий/Голубой (22047011039.841)</name>
@@ -116219,7 +115501,7 @@
 			</offer>
 			<offer available="true" id="495736809">
 				<price>199</price>
-				<stock_quantity>24</stock_quantity>
+				<stock_quantity>23</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Детские трусы-боксеры для мальчика Бемби TR47-V01 116 см Хаки (22047011041.V01)</name>
@@ -116579,7 +115861,7 @@
 			</offer>
 			<offer available="true" id="495736854">
 				<price>199</price>
-				<stock_quantity>28</stock_quantity>
+				<stock_quantity>18</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Детские трусы-боксеры для мальчика Бемби TR47-V01 104 см Хаки (22047011039.V01)</name>
@@ -116939,7 +116221,7 @@
 			</offer>
 			<offer available="true" id="495736899">
 				<price>179</price>
-				<stock_quantity>60</stock_quantity>
+				<stock_quantity>59</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Детские трусы-слипы для мальчика Бемби TR45-V01 134 см Хаки (22045011044.V01)</name>
@@ -117881,57 +117163,6 @@
 					<![CDATA[4824045063723]]></param>
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[KS794-Y00]]></param>
-				<param name="Кількість предметів" paramid="92802" valueid="476428">
-					<![CDATA[2]]></param>
-				<param name="Довжина рукава" paramid="105869" valueid="638457">
-					<![CDATA[С короткими рукавами]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4889359">
-					<![CDATA[апрель 2025]]></param>
-			</offer>
-			<offer available="true" id="502459584">
-				<price>329</price>
-				<price_old>599</price_old>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4668181</categoryId>
-				<name>Детский комплект (футболка + велосипедки) для девочки Бемби KS817-9G0 116 см Светло-розовый/Бежевый (06817321041.9G0)</name>
-				<name_ua>Дитячий комплект (футболка + велосипедки) для дівчинки Бембі KS817-9G0 116 см Світло-рожевий/Бежевий (06817321041.9G0)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/ks817(10)_01(9g0)1.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/ks817(10)_01(9g0)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/ks817(10)_01(9g0)1b.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/ks817(10)_01(9g0)1c.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/ks817(10)_01(9g0)1d.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[Супрем, футболка прямого силуэта, короткий рукав, печать. Шорты облегающего силуэта, короткие, пояс на резинке.]]></description>
-				<description_ua>
-					<![CDATA[Супрем, футболка прямого силуету, рукав короткий, друк. Шорти облягаючого силуету, короткі, пояс на резинці.]]></description_ua>
-				<article>06817321041.9G0</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008491;1008148">
-					<![CDATA[Средний сиреневый розовый, Бежевый]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013636">
-					<![CDATA[116]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416592">
-					<![CDATA[6 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6104192000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[100% хлопок]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[KS817-9G0]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1501800">
-					<![CDATA[Супрем]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4824045063853]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[KS817-9G0]]></param>
 				<param name="Кількість предметів" paramid="92802" valueid="476428">
 					<![CDATA[2]]></param>
 				<param name="Довжина рукава" paramid="105869" valueid="638457">
@@ -119263,7 +118494,7 @@
 			<offer available="true" id="502462689">
 				<price>319</price>
 				<price_old>559</price_old>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636407</categoryId>
 				<name>Подростковая футболка для мальчика Бемби FT27-G02 158 см Бежевая (47027311071.G02)</name>
@@ -120805,7 +120036,7 @@
 			</offer>
 			<offer available="true" id="530553789">
 				<price>799</price>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>5</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636311</categoryId>
 				<name>Подростковая футболка-вышиванка для мальчика Бемби FT70-2G5 152 см Молочная/Бежевый Принт (47070511070.2G5)</name>
@@ -120847,7 +120078,7 @@
 			</offer>
 			<offer available="true" id="530553829">
 				<price>799</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636311</categoryId>
 				<name>Подростковая футболка-вышиванка для мальчика Бемби FT70-2G5 158 см Молочная/Бежевый Принт (47070511071.2G5)</name>
@@ -121240,7 +120471,7 @@
 			</offer>
 			<offer available="true" id="536568879">
 				<price>179</price>
-				<stock_quantity>7</stock_quantity>
+				<stock_quantity>6</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Детские трусы-слипы для мальчика Бемби TR45-841 134 см Синий/Голубой (22045011044.841)</name>
