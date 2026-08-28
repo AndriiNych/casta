@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-28 12:10">
+<yml_catalog date="2026-08-28 18:09">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -18849,7 +18849,7 @@
 			</offer>
 			<offer available="true" id="330228643">
 				<price>189</price>
-				<stock_quantity>69</stock_quantity>
+				<stock_quantity>64</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби MK22 (100) 104 см Белая (10022021039.100)</name>
@@ -19257,7 +19257,7 @@
 			</offer>
 			<offer available="true" id="330228940">
 				<price>225</price>
-				<stock_quantity>42</stock_quantity>
+				<stock_quantity>37</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби MK22 (100) 128 см Белая (10022021043.100)</name>
@@ -19708,7 +19708,7 @@
 			</offer>
 			<offer available="true" id="330228976">
 				<price>249</price>
-				<stock_quantity>36</stock_quantity>
+				<stock_quantity>31</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Подростковая майка для девочки Бемби MK22 (100) 152 см Белая (10022021070.100)</name>
@@ -19749,7 +19749,7 @@
 			</offer>
 			<offer available="true" id="330228985">
 				<price>249</price>
-				<stock_quantity>39</stock_quantity>
+				<stock_quantity>34</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Подростковая майка для девочки Бемби MK22 (100) 158 см Белая (10022021071.100)</name>
@@ -23179,7 +23179,7 @@
 			</offer>
 			<offer available="true" id="330229285">
 				<price>213</price>
-				<stock_quantity>54</stock_quantity>
+				<stock_quantity>49</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668271</categoryId>
 				<name>Детская майка для мальчика Бемби MK24 (XM0) 128 см Серый меланж (10024011043.XM0)</name>
@@ -23220,7 +23220,7 @@
 			</offer>
 			<offer available="true" id="330229288">
 				<price>213</price>
-				<stock_quantity>62</stock_quantity>
+				<stock_quantity>57</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668271</categoryId>
 				<name>Детская майка для мальчика Бемби MK24 (XM0) 134 см Серый меланж (10024011044.XM0)</name>
@@ -23302,7 +23302,7 @@
 			</offer>
 			<offer available="true" id="330229294">
 				<price>213</price>
-				<stock_quantity>92</stock_quantity>
+				<stock_quantity>87</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668271</categoryId>
 				<name>Подростковая майка для мальчика Бемби MK24 (XM0) 146 см Серый меланж (10024011068.XM0)</name>
@@ -43171,7 +43171,7 @@
 			</offer>
 			<offer available="true" id="362865762">
 				<price>119</price>
-				<stock_quantity>46</stock_quantity>
+				<stock_quantity>41</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668175</categoryId>
 				<name>Детская шапочка для девочки Бемби ШП91-900 42 Светло-Розовая (4823116439238)</name>
@@ -49519,7 +49519,7 @@
 			</offer>
 			<offer available="true" id="365284308">
 				<price>569</price>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>7</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4646072</categoryId>
 				<name>Детский теплый флисовый человечек Бемби КБ214-G00 80 см Бежевый (03214702135.G00)</name>
@@ -86672,7 +86672,7 @@
 			</offer>
 			<offer available="true" id="440608598">
 				<price>750</price>
-				<stock_quantity>10</stock_quantity>
+				<stock_quantity>8</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636383</categoryId>
 				<name>Детское футболка-поло для мальчика Бемби FB999-100 116 см Белое (24999515941.100)</name>
@@ -86796,7 +86796,7 @@
 			</offer>
 			<offer available="true" id="440608667">
 				<price>750</price>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>6</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636383</categoryId>
 				<name>Детское футболка-поло для мальчика Бемби FB999-100 122 см Белое (24999515942.100)</name>
@@ -87044,7 +87044,7 @@
 			</offer>
 			<offer available="true" id="440608781">
 				<price>750</price>
-				<stock_quantity>10</stock_quantity>
+				<stock_quantity>7</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636383</categoryId>
 				<name>Детское футболка-поло для мальчика Бемби FB999-100 134 см Белое (24999515944.100)</name>
@@ -87416,7 +87416,7 @@
 			</offer>
 			<offer available="true" id="440608964">
 				<price>800</price>
-				<stock_quantity>10</stock_quantity>
+				<stock_quantity>8</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636383</categoryId>
 				<name>Подростковое футболка-поло для мальчика Бемби FB999-100 152 см Белое (24999515970.100)</name>
@@ -87540,7 +87540,7 @@
 			</offer>
 			<offer available="true" id="440609021">
 				<price>800</price>
-				<stock_quantity>11</stock_quantity>
+				<stock_quantity>9</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636383</categoryId>
 				<name>Подростковое футболка-поло для мальчика Бемби FB999-100 158 см Белое (24999515971.100)</name>
@@ -89694,7 +89694,7 @@
 			</offer>
 			<offer available="true" id="441954914">
 				<price>499</price>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636415</categoryId>
 				<name>Детская футболка с длинными рукавами для мальчика Бемби FT22 -V00 92 см Хаки (47022711137.V00)</name>
@@ -98460,7 +98460,7 @@
 			</offer>
 			<offer available="true" id="455477444">
 				<price>390</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636535</categoryId>
 				<name>Детская водолазка-гольф Бемби GF94-100 92 см Белая (02094001137.100)</name>
@@ -98507,7 +98507,7 @@
 			</offer>
 			<offer available="true" id="455477499">
 				<price>390</price>
-				<stock_quantity>24</stock_quantity>
+				<stock_quantity>23</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636535</categoryId>
 				<name>Детская водолазка-гольф Бемби GF94-100 98 см Белая (02094001138.100)</name>
