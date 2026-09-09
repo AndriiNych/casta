@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-09 12:10">
+<yml_catalog date="2026-09-09 18:09">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -4026,7 +4026,7 @@
 			</offer>
 			<offer available="true" id="244944895">
 				<price>470</price>
-				<stock_quantity>10</stock_quantity>
+				<stock_quantity>53</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детские термокальсоны для мальчика Бемби SHR289 800 104 см Синие (26289001239.800)</name>
@@ -6324,7 +6324,7 @@
 			</offer>
 			<offer available="true" id="260958196">
 				<price>470</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>42</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детские термокальсоны для мальчика Бемби SHR289-YX1 104 см Черно-серый рисунок (ROZ6400025583)</name>
@@ -6391,7 +6391,7 @@
 			</offer>
 			<offer available="true" id="260958201">
 				<price>470</price>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>14</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детские термокальсоны для мальчика Бемби SHR289-YX1 110 см Черно-серый рисунок (ROZ6400025584)</name>
@@ -12375,7 +12375,7 @@
 					<![CDATA[июль 2021]]></param>
 			</offer>
 			<offer available="true" id="309768338">
-				<price>370</price>
+				<price>425</price>
 				<stock_quantity>32</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636927</categoryId>
@@ -14913,7 +14913,7 @@
 			</offer>
 			<offer available="true" id="328484281">
 				<price>459</price>
-				<stock_quantity>31</stock_quantity>
+				<stock_quantity>28</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4646072</categoryId>
 				<name>Детский человечек для новорожденных девочек Бемби KB122-20C 62 см Молочный (03122001132.20C)</name>
@@ -20042,7 +20042,7 @@
 			</offer>
 			<offer available="true" id="330228925">
 				<price>189</price>
-				<stock_quantity>26</stock_quantity>
+				<stock_quantity>55</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби MK22 (900) 116 см Светло-розовая (10022021041.900)</name>
@@ -20165,7 +20165,7 @@
 			</offer>
 			<offer available="true" id="330228934">
 				<price>189</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>29</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби MK22 (900) 122 см Светло-розовая (10022021042.900)</name>
@@ -20288,7 +20288,7 @@
 			</offer>
 			<offer available="true" id="330228943">
 				<price>225</price>
-				<stock_quantity>10</stock_quantity>
+				<stock_quantity>39</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби MK22 (900) 128 см Светло-розовая (10022021043.900)</name>
@@ -20411,7 +20411,7 @@
 			</offer>
 			<offer available="true" id="330228952">
 				<price>225</price>
-				<stock_quantity>11</stock_quantity>
+				<stock_quantity>40</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби MK22 (900) 134 см Светло-розовая (10022021044.900)</name>
@@ -29953,7 +29953,7 @@
 			</offer>
 			<offer available="true" id="336122572">
 				<price>259</price>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>38</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668283</categoryId>
 				<name>Детский комплект белья (топ + трусы) для девочки Бемби KP266-Y00 122 см Черный (05266021042.Y00)</name>
@@ -30042,6 +30042,98 @@
 					<![CDATA[4823116406957]]></param>
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[KP266-Y00]]></param>
+				<param name="Кількість предметів" paramid="92802" valueid="475520">
+					<![CDATA[1]]></param>
+				<param name="Тип" paramid="225805" valueid="3306127">
+					<![CDATA[Топ+трусы]]></param>
+			</offer>
+			<offer available="true" id="336122581">
+				<price>259</price>
+				<stock_quantity>30</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4668283</categoryId>
+				<name>Подростковый комплект белья (топ + трусы) для девочки Бемби KP266-Y00 140 см Черный (05266021045.Y00)</name>
+				<name_ua>Підлітковий комплект білизни (топ + труси) для дівчинки Бемби KP266-Y00 140 см Чорний (05266021045.Y00)</name_ua>
+				<picture>https://shop.bembi.ua/uploads/products/kp266(10)_01(y00)1.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/kp266(10)_01(y00)1a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/kp266(10)_01(y00)1b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/kp266(10)_01(y00)1c.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/kp266(10)_01(y00)1d.jpg</picture>
+				<vendor>Бемби</vendor>
+				<state>new</state>
+				<description>
+					<![CDATA[<p>Подростковый комплект белья для девочки из фирменной коллекции <strong>Бемби</strong>. Он изготовлен из приятной к телу ткани &mdash; супрем, которая обеспечивает мягкость, воздухопроницаемость и гипоаллергенность. Комплект состоит из топика и трусиков. Шикарный вариант на каждый день.</p><p><strong>Особенности</strong>:</p><ul><li>Однотонный комплект детского белья.</li><li>Топ укороченного кроя с широкими бретелями.</li><li>Трусики-шортики с эластичной резинкой.</li><li>Модель выполнена в черном цвете.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Машинная стирка при максимальной температуре 30&deg;C.</li><li>Не отбеливать.</li><li>Не сушить в стиральной машине.</li><li>Сушить в тени.</li><li>Гладить при низкой температуре.</li><li>Не подвергать химической чистке.</li></ul>]]></description>
+				<description_ua>
+					<![CDATA[<p>Підлітковий комплект білизни для дівчинки з фірмової колекції <strong>Бембі</strong>. Він виготовлений з приємної до тіла тканини &mdash; супрем, яка забезпечує м&#039;якість, повітропроникність і гіпоалергенність. Комплект складається з топіка і трусиків. Шикарний варіант на кожен день.</p><p><strong>Особливості:</strong></p><ul><li>Однотонний комплект дитячої білизни.</li><li>Топ укороченого крою з широкими бретелями.</li><li>Трусики-шортики з еластичною гумкою.</li><li>Модель виконана в чорному кольорі.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Машинне прання при максимальній температурі 30&deg;C.</li><li>Не вибілювати.</li><li>Не сушити у пральній машині.</li><li>Сушити в тіні.</li><li>Прасувати при низькій температурі.</li><li>Не піддавати хімічному чищенню.</li></ul>]]></description_ua>
+				<article>05266021045.Y00</article>
+				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
+					<![CDATA[Украина]]></param>
+				<param name="Колір" paramid="131559" valueid="1008470">
+					<![CDATA[Черный]]></param>
+				<param name="Зріст" paramid="131587" valueid="1013286">
+					<![CDATA[140]]></param>
+				<param name="Дитячий вік" paramid="151000" valueid="1416624">
+					<![CDATA[10 лет]]></param>
+				<param name="Код УКТ ЗЕД" paramid="82508">
+					<![CDATA[6209200000]]></param>
+				<param name="Склад" paramid="131615">
+					<![CDATA[100% хлопок]]></param>
+				<param name="Модель для групування (МДГ)" paramid="215080">
+					<![CDATA[KP266-Y00]]></param>
+				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+					<![CDATA[1]]></param>
+				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
+					<![CDATA[Украина]]></param>
+				<param name="Матеріал" paramid="131573" valueid="1501800">
+					<![CDATA[Супрем]]></param>
+				<param name="EAN" paramid="26294">
+					<![CDATA[4823116406971]]></param>
+				<param name="Кількість предметів" paramid="92802" valueid="475520">
+					<![CDATA[1]]></param>
+				<param name="Тип" paramid="225805" valueid="3306127">
+					<![CDATA[Топ+трусы]]></param>
+			</offer>
+			<offer available="true" id="336122584">
+				<price>259</price>
+				<stock_quantity>30</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4668283</categoryId>
+				<name>Подростковый комплект белья (топ + трусы) для девочки Бемби KP266-Y00 146 см Черный (05266021068.Y00)</name>
+				<name_ua>Підлітковий комплект білизни (топ + труси) для дівчинки Бемби KP266-Y00 146 см Чорний (05266021068.Y00)</name_ua>
+				<picture>https://shop.bembi.ua/uploads/products/kp266(10)_01(y00)1.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/kp266(10)_01(y00)1a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/kp266(10)_01(y00)1b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/kp266(10)_01(y00)1c.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/kp266(10)_01(y00)1d.jpg</picture>
+				<vendor>Бемби</vendor>
+				<state>new</state>
+				<description>
+					<![CDATA[<p>Подростковый комплект белья для девочки из фирменной коллекции <strong>Бемби</strong>. Он изготовлен из приятной к телу ткани &mdash; супрем, которая обеспечивает мягкость, воздухопроницаемость и гипоаллергенность. Комплект состоит из топика и трусиков. Шикарный вариант на каждый день.</p><p><strong>Особенности</strong>:</p><ul><li>Однотонный комплект детского белья.</li><li>Топ укороченного кроя с широкими бретелями.</li><li>Трусики-шортики с эластичной резинкой.</li><li>Модель выполнена в черном цвете.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Машинная стирка при максимальной температуре 30&deg;C.</li><li>Не отбеливать.</li><li>Не сушить в стиральной машине.</li><li>Сушить в тени.</li><li>Гладить при низкой температуре.</li><li>Не подвергать химической чистке.</li></ul>]]></description>
+				<description_ua>
+					<![CDATA[<p>Підлітковий комплект білизни для дівчинки з фірмової колекції <strong>Бембі</strong>. Він виготовлений з приємної до тіла тканини &mdash; супрем, яка забезпечує м&#039;якість, повітропроникність і гіпоалергенність. Комплект складається з топіка і трусиків. Шикарний варіант на кожен день.</p><p><strong>Особливості:</strong></p><ul><li>Однотонний комплект дитячої білизни.</li><li>Топ укороченого крою з широкими бретелями.</li><li>Трусики-шортики з еластичною гумкою.</li><li>Модель виконана в чорному кольорі.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Машинне прання при максимальній температурі 30&deg;C.</li><li>Не вибілювати.</li><li>Не сушити у пральній машині.</li><li>Сушити в тіні.</li><li>Прасувати при низькій температурі.</li><li>Не піддавати хімічному чищенню.</li></ul>]]></description_ua>
+				<article>05266021068.Y00</article>
+				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
+					<![CDATA[Украина]]></param>
+				<param name="Колір" paramid="131559" valueid="1008470">
+					<![CDATA[Черный]]></param>
+				<param name="Зріст" paramid="131587" valueid="1013111">
+					<![CDATA[146]]></param>
+				<param name="Дитячий вік" paramid="151000" valueid="1416632">
+					<![CDATA[11 лет]]></param>
+				<param name="Код УКТ ЗЕД" paramid="82508">
+					<![CDATA[6209200000]]></param>
+				<param name="Склад" paramid="131615">
+					<![CDATA[100% хлопок]]></param>
+				<param name="Модель для групування (МДГ)" paramid="215080">
+					<![CDATA[KP266-Y00]]></param>
+				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+					<![CDATA[1]]></param>
+				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
+					<![CDATA[Украина]]></param>
+				<param name="Матеріал" paramid="131573" valueid="1501800">
+					<![CDATA[Супрем]]></param>
+				<param name="EAN" paramid="26294">
+					<![CDATA[4823116406988]]></param>
 				<param name="Кількість предметів" paramid="92802" valueid="475520">
 					<![CDATA[1]]></param>
 				<param name="Тип" paramid="225805" valueid="3306127">
@@ -47915,7 +48007,7 @@
 			</offer>
 			<offer available="true" id="363520077">
 				<price>245</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>32</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби МК26-900 128 см (10026021043.900)</name>
@@ -63398,7 +63490,7 @@
 			</offer>
 			<offer available="true" id="398464350">
 				<price>565</price>
-				<stock_quantity>44</stock_quantity>
+				<stock_quantity>42</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4646072</categoryId>
 				<name>Детский человечек для новорожденных девочек Бемби КБ122 74 см Светло-розовый (03122001134.90F)</name>
@@ -87346,7 +87438,7 @@
 			</offer>
 			<offer available="true" id="440608853">
 				<price>750</price>
-				<stock_quantity>7</stock_quantity>
+				<stock_quantity>8</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636383</categoryId>
 				<name>Подростковое футболка-поло для мальчика Бемби FB999-100 140 см Белое (24999515945.100)</name>
@@ -107263,7 +107355,7 @@
 			</offer>
 			<offer available="true" id="45637568">
 				<price>185</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>51</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби МК6 122 см Белая (10006021242.100)</name>
@@ -118056,7 +118148,7 @@
 			</offer>
 			<offer available="true" id="508502904">
 				<price>447</price>
-				<stock_quantity>13</stock_quantity>
+				<stock_quantity>11</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635623</categoryId>
 				<name>Детское боди для мальчика Бемби BD227-200 80 см Молочное (01227711035.200)</name>
@@ -119529,7 +119621,7 @@
 			</offer>
 			<offer available="true" id="536666434">
 				<price>1199</price>
-				<stock_quantity>10</stock_quantity>
+				<stock_quantity>11</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636215</categoryId>
 				<name>Подростковые школьные брюки для мальчика Бемби SHR885-YX0 146 см Черный/Серый (26885715368.YX0)</name>
