@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-11 12:10">
+<yml_catalog date="2026-09-11 18:09">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -2626,7 +2626,7 @@
 			</offer>
 			<offer available="true" id="231672355">
 				<price>620</price>
-				<stock_quantity>15</stock_quantity>
+				<stock_quantity>16</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив для мальчика Бемби FB723 140 см Голубой с серым (24723001245.4X1)</name>
@@ -4478,7 +4478,7 @@
 			</offer>
 			<offer available="true" id="244944991">
 				<price>520</price>
-				<stock_quantity>21</stock_quantity>
+				<stock_quantity>22</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив для мальчика Бемби FB723 800 104 см Синий (24723001239.800)</name>
@@ -6521,7 +6521,7 @@
 			</offer>
 			<offer available="true" id="260958236">
 				<price>520</price>
-				<stock_quantity>9</stock_quantity>
+				<stock_quantity>10</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив для мальчика Бемби FB723-YX1 104 см Черно-серый рисунок (24723001239.YX1)</name>
@@ -17103,7 +17103,7 @@
 			</offer>
 			<offer available="true" id="330228418">
 				<price>269</price>
-				<stock_quantity>26</stock_quantity>
+				<stock_quantity>27</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668283</categoryId>
 				<name>Детский комплект белья (майка + трусы) для девочки Бемби KP268 (100) 86 см Белый (05268021236.100)</name>
@@ -17181,7 +17181,7 @@
 			</offer>
 			<offer available="true" id="330228421">
 				<price>269</price>
-				<stock_quantity>26</stock_quantity>
+				<stock_quantity>27</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668283</categoryId>
 				<name>Детский комплект белья (майка + трусы) для девочки Бемби KP268 (I00) 86 см Абрикосовый (05268021236.I00)</name>
@@ -17411,7 +17411,7 @@
 			</offer>
 			<offer available="true" id="330228445">
 				<price>269</price>
-				<stock_quantity>13</stock_quantity>
+				<stock_quantity>14</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668283</categoryId>
 				<name>Детский комплект белья (майка + трусы) для девочки Бемби KP268 (I00) 110 см Абрикосовый (05268021240.I00)</name>
@@ -29812,7 +29812,7 @@
 			</offer>
 			<offer available="true" id="336122575">
 				<price>259</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>34</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668283</categoryId>
 				<name>Детский комплект белья (топ + трусы) для девочки Бемби KP266-Y00 128 см Черный (05266021043.Y00)</name>
@@ -42777,7 +42777,7 @@
 			</offer>
 			<offer available="true" id="360750843">
 				<price>520</price>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив Бемби ФБ723 110 см Бежевый (4823116459496)</name>
@@ -64351,7 +64351,7 @@
 			</offer>
 			<offer available="true" id="401244300">
 				<price>520</price>
-				<stock_quantity>11</stock_quantity>
+				<stock_quantity>12</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив для мальчика Бемби ФБ723 110 см Серый/Полоска (24723001240.X02)</name>
@@ -116008,7 +116008,7 @@
 			<offer available="true" id="502460129">
 				<price>159</price>
 				<price_old>259</price_old>
-				<stock_quantity>17</stock_quantity>
+				<stock_quantity>18</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636959</categoryId>
 				<name>Детские велосипедки на резинке для девочки Бемби SHR859-YX0 116 см Черные (09859521041.YX0)</name>
@@ -116248,7 +116248,7 @@
 			<offer available="true" id="502460199">
 				<price>199</price>
 				<price_old>319</price_old>
-				<stock_quantity>13</stock_quantity>
+				<stock_quantity>14</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636959</categoryId>
 				<name>Подростковые велосипедки на резинке для девочки Бемби SHR864-300 146 см Розовые (09864521068.300)</name>
@@ -116437,10 +116437,58 @@
 				<param name="Вид" paramid="223602" valueid="4292053">
 					<![CDATA[Велосипедки]]></param>
 			</offer>
+			<offer available="true" id="502460254">
+				<price>199</price>
+				<price_old>329</price_old>
+				<stock_quantity>1</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4636959</categoryId>
+				<name>Детские велосипедки на резинке для девочки Бемби SHR865-X00 104 см Серые (09865527439.X00)</name>
+				<name_ua>Дитячі велосипеди для дівчаток Бембі SHR865-X00 104 см Сірі (09865527439.X00)</name_ua>
+				<picture>https://shop.bembi.ua/uploads/products/shr865(74)_01(x00)1a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/shr865(74)_01(x00)1b.jpg</picture>
+				<vendor>Бемби</vendor>
+				<state>new</state>
+				<description>
+					<![CDATA[Рубчик, прилегающий силуэт, длина до колена, на поясе резинка.]]></description>
+				<description_ua>
+					<![CDATA[Рубчик, прилягаючий силует, довжина до коліна, на поясі резинка.]]></description_ua>
+				<article>09865527439.X00</article>
+				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
+					<![CDATA[Украина]]></param>
+				<param name="Колір" paramid="131559" valueid="1008407">
+					<![CDATA[Серый]]></param>
+				<param name="Зріст" paramid="131587" valueid="1013685">
+					<![CDATA[104]]></param>
+				<param name="Дитячий вік" paramid="151000" valueid="1416576">
+					<![CDATA[4 года]]></param>
+				<param name="Код УКТ ЗЕД" paramid="82508">
+					<![CDATA[6104620090]]></param>
+				<param name="Склад" paramid="131615">
+					<![CDATA[100% хлопок]]></param>
+				<param name="Модель для групування (МДГ)" paramid="215080">
+					<![CDATA[SHR865-X00]]></param>
+				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+					<![CDATA[1]]></param>
+				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
+					<![CDATA[Украина]]></param>
+				<param name="Матеріал" paramid="131573" valueid="1236543">
+					<![CDATA[Рубчик]]></param>
+				<param name="EAN" paramid="26294">
+					<![CDATA[4824045064638]]></param>
+				<param name="Артикул моделі" paramid="256977">
+					<![CDATA[SHR865-X00]]></param>
+				<param name="Кількість предметів" paramid="92802" valueid="475520">
+					<![CDATA[1]]></param>
+				<param name="Керування новою колекцією" paramid="248698" valueid="4889359">
+					<![CDATA[апрель 2025]]></param>
+				<param name="Вид" paramid="223602" valueid="4292053">
+					<![CDATA[Велосипедки]]></param>
+			</offer>
 			<offer available="true" id="502460334">
 				<price>229</price>
 				<price_old>369</price_old>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636959</categoryId>
 				<name>Детские велосипедки на резинке для девочки Бемби SHR865-X00 128 см Серые (09865527443.X00)</name>
@@ -116488,7 +116536,7 @@
 			<offer available="true" id="502460374">
 				<price>229</price>
 				<price_old>369</price_old>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636959</categoryId>
 				<name>Подростковые велосипедки на резинке для девочки Бемби SHR865-X00 140 см Серые (09865527445.X00)</name>
@@ -116536,7 +116584,7 @@
 			<offer available="true" id="502460394">
 				<price>229</price>
 				<price_old>369</price_old>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636959</categoryId>
 				<name>Подростковые велосипедки на резинке для девочки Бемби SHR865-X00 146 см Серые (09865527468.X00)</name>
@@ -116632,7 +116680,7 @@
 			<offer available="true" id="502460414">
 				<price>249</price>
 				<price_old>399</price_old>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>9</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636959</categoryId>
 				<name>Подростковые велосипедки на резинке для девочки Бемби SHR865-X00 152 см Серые (09865527470.X00)</name>
@@ -119349,7 +119397,7 @@
 			</offer>
 			<offer available="true" id="536666434">
 				<price>1199</price>
-				<stock_quantity>11</stock_quantity>
+				<stock_quantity>13</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636215</categoryId>
 				<name>Подростковые школьные брюки для мальчика Бемби SHR885-YX0 146 см Черный/Серый (26885715368.YX0)</name>
@@ -119391,7 +119439,7 @@
 			</offer>
 			<offer available="true" id="536666439">
 				<price>1259</price>
-				<stock_quantity>7</stock_quantity>
+				<stock_quantity>8</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636215</categoryId>
 				<name>Подростковые школьные брюки для мальчика Бемби SHR885-YX0 152 см Черный/Серый (26885715370.YX0)</name>
@@ -119433,7 +119481,7 @@
 			</offer>
 			<offer available="true" id="536666444">
 				<price>1259</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>5</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636215</categoryId>
 				<name>Подростковые школьные брюки для мальчика Бемби SHR885-YX0 158 см Черный/Серый (26885715371.YX0)</name>
