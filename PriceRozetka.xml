@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-12 20:09">
+<yml_catalog date="2026-09-13 12:09">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -1369,54 +1369,6 @@
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[ШР389]]></param>
 				<param name="Кількість предметів" paramid="92802" valueid="475520">
-					<![CDATA[1]]></param>
-			</offer>
-			<offer available="true" id="14457723436.G00">
-				<price>1439</price>
-				<price_old>1799</price_old>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4636767</categoryId>
-				<name>Сукня Бембі ПЛ457-G00 86 см Бежевий (14457723436.G00)</name>
-				<name_ua>Сукня Бембі ПЛ457-G00 86 см Бежевий (14457723436.G00)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/pl457(34)_01(g00)a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/pl457(34)_01(g00)b.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/pl457(34)_01(g00)c.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/pl457(34)_01(g00)d.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/pl457(34)_01(g00)e.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/pl457(34)_01(g00)f.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/pl457(34)_01(g00)g.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/pl457(34)_01(g00)h.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[Відкрийте світ ніжності та стилю з цією чарівною сукнею для маленької принцеси! Вишуканий комір і делікатна вишивка створюють неповторний весняний образ. Мила сумочка-котик, що йде в комплекті, додає грайливості та стане ідеальним місцем для маленьких секретів. Сукня виготовлена з м’якого котону, застібається на гудзики, комфортна та легка, дозволяючи дитині вільно рухатися й почуватися впевнено у будь-якій ситуації. Ця сукня — ідеальний вибір для святкових подій, фотосесій або прогулянок у весняні дні.]]></description>
-				<description_ua>
-					<![CDATA[Відкрийте світ ніжності та стилю з цією чарівною сукнею для маленької принцеси! Вишуканий комір і делікатна вишивка створюють неповторний весняний образ. Мила сумочка-котик, що йде в комплекті, додає грайливості та стане ідеальним місцем для маленьких секретів. Сукня виготовлена з м’якого котону, застібається на гудзики, комфортна та легка, дозволяючи дитині вільно рухатися й почуватися впевнено у будь-якій ситуації. Ця сукня — ідеальний вибір для святкових подій, фотосесій або прогулянок у весняні дні.]]></description_ua>
-				<article>14457723436.G00</article>
-				<param name="Країна-виробник товару" paramid="98900">
-					<![CDATA[Україна]]></param>
-				<param name="Колір" paramid="131559" valueid="1008148">
-					<![CDATA[Бежевый]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013818">
-					<![CDATA[86]]></param>
-				<param name="Стать" paramid="144168" valueid="1355336">
-					<![CDATA[Для девочек]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416552;1416544">
-					<![CDATA[1.5 года, 1 год]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209909000]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[ПЛ457-G00]]></param>
-				<param name="Кількість вантажних місць" paramid="72961">
-					<![CDATA[1]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1011004">
-					<![CDATA[Хлопок]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4824045084391]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[14457723436.G00]]></param>
-				<param name="Кількість предметів" paramid="92802">
 					<![CDATA[1]]></param>
 			</offer>
 			<offer available="true" id="14457723437.G00">
@@ -25846,7 +25798,7 @@
 			</offer>
 			<offer available="true" id="332867248">
 				<price>139</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668211</categoryId>
 				<name>Детские трусы-слипы для девочки Бемби TR 3-900 86 см Светло-розовые (4823116401730)</name>
@@ -33653,7 +33605,7 @@
 			</offer>
 			<offer available="true" id="350594760">
 				<price>99</price>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668211</categoryId>
 				<name>Трусики для девочки Бемби TR20-300 86 см Розовые (4823116400191)</name>
@@ -56897,80 +56849,6 @@
 				<param name="Керування новою колекцією" paramid="248698" valueid="4480089">
 					<![CDATA[август 2023]]></param>
 			</offer>
-			<offer available="true" id="393601008">
-				<price>529</price>
-				<price_old>688</price_old>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4636567</categoryId>
-				<name>Детская теплая толстовка для мальчика Бемби КФ222-210 80 см Молочная (07222712235.210)</name>
-				<name_ua>Дитяча тепла толстовка для хлопчика Бембі КФ222-210 80 см Молочна (07222712235.210)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/kf222(22)_01(210)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/kf222(22)_01(210)1b.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Детская утепленная толстовка от <strong>Бемби</strong> пошита из натурального хлопка с добавлением полиэстера. Модель подходит для повседневной носки и активного отдыха. Хороший выбор для прохладного времени года. Толстовка сочетается с любым гардеробом.</p>
-<p><strong>Особенности:</strong></p>
-<ul>
-<li>Изготовлена из плотного трикотажа с начесом.</li>
-<li>Длинный рукав на манжете с заниженной линией плеча.</li>
-<li>Модель застегивается на молнию по всей длине.</li>
-<li>Стильная нашивка выступает в качестве декора.</li>
-<li>Предусмотрены карманы для рук и различных мелочей.</li>
-</ul>
-<p><strong>Рекомендации по уходу:</strong></p>
-<ul>
-<li>Стирать вручную или в стиральной машине в деликатном режиме при температуре 40℃.</li>
-<li>Использовать жидкие средства для стирки, гель или мягкий порошок для стирки.</li>
-<li>Сушить естественным способом вдали от обогревательных приборов.</li>
-<li>Гладить без пара при минимальной и температуре и давлении утюга на ткань.</li>
-</ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Дитяча утеплена толстовка від <strong>Бембі</strong> пошита з натуральної бавовни з додаванням поліестеру. Модель підходить для повсякденного носіння та активного відпочинку. Хороший вибір для прохолодної пори року. Толстовка поєднується з будь-яким гардеробом.</p>
-<p><strong>Особливості:</strong></p>
-<ul>
-<li>Виготовлена зі щільного трикотажу з начосом.</li>
-<li>Довгий рукав на манжеті із заниженою лінією плеча.</li>
-<li>Модель застібається на блискавку по всій довжині.</li>
-<li>Стильна нашивка виступає як декор.</li>
-<li>Передбачені кишені для рук і різних дрібниць.</li>
-</ul>
-<p><strong>Рекомендації з догляду:</strong></p>
-<ul>
-<li>Прати вручну або в пральній машині в делікатному режимі за температури 40℃.</li>
-<li>Використовувати рідкі засоби для прання, гель або м&#039;який порошок для прання.</li>
-<li>Сушити природним способом далеко від обігрівальних приладів.</li>
-<li>Прасувати без пари за мінімальної температури та тиску праски на тканину.</li>
-</ul>]]></description_ua>
-				<article>07222712235.210</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1010395">
-					<![CDATA[Молочный]]></param>
-				<param name="Зріст" paramid="131587" valueid="1014021">
-					<![CDATA[80]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416544">
-					<![CDATA[1 год]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[85% хлопок, 15% полиэстер]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[КФ222-210]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1010507">
-					<![CDATA[Трикотаж]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4823116495616]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[КФ222-210]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4480089">
-					<![CDATA[август 2023]]></param>
-			</offer>
 			<offer available="true" id="393601245">
 				<price>99</price>
 				<price_old>134</price_old>
@@ -57389,7 +57267,7 @@
 			<offer available="true" id="393601899">
 				<price>89</price>
 				<price_old>113</price_old>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4669759</categoryId>
 				<name>Детская демисезонная шапка-бини для девочки Бемби ШП98-200 50-51 см Молочная (25098001625.200)</name>
@@ -81497,7 +81375,7 @@
 			</offer>
 			<offer available="true" id="425541774">
 				<price>289</price>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635911</categoryId>
 				<name>Детская распашонка для новорожденных Бемби RP7-B0F 56 см Светло-желтая (18007001130.B0F)</name>
@@ -96692,7 +96570,7 @@
 			</offer>
 			<offer available="true" id="453568604">
 				<price>620</price>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив Бемби FB723-Y00 146 см Черный (24723001268.Y00)</name>
