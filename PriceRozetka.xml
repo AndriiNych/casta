@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-08 12:10">
+<yml_catalog date="2026-10-08 18:09">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -6317,7 +6317,7 @@
 			</offer>
 			<offer available="true" id="260958266">
 				<price>620</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив для мальчика Бемби FB723-YX1 140 см Черно-серый рисунок (24723001245.YX1)</name>
@@ -8961,7 +8961,7 @@
 			</offer>
 			<offer available="true" id="302281113">
 				<price>495</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>35</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636503</categoryId>
 				<name>Детские спортивные штаны-джогеры для мальчика Бемби SHR733 98 см Синие (26733006538.800)</name>
@@ -8998,7 +8998,7 @@
 			</offer>
 			<offer available="true" id="302281118">
 				<price>615</price>
-				<stock_quantity>10</stock_quantity>
+				<stock_quantity>40</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636503</categoryId>
 				<name>Детские спортивные штаны-джогеры для мальчика Бемби SHR733 104 см Синие (26733006539.800)</name>
@@ -9072,7 +9072,7 @@
 			</offer>
 			<offer available="true" id="302281128">
 				<price>615</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>32</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636503</categoryId>
 				<name>Детские спортивные штаны-джогеры для мальчика Бемби SHR733 110 см Черные (26733006540.Y00)</name>
@@ -9107,9 +9107,46 @@
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[SHR733]]></param>
 			</offer>
+			<offer available="true" id="302281133">
+				<price>615</price>
+				<stock_quantity>30</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4636503</categoryId>
+				<name>Детские спортивные штаны-джогеры для мальчика Бемби SHR733 110 см Синие (26733006540.800)</name>
+				<name_ua>Дитячі спортивні штани-джогери для хлопчика Бембі SHR733 110 см Сині (26733006540.800)</name_ua>
+				<picture>https://shop.bembi.ua/uploads/products/shr733_01(800)1a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/shr733_01(800)1b.jpg</picture>
+				<vendor>Бемби</vendor>
+				<state>new</state>
+				<description>
+					<![CDATA[<p>Детские спортивные штаны на мальчика из коллекции <strong>Бемби</strong>. Модель выполнена из двунитки. Отличный вариант для повседневной носки в демисезон. Сочетается с любым верхом: свитшотом, лонгсливом, футболкой.</p><p><strong>Особенности</strong>:</p><ul><li>Широкая эластичная резинка-пояс.</li><li>Боковые врезные карманы.</li><li>Штаны средней посадки.</li><li>Однотонная модель.</li><li>Рифленые манжеты.</li><li>Зауженный крой.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Стирать и гладить одежду с изнаночной стороны.</li><li>Стирать с вещами аналогичного цвета.</li><li>Не подвергать химической чистке.</li></ul>]]></description>
+				<description_ua>
+					<![CDATA[<p>Дитячі спортивні штани на хлопчика з колекції <strong>Бембі</strong>. Модель виконана з двунитки. Відмінний варіант для повсякденного носіння в демісезон. Поєднується з будь-яким верхом: світшотом, лонгслівом, футболкою.</p><p><strong>Особливості</strong>:</p><ul><li>Широка еластична гумка-пояс.</li><li>Бічні врізні кишені.</li><li>Штани середньої посадки.</li><li>Однотонна модель.</li><li>Рифлені манжети.</li><li>Звужений крій.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Прати і прасувати навиворіт.</li><li>Прати з речами аналогічного кольору.</li><li>Не піддавати хімічному чищенню.</li></ul>]]></description_ua>
+				<article>26733006540.800</article>
+				<param name="Колір" paramid="131559" valueid="1008197">
+					<![CDATA[Темный синий]]></param>
+				<param name="Зріст" paramid="131587" valueid="1013363">
+					<![CDATA[110]]></param>
+				<param name="Дитячий вік" paramid="151000" valueid="1416584">
+					<![CDATA[5 лет]]></param>
+				<param name="Код УКТ ЗЕД" paramid="82508">
+					<![CDATA[6209300000]]></param>
+				<param name="Склад" paramid="131615">
+					<![CDATA[100% хлопок]]></param>
+				<param name="Модель для групування (МДГ)" paramid="215080">
+					<![CDATA[SHR733-800]]></param>
+				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+					<![CDATA[1]]></param>
+				<param name="Матеріал" paramid="131573" valueid="1236511">
+					<![CDATA[Двунитка]]></param>
+				<param name="EAN" paramid="26294">
+					<![CDATA[4823109674684]]></param>
+				<param name="Артикул моделі" paramid="256977">
+					<![CDATA[SHR733]]></param>
+			</offer>
 			<offer available="true" id="302281143">
 				<price>615</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>34</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636503</categoryId>
 				<name>Детские спортивные штаны-джогеры для мальчика Бемби SHR733 116 см Синие (26733006541.800)</name>
@@ -9146,7 +9183,7 @@
 			</offer>
 			<offer available="true" id="302281148">
 				<price>615</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>34</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636503</categoryId>
 				<name>Детские спортивные штаны-джогеры для мальчика Бемби SHR733 122 см Черные (26733006542.Y00)</name>
@@ -9181,9 +9218,46 @@
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[SHR733]]></param>
 			</offer>
+			<offer available="true" id="302281153">
+				<price>615</price>
+				<stock_quantity>30</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4636503</categoryId>
+				<name>Детские спортивные штаны-джогеры для мальчика Бемби SHR733 122 см Синие (26733006542.800)</name>
+				<name_ua>Дитячі спортивні штани-джогери для хлопчика Бембі SHR733 122 см Сині (26733006542.800)</name_ua>
+				<picture>https://shop.bembi.ua/uploads/products/shr733_01(800)1a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/shr733_01(800)1b.jpg</picture>
+				<vendor>Бемби</vendor>
+				<state>new</state>
+				<description>
+					<![CDATA[<p>Детские спортивные штаны на мальчика из коллекции <strong>Бемби</strong>. Модель выполнена из двунитки. Отличный вариант для повседневной носки в демисезон. Сочетается с любым верхом: свитшотом, лонгсливом, футболкой.</p><p><strong>Особенности</strong>:</p><ul><li>Широкая эластичная резинка-пояс.</li><li>Боковые врезные карманы.</li><li>Штаны средней посадки.</li><li>Однотонная модель.</li><li>Рифленые манжеты.</li><li>Зауженный крой.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Стирать и гладить одежду с изнаночной стороны.</li><li>Стирать с вещами аналогичного цвета.</li><li>Не подвергать химической чистке.</li></ul>]]></description>
+				<description_ua>
+					<![CDATA[<p>Дитячі спортивні штани на хлопчика з колекції <strong>Бембі</strong>. Модель виконана з двунитки. Відмінний варіант для повсякденного носіння в демісезон. Поєднується з будь-яким верхом: світшотом, лонгслівом, футболкою.</p><p><strong>Особливості</strong>:</p><ul><li>Широка еластична гумка-пояс.</li><li>Бічні врізні кишені.</li><li>Штани середньої посадки.</li><li>Однотонна модель.</li><li>Рифлені манжети.</li><li>Звужений крій.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Прати і прасувати навиворіт.</li><li>Прати з речами аналогічного кольору.</li><li>Не піддавати хімічному чищенню.</li></ul>]]></description_ua>
+				<article>26733006542.800</article>
+				<param name="Колір" paramid="131559" valueid="1008197">
+					<![CDATA[Темный синий]]></param>
+				<param name="Зріст" paramid="131587" valueid="1013160">
+					<![CDATA[122]]></param>
+				<param name="Дитячий вік" paramid="151000" valueid="1416600">
+					<![CDATA[7 лет]]></param>
+				<param name="Код УКТ ЗЕД" paramid="82508">
+					<![CDATA[6209300000]]></param>
+				<param name="Склад" paramid="131615">
+					<![CDATA[100% хлопок]]></param>
+				<param name="Модель для групування (МДГ)" paramid="215080">
+					<![CDATA[SHR733-800]]></param>
+				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+					<![CDATA[1]]></param>
+				<param name="Матеріал" paramid="131573" valueid="1236511">
+					<![CDATA[Двунитка]]></param>
+				<param name="EAN" paramid="26294">
+					<![CDATA[4823109674707]]></param>
+				<param name="Артикул моделі" paramid="256977">
+					<![CDATA[SHR733]]></param>
+			</offer>
 			<offer available="true" id="302281158">
 				<price>749</price>
-				<stock_quantity>10</stock_quantity>
+				<stock_quantity>40</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636503</categoryId>
 				<name>Детские спортивные штаны-джогеры для мальчика Бемби SHR733 128 см Синие (26733006543.800)</name>
@@ -9220,7 +9294,7 @@
 			</offer>
 			<offer available="true" id="302281163">
 				<price>749</price>
-				<stock_quantity>17</stock_quantity>
+				<stock_quantity>46</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636503</categoryId>
 				<name>Детские спортивные штаны-джогеры для мальчика Бемби SHR733 128 см Черные (26733006543.Y00)</name>
@@ -9257,7 +9331,7 @@
 			</offer>
 			<offer available="true" id="302281168">
 				<price>749</price>
-				<stock_quantity>16</stock_quantity>
+				<stock_quantity>46</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636503</categoryId>
 				<name>Детские спортивные штаны-джогеры для мальчика Бемби SHR733 134 см Синие (26733006544.800)</name>
@@ -9294,7 +9368,7 @@
 			</offer>
 			<offer available="true" id="302281178">
 				<price>749</price>
-				<stock_quantity>14</stock_quantity>
+				<stock_quantity>44</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636503</categoryId>
 				<name>Подростковые спортивные штаны-джогеры для мальчика Бемби SHR733 140 см Синие (26733006545.800)</name>
@@ -9331,7 +9405,7 @@
 			</offer>
 			<offer available="true" id="302281183">
 				<price>749</price>
-				<stock_quantity>13</stock_quantity>
+				<stock_quantity>43</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636503</categoryId>
 				<name>Подростковые спортивные штаны-джогеры для мальчика Бемби SHR733 140 см Черные (26733006545.Y00)</name>
@@ -9368,7 +9442,7 @@
 			</offer>
 			<offer available="true" id="302281188">
 				<price>749</price>
-				<stock_quantity>12</stock_quantity>
+				<stock_quantity>41</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636503</categoryId>
 				<name>Подростковые спортивные штаны-джогеры для мальчика Бемби SHR733 146 см Черные (26733006568.Y00)</name>
@@ -9405,7 +9479,7 @@
 			</offer>
 			<offer available="true" id="302281193">
 				<price>749</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>34</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636503</categoryId>
 				<name>Подростковые спортивные штаны-джогеры для мальчика Бемби SHR733 146 см Синие (26733006568.800)</name>
@@ -10080,7 +10154,7 @@
 			</offer>
 			<offer available="true" id="302338373">
 				<price>495</price>
-				<stock_quantity>9</stock_quantity>
+				<stock_quantity>39</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636503</categoryId>
 				<name>Подростковые спортивные штаны-джогеры для мальчика Бемби SHR733 98 см Черные (26733006538.Y00)</name>
@@ -40000,54 +40074,10 @@
 				<param name="Керування новою колекцією" paramid="248698" valueid="4313823">
 					<![CDATA[август 2022]]></param>
 			</offer>
-			<offer available="true" id="351257889">
-				<price>239</price>
-				<price_old>311</price_old>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4636879</categoryId>
-				<name>Детское платье для девочки Бемби ПЛ361-U00 80 см Мятное (4823116454590)</name>
-				<name_ua>Дитяча сукня для дівчинки Бембі ПЛ361-U00 80 см М&amp;#039;ятна (4823116454590)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/pl361(11)_01(u00)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/pl361(11)_01(u00)1b.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Платье от ТМ &laquo;<strong>Бемби</strong>&raquo; с длинным рукавом и круглым вырезом.</p> <p>Платье свободного кроя, слегка расширенное к низу. Линия талии завышена, длина средняя. Модель выполнена из интерлока. Застегивается на спинке кнопками. Впереди &ndash; печатный рисунок.</p>]]></description>
-				<description_ua>
-					<![CDATA[<p>Сукня від ТМ &laquo;<strong>Бембі</strong>&raquo; з довгим рукавом та круглим вирізом.</p> <p>Плаття вільного крою, трохи розширене до низу. Лінія талії завищена, середня довжина. Модель виконана з інтерлоку. Застібається на спинці кнопками. Попереду – &ndash; друкований малюнок.</p>]]></description_ua>
-				<article>14361721135.U00</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008246">
-					<![CDATA[Мятный]]></param>
-				<param name="Зріст" paramid="131587" valueid="1014021">
-					<![CDATA[80]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416544">
-					<![CDATA[1 год]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6111209000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[100% хлопок]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[ПЛ361-U00]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1236383">
-					<![CDATA[Интерлок]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4823116454590]]></param>
-				<param name="Довжина рукава" paramid="105869" valueid="638464">
-					<![CDATA[С длинными рукавами]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4313823">
-					<![CDATA[август 2022]]></param>
-			</offer>
 			<offer available="true" id="351258891">
 				<price>919</price>
 				<price_old>1195</price_old>
-				<stock_quantity>31</stock_quantity>
+				<stock_quantity>30</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636215</categoryId>
 				<name>Детские брюки для мальчика Бемби ШР780-800 116 см Синие (4823116462700)</name>
@@ -40089,7 +40119,7 @@
 			<offer available="true" id="351258897">
 				<price>919</price>
 				<price_old>1195</price_old>
-				<stock_quantity>20</stock_quantity>
+				<stock_quantity>19</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636215</categoryId>
 				<name>Детские брюки для мальчика Бемби ШР780-800 122 см Синие (4823116462717)</name>
@@ -57328,7 +57358,7 @@
 					<![CDATA[Рубашки]]></param>
 			</offer>
 			<offer available="true" id="393600588">
-				<price>1699</price>
+				<price>1349</price>
 				<price_old>2450</price_old>
 				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -57405,7 +57435,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393600600">
-				<price>1699</price>
+				<price>1349</price>
 				<price_old>2450</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -57452,7 +57482,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393600642">
-				<price>1519</price>
+				<price>1199</price>
 				<price_old>2127</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -57537,7 +57567,7 @@
 					<![CDATA[Куртки]]></param>
 			</offer>
 			<offer available="true" id="393600645">
-				<price>1519</price>
+				<price>1199</price>
 				<price_old>2127</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -57608,7 +57638,7 @@
 					<![CDATA[Куртки]]></param>
 			</offer>
 			<offer available="true" id="393600651">
-				<price>1519</price>
+				<price>1199</price>
 				<price_old>2127</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -61905,7 +61935,7 @@
 			<offer available="true" id="393612807">
 				<price>549</price>
 				<price_old>714</price_old>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637119</categoryId>
 				<name>Детское теплое худи для девочки Бемби ДЖ335-I00 122 см Абрикосовое (35335422242.I00)</name>
@@ -62149,77 +62179,6 @@
 				<param name="Керування новою колекцією" paramid="248698" valueid="4480089">
 					<![CDATA[август 2023]]></param>
 			</offer>
-			<offer available="true" id="393612819">
-				<price>639</price>
-				<price_old>831</price_old>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4637119</categoryId>
-				<name>Детское теплое худи для девочки Бемби ДЖ335-I00 134 см Абрикосовое (35335422244.I00)</name>
-				<name_ua>Дитяче тепле худі для дівчинки Бембі ДЖ335-I00 134 см Абрикосове (35335422244.I00)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/dj335(22)_10(i00)a2.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/dj335(22)_10(i00)b2.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/dj335(22)_10(i00)d2.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Детское утепленное худи от <strong>Бемби</strong> пошито из натурального хлопка с добавлением эластана. Модель подходит для повседневной носки и активного отдыха. Отличный выбор для прохладного времени года. Худи сочетается с любым гардеробом.</p>
-<p><strong>Особенности:</strong></p>
-<ul>
-<li>Худи пошито из плотной теплой ткани с начесом.</li>
-<li>Длинный рукав и край изделия дополнены эластичными манжетами.</li>
-<li>Горловина-стойка переходит в капюшон и имеет эластичную вставку спереди.</li>
-<li>Оригинальность этой кофты заключается в неординарных диагональных линиях кроя.</li>
-<li>Эластичный низ для дополнительного комфорта.</li>
-</ul>
-<p><strong>Рекомендации по уходу:</strong></p>
-<ul>
-<li>Стирать вручную или в стиральной машине в деликатном режиме при температуре 40℃.</li>
-<li>Использовать жидкие средства для стирки, гель или мягкий порошок для стирки.</li>
-<li>Сушить естественным способом вдали от обогревательных приборов.</li>
-<li>Гладить без пара при минимальной и температуре и давлении утюга на ткань.</li>
-</ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Дитяче утеплене худі від <strong>Бембі</strong> пошито з натуральної бавовни з додаванням еластану. Модель підходить для повсякденного носіння та активного відпочинку. Відмінний вибір для прохолодної пори року. Худі поєднується з будь-яким гардеробом.</p>
-<p><strong>Особливості:</strong></p>
-<ul>
-<li>Худі пошито зі щільної теплої тканини з начосом.</li>
-<li>Довгий рукав і край виробу доповнені еластичними манжетами.</li>
-<li>Горловина-стійка переходить у капюшон і має еластичну вставку спереду.</li>
-<li>Оригінальність цієї кофти полягає в неординарних діагональних лініях крою.</li>
-<li>Еластичний низ для додаткового комфорту.</li>
-</ul>
-<p><strong>Рекомендації з догляду:</strong></p>
-<ul>
-<li>Прати вручну або в пральній машині в делікатному режимі за температури 40℃.</li>
-<li>Використовувати рідкі засоби для прання, гель або м&#039;який порошок для прання.</li>
-<li>Сушити природним способом далеко від обігрівальних приладів.</li>
-<li>Прасувати без пари за мінімальної температури та тиску праски на тканину.</li>
-</ul>]]></description_ua>
-				<article>35335422244.I00</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008582">
-					<![CDATA[Абрикосовый]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013139">
-					<![CDATA[134]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416616">
-					<![CDATA[9 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[85% хлопок, 15% эластан]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[ДЖ335-I00]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4823116492486]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4480089">
-					<![CDATA[август 2023]]></param>
-			</offer>
 			<offer available="true" id="393612825">
 				<price>639</price>
 				<price_old>831</price_old>
@@ -62281,7 +62240,7 @@
 			<offer available="true" id="393612828">
 				<price>639</price>
 				<price_old>831</price_old>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637119</categoryId>
 				<name>Подростковое теплое худи для девочки Бемби ДЖ335-Y00 140 см Черное (35335422245.Y00)</name>
@@ -62424,83 +62383,10 @@
 				<param name="Керування новою колекцією" paramid="248698" valueid="4480089">
 					<![CDATA[август 2023]]></param>
 			</offer>
-			<offer available="true" id="393612837">
-				<price>639</price>
-				<price_old>831</price_old>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4637119</categoryId>
-				<name>Подростковое теплое худи для девочки Бемби ДЖ335-Y00 146 см Черное (35335422268.Y00)</name>
-				<name_ua>Підліткове тепле худі для дівчинки Бембі ДЖ335-Y00 146 см Чорне (35335422268.Y00)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/dj335(22)_02(y00)a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/dj335(22)_02(y00)b.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/dj335(22)_02(y00)c.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Детское утепленное худи от <strong>Бемби</strong> пошито из натурального хлопка с добавлением эластана. Модель подходит для повседневной носки и активного отдыха. Отличный выбор для прохладного времени года. Худи сочетается с любым гардеробом.</p>
-<p><strong>Особенности:</strong></p>
-<ul>
-<li>Худи пошито из плотной теплой ткани с начесом.</li>
-<li>Длинный рукав и край изделия дополнены эластичными манжетами.</li>
-<li>Горловина-стойка переходит в капюшон и имеет эластичную вставку спереди.</li>
-<li>Оригинальность этой кофты заключается в неординарных диагональных линиях кроя.</li>
-<li>Эластичный низ для дополнительного комфорта.</li>
-</ul>
-<p><strong>Рекомендации по уходу:</strong></p>
-<ul>
-<li>Стирать вручную или в стиральной машине в деликатном режиме при температуре 40℃.</li>
-<li>Использовать жидкие средства для стирки, гель или мягкий порошок для стирки.</li>
-<li>Сушить естественным способом вдали от обогревательных приборов.</li>
-<li>Гладить без пара при минимальной и температуре и давлении утюга на ткань.</li>
-</ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Дитяче утеплене худі від <strong>Бембі</strong> пошито з натуральної бавовни з додаванням еластану. Модель підходить для повсякденного носіння та активного відпочинку. Відмінний вибір для прохолодної пори року. Худі поєднується з будь-яким гардеробом.</p>
-<p><strong>Особливості:</strong></p>
-<ul>
-<li>Худі пошито зі щільної теплої тканини з начосом.</li>
-<li>Довгий рукав і край виробу доповнені еластичними манжетами.</li>
-<li>Горловина-стійка переходить у капюшон і має еластичну вставку спереду.</li>
-<li>Оригінальність цієї кофти полягає в неординарних діагональних лініях крою.</li>
-<li>Еластичний низ для додаткового комфорту.</li>
-</ul>
-<p><strong>Рекомендації з догляду:</strong></p>
-<ul>
-<li>Прати вручну або в пральній машині в делікатному режимі за температури 40℃.</li>
-<li>Використовувати рідкі засоби для прання, гель або м&#039;який порошок для прання.</li>
-<li>Сушити природним способом далеко від обігрівальних приладів.</li>
-<li>Прасувати без пари за мінімальної температури та тиску праски на тканину.</li>
-</ul>]]></description_ua>
-				<article>35335422268.Y00</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008470">
-					<![CDATA[Черный]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013111">
-					<![CDATA[146]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416632">
-					<![CDATA[11 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[85% хлопок, 15% эластан]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[ДЖ335-Y00]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4823116492608]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[ДЖ335-Y00]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4480089">
-					<![CDATA[август 2023]]></param>
-			</offer>
 			<offer available="true" id="393612843">
 				<price>689</price>
 				<price_old>896</price_old>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637119</categoryId>
 				<name>Подростковое теплое худи для девочки Бемби ДЖ335-Y00 152 см Черное (35335422270.Y00)</name>
@@ -85055,7 +84941,7 @@
 			</offer>
 			<offer available="true" id="422409546">
 				<price>225</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>52</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635895</categoryId>
 				<name>Детские ползунки для новорожденных Бемби PZ13-B00 56 см Светло-желтые (16013001130.B00)</name>
@@ -94558,7 +94444,7 @@
 			<offer available="true" id="441954776">
 				<price>399</price>
 				<price_old>483</price_old>
-				<stock_quantity>12</stock_quantity>
+				<stock_quantity>8</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636911</categoryId>
 				<name>Детская фатиновая юбка для девочки Бемби UB122-300 92 см Розовая (36122525237.300)</name>
@@ -94628,7 +94514,7 @@
 			<offer available="true" id="441954782">
 				<price>399</price>
 				<price_old>483</price_old>
-				<stock_quantity>9</stock_quantity>
+				<stock_quantity>7</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636911</categoryId>
 				<name>Детская фатиновая юбка для девочки Бемби UB122-300 98 см Розовая (36122525238.300)</name>
@@ -99666,7 +99552,7 @@
 			<offer available="true" id="448293407">
 				<price>609</price>
 				<price_old>792</price_old>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637103</categoryId>
 				<name>Подростковый теплый свитшот для девочки Бемби DJ360-G00 140 см Бежевый (35360422245.G00)</name>
@@ -99713,7 +99599,7 @@
 			<offer available="true" id="448293419">
 				<price>609</price>
 				<price_old>792</price_old>
-				<stock_quantity>6</stock_quantity>
+				<stock_quantity>5</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637103</categoryId>
 				<name>Подростковый теплый свитшот для девочки Бемби DJ360-G00 146 см Бежевый (35360422268.G00)</name>
@@ -99807,7 +99693,7 @@
 			<offer available="true" id="448293431">
 				<price>659</price>
 				<price_old>857</price_old>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637103</categoryId>
 				<name>Подростковый теплый свитшот для девочки Бемби DJ360-G00 152 см Бежевый (35360422270.G00)</name>
@@ -101199,7 +101085,7 @@
 			</offer>
 			<offer available="true" id="453568565">
 				<price>520</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив Бемби FB723-Y00 104 см Черный (24723001239.Y00)</name>
@@ -101244,7 +101130,7 @@
 			</offer>
 			<offer available="true" id="453568571">
 				<price>520</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив Бемби FB723-Y00 110 см Черный (24723001240.Y00)</name>
@@ -108980,7 +108866,8 @@
 					<![CDATA[октябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="455780819">
-				<price>1239</price>
+				<price>899</price>
+				<price_old>1239</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4649184</categoryId>
@@ -113006,7 +112893,7 @@
 			</offer>
 			<offer available="true" id="459708904">
 				<price>450</price>
-				<stock_quantity>30</stock_quantity>
+				<stock_quantity>26</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637055</categoryId>
 				<name>Детская водолазка-гольф для девочки Бемби GF2-302 98 см Розовая (02002001738.302)</name>
@@ -113084,7 +112971,7 @@
 			</offer>
 			<offer available="true" id="459708914">
 				<price>450</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>38</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636535</categoryId>
 				<name>Детская водолазка-гольф для мальчика Бемби GF2-G02 98 см Бежевая (02002001738.G02)</name>
@@ -113207,7 +113094,7 @@
 			</offer>
 			<offer available="true" id="459708929">
 				<price>520</price>
-				<stock_quantity>44</stock_quantity>
+				<stock_quantity>41</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636535</categoryId>
 				<name>Детская водолазка-гольф для мальчика Бемби GF2-G02 104 см Бежевая (02002001739.G02)</name>
