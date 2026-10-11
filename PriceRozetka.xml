@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-10 20:09">
+<yml_catalog date="2026-10-11 12:09">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -202,7 +202,7 @@
 			<offer available="true" id="07256724539.H00">
 				<price>999</price>
 				<price_old>1249</price_old>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637111</categoryId>
 				<name>Жакет, КФ256, капітоне, p.104, коричневий</name>
@@ -16572,7 +16572,7 @@
 			</offer>
 			<offer available="true" id="330228472">
 				<price>199</price>
-				<stock_quantity>33</stock_quantity>
+				<stock_quantity>32</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби MK4 (I00) 122 см Абрикосовая (10004021242.I00)</name>
@@ -18836,7 +18836,7 @@
 			</offer>
 			<offer available="true" id="330228922">
 				<price>189</price>
-				<stock_quantity>46</stock_quantity>
+				<stock_quantity>45</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби MK22 (100) 116 см Белая (10022021041.100)</name>
@@ -21660,7 +21660,7 @@
 			</offer>
 			<offer available="true" id="330229198">
 				<price>265</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668271</categoryId>
 				<name>Подростковая майка для мальчика Бемби MK23 (100) 140 см Белая (10023011045.100)</name>
@@ -28571,7 +28571,7 @@
 			</offer>
 			<offer available="true" id="336122656">
 				<price>269</price>
-				<stock_quantity>27</stock_quantity>
+				<stock_quantity>26</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668277</categoryId>
 				<name>Детский комплект белья (майка + трусы) для мальчика Бемби KP269-R00 104 см Бирюзовый (05269011039.R00)</name>
@@ -34623,7 +34623,7 @@
 			</offer>
 			<offer available="true" id="350595048">
 				<price>229</price>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Детские трусы-боксеры для мальчика Бемби TR42-Y00 134 см Черные (4823109696211)</name>
@@ -44118,7 +44118,7 @@
 			</offer>
 			<offer available="true" id="363518631">
 				<price>229</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Детские трусы-боксеры для мальчика Бемби ТР42-800 134 см (22042011044.800)</name>
@@ -45754,75 +45754,6 @@
 					<![CDATA[4823116404236]]></param>
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[МК26-900]]></param>
-				<param name="Кількість предметів" paramid="92802" valueid="475520">
-					<![CDATA[1]]></param>
-			</offer>
-			<offer available="true" id="363519741">
-				<price>169</price>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4668217</categoryId>
-				<name>Детская майка для девочки Бемби МК26-I00 98 см (10026021038.I00)</name>
-				<name_ua>Дитяча майка для дівчинки Бембі МК26-I00 98 см (10026021038.I00)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/mk26(10)_01(i00)a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/mk26(10)_01(i00)b.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Майка для девочек от <strong>Бемби</strong> пошита из практичной ткани супрем. Подходит для носки в любое время года. Классическая модель станет отличным решением для того, чтобы одеть под низ других вещей.</p>
-<p><strong>Особенности:</strong></p>
-<ul>
-<li>Ткань состоит из натурального хлопка.</li>
-<li>Материал эластичный, приятный на ощупь.</li>
-<li>Майка однотонная, без декора.</li>
-<li>Стандартный круглый воротник.</li>
-<li>Прямой пошив.</li>
-<li>Средняя длина.</li>
-</ul>
-<p><strong>Рекомендации по уходу:</strong></p>
-<ul>
-<li>Стирать в деликатном режиме при температуре 30℃.</li>
-<li>Не использовать машинную сушку, лучше выполнить эту операцию на открытом воздухе.</li>
-<li>Гладить вещи слегка влажными или воспользуйтесь отпаривателем.</li>
-</ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Майка для дівчаток від <strong>Бембі</strong> пошита з практичної тканини супрем. Підходить для носіння будь-якої пори року. Класична модель стане чудовим рішенням для того, щоб одягнути під низ інших речей.</p>
-<p><strong>Особливості:</strong></p>
-<ul>
-<li>Тканина складається з натуральної бавовни.</li>
-<li>Матеріал еластичний, приємний на дотик.</li>
-<li>Майка однотонна, без декору.</li>
-<li>Стандартний круглий комір.</li>
-<li>Пряме пошиття.</li>
-<li>Середня довжина.</li>
-</ul>
-<p><strong>Рекомендації щодо догляду:</strong></p>
-<ul>
-<li>Прати в делікатному режимі при температурі 30 градусів.</li>
-<li>Не використовувати машинне сушіння, краще виконати цю операцію на відкритому повітрі.</li>
-<li>Прасувати речі злегка вологими або скористайтеся відпарювачем.</li>
-</ul>]]></description_ua>
-				<article>10026021038.I00</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1273448">
-					<![CDATA[Бледный лососевый]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013216">
-					<![CDATA[98]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416568">
-					<![CDATA[3 года]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[100% хлопок]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[МК26-I00]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4823116404373]]></param>
 				<param name="Кількість предметів" paramid="92802" valueid="475520">
 					<![CDATA[1]]></param>
 			</offer>
@@ -67196,7 +67127,7 @@
 			</offer>
 			<offer available="true" id="408832800">
 				<price>349</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635623</categoryId>
 				<name>Детское боди для новорожденных Бемби BD202-B0F 50 см Светло-желтое (01202701124.B0F)</name>
@@ -108135,7 +108066,7 @@
 			</offer>
 			<offer available="true" id="45616680">
 				<price>425</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635623</categoryId>
 				<name>Детский боди-гольф для мальчиков Бемби БД107 80 см Серый меланж (01107011135.MX0)</name>
@@ -110051,7 +109982,7 @@
 			</offer>
 			<offer available="true" id="45637536">
 				<price>185</price>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>6</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби МК6 98 см Белая (10006021238.100)</name>
