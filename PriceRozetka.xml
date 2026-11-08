@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-07 20:09">
+<yml_catalog date="2026-11-08 12:09">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -40910,7 +40910,7 @@
 			<offer available="true" id="351258891">
 				<price>919</price>
 				<price_old>1195</price_old>
-				<stock_quantity>30</stock_quantity>
+				<stock_quantity>29</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636215</categoryId>
 				<name>Детские брюки для мальчика Бемби ШР780-800 116 см Синие (4823116462700)</name>
@@ -48893,47 +48893,6 @@
 					<![CDATA[Украина]]></param>
 				<param name="EAN" paramid="26294">
 					<![CDATA[2000000003870]]></param>
-				<param name="Артикул моделі" paramid="256977">
-					<![CDATA[КФ226-200]]></param>
-			</offer>
-			<offer available="true" id="365284263">
-				<price>699</price>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>4637111</categoryId>
-				<name>Детская флисовая толстовка Бемби КФ226-200 134 см Молочная (07226702144.200)</name>
-				<name_ua>Дитяча флісова толстовка Бембі КФ226-200 134 см Молочна (07226702144.200)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/kf226(21)_01(200)a2.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/kf226(21)_01(200)b2.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/kf226(21)_01(200)c2.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/kf226(21)_01(200)d2.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Теплая толстовка из коллекции <strong>Бемби</strong>. Модель выполнена из флиса. Отличный вариант для повседневной носки в прохладные дни. Сочетается с любым низом.</p><p><strong>Особенности</strong>:</p><ul><li>Модель декорирована контрастной строчкой и застежкой.</li><li>Застегивается на молнию по всей длине.</li><li>Защита от защемления подбородка.</li><li>Небольшой воротник-стойка.</li><li>Врезные боковые карманы.</li><li>Эластичные манжеты.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Машинная стирка в холодной воде.</li><li>Не отбеливать.</li><li>Сушить в стиральной машине при низкой температуре.</li><li>Гладить теплым утюгом при необходимости.</li><li>Возможна химчистка.</li><li>Постирать перед тем, как надеть.</li><li>Стирать вывернутым наизнанку с похожими цветами.</li></ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Тепла толстовка з колекції <strong>Бембі</strong>. Модель виконана з флісу. Відмінний варіант для повсякденного носіння в прохолодні дні. Поєднується з будь-яким низом.</p><p><strong>Особливості</strong>:</p><ul><li>Модель декорована контрастним рядком і застібкою.</li><li>Застібається на блискавку по всій довжині.</li><li>Захист від защемлення підборіддя.</li><li>Невеликий комір-стійка.</li><li>Врізні бічні кишені.</li><li>Еластичні манжети.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Машинне прання в холодній воді.</li><li>Не відбілювати.</li><li>Сушити в пральній машині за низької температури.</li><li>Прасувати теплою праскою за необхідності.</li><li>Можлива хімчистка.</li><li>Випрати перед тим, як надіти.</li><li>Прати вивернутим навиворіт зі схожими кольорами.</li></ul>]]></description_ua>
-				<article>07226702144.200</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1010395">
-					<![CDATA[Молочный]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013139">
-					<![CDATA[134]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416616">
-					<![CDATA[9 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[100% полиэстер]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[КФ226-200]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[2000000003917]]></param>
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[КФ226-200]]></param>
 			</offer>
@@ -64743,7 +64702,7 @@
 			</offer>
 			<offer available="true" id="401244099">
 				<price>720</price>
-				<stock_quantity>7</stock_quantity>
+				<stock_quantity>6</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636535</categoryId>
 				<name>Подростковая водолазка-гольф Бемби ГФ126 140 см Бежевый меланж (02126701745.GM0)</name>
@@ -65570,7 +65529,7 @@
 			</offer>
 			<offer available="true" id="403633014">
 				<price>2500</price>
-				<stock_quantity>9</stock_quantity>
+				<stock_quantity>8</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4638271</categoryId>
 				<name>Детский зимний комплект (куртка + полукомбинезон) для девочки Бемби КС757 92 см Бежевый (06757703337.G00)</name>
@@ -108165,7 +108124,7 @@
 			<offer available="true" id="450964961">
 				<price>1079</price>
 				<price_old>1741</price_old>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636511</categoryId>
 				<name>Детский теплый спортивный костюм (худи + штаны) Бемби KS790-YX0 104 см Черно-серый (06790702239.YX0)</name>
@@ -118180,7 +118139,7 @@
 			</offer>
 			<offer available="true" id="45637560">
 				<price>200</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби МК6 116 см Белая (10006021241.100)</name>
@@ -121077,50 +121036,6 @@
 					<![CDATA[4824045049598]]></param>
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[SHR289-VM0]]></param>
-				<param name="Кількість предметів" paramid="92802" valueid="475520">
-					<![CDATA[1]]></param>
-				<param name="Керування новою колекцією" paramid="248698" valueid="4760819">
-					<![CDATA[ноябрь 2024]]></param>
-			</offer>
-			<offer available="true" id="461141224">
-				<price>495</price>
-				<stock_quantity>1</stock_quantity>
-				<currencyId>UAH</currencyId>
-				<categoryId>1658277</categoryId>
-				<name>Детские термокальсоны для мальчика Бемби SHR289-VM0 110 см Хаки меланж (26289001240.VM0)</name>
-				<name_ua>Дитячі термокальсони для хлопчика Бембі SHR289-VM0 110 см Хакі меланж (26289001240.VM0)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/shr289(12)_03(vm0)1a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/shr289(12)_03(vm0)a2.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/shr289(12)_03(vm0)b2.jpg</picture>
-				<vendor>Бемби</vendor>
-				<state>new</state>
-				<description>
-					<![CDATA[<p>Детские термокальсоны из коллекции <strong>Бемби</strong>. Модель отшита из ткани рибана, в составе которой комбинация полиэстера и эластана. Их можно надевать под брюки, как термобелье. Отличный выбор для холодных зимних дней.</p><p><strong>Особенности</strong>:</p><ul><li>Плотные кальсоны хорошо обтягивают и практически незаметны под одеждой, поэтому их можно надевать под брюки и джинсы, а также носить в качестве домашнего костюмчика.</li><li>Материал хорошо тянется, позволяет коже дышать и будет приятным к телу.</li><li>Ткань отлично сохраняет цвет и форму даже после частых стирок.</li><li>Фирменная нашивка спереди.</li><li>Тонкая резинка-пояс.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Ручная или машинная стирка при температуре 30-40℃.</li><li>Использовать мягкое средство для стирки.</li><li>Вывернуть на изнанку и отсортировать по цветовому принципу.</li><li>Для стирки в стиральной машине необходимо использовать специальный мешок для стирки.</li><li>Не рекомендуется сушить феном, вешать на горячие полотенцесушители, использовать для ускорения процесса высыхания горячий утюг.</li></ul>]]></description>
-				<description_ua>
-					<![CDATA[<p>Дитячі термокальсони з колекції <strong>Бембі</strong>. Модель зшита з тканини рібана, у складі якої комбінація поліестеру й еластану. Їх можна надягати під штани, як термобілизну. Відмінний вибір для холодних зимових днів.</p><p><strong>Особливості</strong>:</p><ul><li>Щільні кальсони добре обтягують і практично непомітні під одягом, тому їх можна надягати під штани та джинси, а також носити як домашній костюмчик.</li><li>Матеріал добре тягнеться, дає змогу шкірі дихати і буде приємним до тіла.</li><li>Тканина відмінно зберігає колір і форму навіть після частих прань.</li><li>Фірмова нашивка спереду.</li><li>Тонка гумка-пояс.</li></ul><p><strong>Рекомендації з догляду:</strong></p><ul><li>Ручне або машинне прання за температури 30-40℃.</li><li>Використовувати м&#039;який засіб для прання.</li><li>Вивернути на виворіт і відсортувати за колірним принципом.</li><li>Для прання в пральній машині необхідно використовувати спеціальний мішок для прання.</li><li>Не рекомендується сушити феном, вішати на гарячі рушникосушки, використовувати для прискорення процесу висихання гарячу праску.</li></ul>]]></description_ua>
-				<article>26289001240.VM0</article>
-				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
-					<![CDATA[Украина]]></param>
-				<param name="Колір" paramid="131559" valueid="1008757">
-					<![CDATA[Хаки]]></param>
-				<param name="Зріст" paramid="131587" valueid="1013363">
-					<![CDATA[110]]></param>
-				<param name="Дитячий вік" paramid="151000" valueid="1416584">
-					<![CDATA[5 лет]]></param>
-				<param name="Код УКТ ЗЕД" paramid="82508">
-					<![CDATA[6209200000]]></param>
-				<param name="Склад" paramid="131615">
-					<![CDATA[75% хлопок, 25% полиэстер]]></param>
-				<param name="Модель для групування (МДГ)" paramid="215080">
-					<![CDATA[SHR289-VM0]]></param>
-				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
-					<![CDATA[1]]></param>
-				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
-					<![CDATA[Украина]]></param>
-				<param name="Матеріал" paramid="131573" valueid="1220975">
-					<![CDATA[Рибана]]></param>
-				<param name="EAN" paramid="26294">
-					<![CDATA[4824045049604]]></param>
 				<param name="Кількість предметів" paramid="92802" valueid="475520">
 					<![CDATA[1]]></param>
 				<param name="Керування новою колекцією" paramid="248698" valueid="4760819">
