@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-10 12:10">
+<yml_catalog date="2026-11-10 18:09">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -13244,7 +13244,7 @@
 			</offer>
 			<offer available="true" id="323466007">
 				<price>1600</price>
-				<stock_quantity>26</stock_quantity>
+				<stock_quantity>25</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635767</categoryId>
 				<name>Детский комплект (5 ед.) для новорожденных Бемби KP144-220 56 см Молочный (05144001130.220)</name>
@@ -19345,7 +19345,7 @@
 			</offer>
 			<offer available="true" id="330228934">
 				<price>205</price>
-				<stock_quantity>24</stock_quantity>
+				<stock_quantity>25</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби MK22 (900) 122 см Светло-розовая (10022021042.900)</name>
@@ -20001,7 +20001,7 @@
 			</offer>
 			<offer available="true" id="330228997">
 				<price>200</price>
-				<stock_quantity>21</stock_quantity>
+				<stock_quantity>81</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668271</categoryId>
 				<name>Детская майка для мальчика Бемби MK23 (100) 80 см Белая (10023011035.100)</name>
@@ -20238,7 +20238,7 @@
 			</offer>
 			<offer available="true" id="330229015">
 				<price>200</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>62</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668271</categoryId>
 				<name>Детская майка для мальчика Бемби MK23 (100) 86 см Белая (10023011036.100)</name>
@@ -20432,7 +20432,7 @@
 			</offer>
 			<offer available="true" id="330229033">
 				<price>200</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>31</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668271</categoryId>
 				<name>Детская майка для мальчика Бемби MK23 (100) 92 см Белая (10023011037.100)</name>
@@ -41959,7 +41959,7 @@
 			</offer>
 			<offer available="true" id="360384765">
 				<price>385</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>11</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635623</categoryId>
 				<name>Детское теплое боди для новорожденных девочек Бемби БД59 01059101532.20A 62 см Молочное (4823116465336)</name>
@@ -42028,7 +42028,7 @@
 			</offer>
 			<offer available="true" id="360384810">
 				<price>385</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>34</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635623</categoryId>
 				<name>Детское теплое боди для новорожденных девочек Бемби БД59 01059101533.20A 68 см (4823116465343)</name>
@@ -42097,7 +42097,7 @@
 			</offer>
 			<offer available="true" id="360384861">
 				<price>425</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>13</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635623</categoryId>
 				<name>Детское теплое боди для новорожденных девочек Бемби БД59 01059101534.20A 74 см (4823116465350)</name>
@@ -98354,7 +98354,7 @@
 			<offer available="true" id="430960091">
 				<price>479</price>
 				<price_old>672</price_old>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636431</categoryId>
 				<name>Детские шорты на резинке для мальчика Бемби Rythm Of Nature SHR821-G00 110 см Бежевые (26821517540.G00)</name>
@@ -120588,7 +120588,7 @@
 			</offer>
 			<offer available="true" id="45637568">
 				<price>200</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби МК6 122 см Белая (10006021242.100)</name>
