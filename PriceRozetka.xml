@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 12:10">
+<yml_catalog date="2026-11-13 18:09">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -37478,7 +37478,7 @@
 			</offer>
 			<offer available="true" id="350595261">
 				<price>205</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>44</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Детские трусы-боксеры для мальчика Бемби TR46-R00 92 см Бирюзовые (4823109695221)</name>
@@ -37965,7 +37965,7 @@
 			</offer>
 			<offer available="true" id="350595315">
 				<price>205</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>45</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Детские трусы-боксеры для мальчика Бемби TR46-R00 110 см Бирюзовые (4823109695252)</name>
@@ -38323,7 +38323,7 @@
 			</offer>
 			<offer available="true" id="350595351">
 				<price>205</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>47</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Детские трусы-боксеры для мальчика Бемби TR46-R00 122 см Бирюзовые (4823109695276)</name>
@@ -38458,7 +38458,7 @@
 			</offer>
 			<offer available="true" id="350595366">
 				<price>230</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>42</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Детские трусы-боксеры для мальчика Бемби TR46-R00 128 см Бирюзовые (4823109695283)</name>
@@ -38769,7 +38769,7 @@
 			</offer>
 			<offer available="true" id="350595396">
 				<price>230</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>44</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-боксеры для мальчика Бемби TR46-R00 140 см Бирюзовые (4823109695306)</name>
@@ -38857,7 +38857,7 @@
 			</offer>
 			<offer available="true" id="350595414">
 				<price>230</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>43</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668265</categoryId>
 				<name>Подростковые трусы-боксеры для мальчика Бемби TR46-R00 146 см Бирюзовые (4823109695313)</name>
@@ -38983,6 +38983,49 @@
 					<![CDATA[4823109694965]]></param>
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[TR46-800]]></param>
+				<param name="Кількість предметів" paramid="92802" valueid="475520">
+					<![CDATA[1]]></param>
+				<param name="Керування новою колекцією" paramid="248698" valueid="4313823">
+					<![CDATA[август 2022]]></param>
+			</offer>
+			<offer available="true" id="350595429">
+				<price>245</price>
+				<stock_quantity>41</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4668265</categoryId>
+				<name>Подростковые трусы-боксеры для мальчика Бемби TR46-R00 152 см Бирюзовые (4823109695320)</name>
+				<name_ua>Підліткові труси-боксери для хлопчика Бембі TR46-R00 152 см Бірюзові (4823109695320)</name_ua>
+				<picture>https://shop.bembi.ua/uploads/products/tr46(10)_01(r00)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/tr46(10)_01(r00)b.jpg</picture>
+				<vendor>Бемби</vendor>
+				<state>new</state>
+				<description>
+					<![CDATA[<p>Трусики-боксеры на мальчика из коллекции <strong>Бемби</strong>. Модель выполнена из качественного хлопчатобумажного материала супрем. Ткань представляет собой трикотажное полотно, которое идеально подходит для изготовления детской одежды и белья. Трикотаж отвечает всем гигиеническим и эксплуатационным свойствам. Благодаря тонкому и прочному материалу, белье для мальчика очень легкое и приятное к телу.</p><p><strong>Особенности</strong>:</p><ul><li>Поверхность трусов однотонная без декора.</li><li>Тонкая эластичная резинка-пояс.</li><li>Трусики-боксеры средней посадки.</li><li>Все швы идеально прошиты.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Машинная стирка при температуре не выше 30℃.</li><li>Не отбеливать.</li><li>Не сушить в стиральной машине.</li><li>Не подвергать химической чистке.</li><li>Гладить при низкой температуре (не более 110℃).</li></ul>]]></description>
+				<description_ua>
+					<![CDATA[<p>Трусики-боксери на хлопчика з колекції <strong>Бембі</strong>. Модель виконана з якісного бавовняного матеріалу супрем. Тканина являє собою трикотажне полотно, яке ідеально підходить для виготовлення дитячого одягу та білизни. Трикотаж відповідає всім гігієнічним і експлуатаційним властивостям. Завдяки тонкому і міцному матеріалу, білизна для хлопчика дуже легка і приємна до тіла.</p><p><strong>Особливості</strong>:</p><ul><li>Поверхня трусів однотонна без декору.</li><li>Тонка еластична гумка-пояс.</li><li>Трусики-боксери середньої посадки.</li><li>Усі шви ідеально прошиті.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Машинне прання при температурі не вище 30℃.</li><li>Не вибілювати.</li><li>Не сушити в пральній машині.</li><li>Не піддавати хімічному чищенню.</li><li>Прасувати при низькій температурі (не більше 110℃).</li></ul>]]></description_ua>
+				<article>22046011070.R00</article>
+				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
+					<![CDATA[Украина]]></param>
+				<param name="Колір" paramid="131559" valueid="1008372">
+					<![CDATA[Голубой]]></param>
+				<param name="Зріст" paramid="131587" valueid="1013433">
+					<![CDATA[152]]></param>
+				<param name="Дитячий вік" paramid="151000" valueid="1416640">
+					<![CDATA[12 лет]]></param>
+				<param name="Код УКТ ЗЕД" paramid="82508">
+					<![CDATA[6209200000]]></param>
+				<param name="Склад" paramid="131615">
+					<![CDATA[100% хлопок]]></param>
+				<param name="Модель для групування (МДГ)" paramid="215080">
+					<![CDATA[TR46-R00]]></param>
+				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+					<![CDATA[1]]></param>
+				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
+					<![CDATA[Украина]]></param>
+				<param name="Матеріал" paramid="131573" valueid="1501800">
+					<![CDATA[Супрем]]></param>
+				<param name="EAN" paramid="26294">
+					<![CDATA[4823109695320]]></param>
 				<param name="Кількість предметів" paramid="92802" valueid="475520">
 					<![CDATA[1]]></param>
 				<param name="Керування новою колекцією" paramid="248698" valueid="4313823">
@@ -41744,7 +41787,8 @@
 					<![CDATA[сентябрь 2022]]></param>
 			</offer>
 			<offer available="true" id="360380976">
-				<price>609</price>
+				<price>249</price>
+				<price_old>609</price_old>
 				<stock_quantity>15</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637103</categoryId>
@@ -41787,7 +41831,7 @@
 					<![CDATA[ДЖ325 35325406643.G05]]></param>
 			</offer>
 			<offer available="true" id="360381786">
-				<price>399</price>
+				<price>299</price>
 				<price_old>752</price_old>
 				<stock_quantity>17</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -51899,7 +51943,7 @@
 					<![CDATA[4823116471481]]></param>
 			</offer>
 			<offer available="true" id="369519279">
-				<price>489</price>
+				<price>439</price>
 				<price_old>699</price_old>
 				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -51946,7 +51990,7 @@
 					<![CDATA[С длинными рукавами]]></param>
 			</offer>
 			<offer available="true" id="369519285">
-				<price>489</price>
+				<price>439</price>
 				<price_old>699</price_old>
 				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -51991,7 +52035,7 @@
 					<![CDATA[С длинными рукавами]]></param>
 			</offer>
 			<offer available="true" id="369519300">
-				<price>489</price>
+				<price>439</price>
 				<price_old>699</price_old>
 				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -52038,7 +52082,7 @@
 					<![CDATA[С длинными рукавами]]></param>
 			</offer>
 			<offer available="true" id="369519318">
-				<price>489</price>
+				<price>439</price>
 				<price_old>699</price_old>
 				<stock_quantity>5</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -52083,7 +52127,7 @@
 					<![CDATA[С длинными рукавами]]></param>
 			</offer>
 			<offer available="true" id="369519351">
-				<price>489</price>
+				<price>439</price>
 				<price_old>699</price_old>
 				<stock_quantity>7</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -52128,7 +52172,7 @@
 					<![CDATA[С длинными рукавами]]></param>
 			</offer>
 			<offer available="true" id="369519387">
-				<price>529</price>
+				<price>469</price>
 				<price_old>749</price_old>
 				<stock_quantity>11</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -112115,7 +112159,7 @@
 			</offer>
 			<offer available="true" id="453568592">
 				<price>645</price>
-				<stock_quantity>7</stock_quantity>
+				<stock_quantity>8</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив Бемби FB723-Y00 134 см Черный (24723001244.Y00)</name>
@@ -135415,7 +135459,7 @@
 			</offer>
 			<offer available="true" id="93780878">
 				<price>560</price>
-				<stock_quantity>45</stock_quantity>
+				<stock_quantity>41</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636535</categoryId>
 				<name>Подростковая водолазка-гольф для мальчика Бемби ГФ94-100 140 см Белая (02094001145.100)</name>
