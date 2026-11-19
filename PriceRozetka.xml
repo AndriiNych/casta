@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-18 20:09">
+<yml_catalog date="2026-11-19 12:10">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -3331,7 +3331,7 @@
 			</offer>
 			<offer available="true" id="244944973">
 				<price>610</price>
-				<stock_quantity>7</stock_quantity>
+				<stock_quantity>6</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детские термокальсоны для мальчика Бемби SHR289 800 146 см Синие (26289001268.800)</name>
@@ -3396,7 +3396,7 @@
 			</offer>
 			<offer available="true" id="244944991">
 				<price>545</price>
-				<stock_quantity>20</stock_quantity>
+				<stock_quantity>21</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив для мальчика Бемби FB723 800 104 см Синий (24723001239.800)</name>
@@ -11355,7 +11355,7 @@
 			</offer>
 			<offer available="true" id="309768288">
 				<price>410</price>
-				<stock_quantity>12</stock_quantity>
+				<stock_quantity>11</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636927</categoryId>
 				<name>Детская футболка для девочки Бемби City collection FB866-100 116 см (24866001041.100)</name>
@@ -21711,7 +21711,7 @@
 			</offer>
 			<offer available="true" id="330229141">
 				<price>240</price>
-				<stock_quantity>14</stock_quantity>
+				<stock_quantity>15</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668271</categoryId>
 				<name>Детская майка для мальчика Бемби MK23 (100) 122 см Белая (10023011042.100)</name>
@@ -22252,7 +22252,7 @@
 			</offer>
 			<offer available="true" id="330229198">
 				<price>290</price>
-				<stock_quantity>11</stock_quantity>
+				<stock_quantity>12</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668271</categoryId>
 				<name>Подростковая майка для мальчика Бемби MK23 (100) 140 см Белая (10023011045.100)</name>
@@ -27540,7 +27540,7 @@
 			</offer>
 			<offer available="true" id="332867755">
 				<price>140</price>
-				<stock_quantity>6</stock_quantity>
+				<stock_quantity>5</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668211</categoryId>
 				<name>Детские трусы-слипы для девочки Бемби TR40-100 134 см Белые (4823116402140)</name>
@@ -41213,7 +41213,7 @@
 					<![CDATA[август 2022]]></param>
 			</offer>
 			<offer available="true" id="351258891">
-				<price>919</price>
+				<price>749</price>
 				<price_old>1195</price_old>
 				<stock_quantity>29</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -41255,7 +41255,7 @@
 					<![CDATA[август 2022]]></param>
 			</offer>
 			<offer available="true" id="351258897">
-				<price>919</price>
+				<price>749</price>
 				<price_old>1195</price_old>
 				<stock_quantity>18</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -41297,7 +41297,7 @@
 					<![CDATA[август 2022]]></param>
 			</offer>
 			<offer available="true" id="351258903">
-				<price>1059</price>
+				<price>859</price>
 				<price_old>1377</price_old>
 				<stock_quantity>5</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -41339,7 +41339,7 @@
 					<![CDATA[август 2022]]></param>
 			</offer>
 			<offer available="true" id="351258915">
-				<price>1059</price>
+				<price>859</price>
 				<price_old>1377</price_old>
 				<stock_quantity>10</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -41381,7 +41381,7 @@
 					<![CDATA[август 2022]]></param>
 			</offer>
 			<offer available="true" id="351258918">
-				<price>1059</price>
+				<price>859</price>
 				<price_old>1377</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -41423,7 +41423,7 @@
 					<![CDATA[август 2022]]></param>
 			</offer>
 			<offer available="true" id="351258927">
-				<price>1169</price>
+				<price>949</price>
 				<price_old>1520</price_old>
 				<stock_quantity>17</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -43825,7 +43825,7 @@
 					<![CDATA[1]]></param>
 			</offer>
 			<offer available="true" id="362688087">
-				<price>1299</price>
+				<price>1690</price>
 				<stock_quantity>8</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636303</categoryId>
@@ -43870,7 +43870,7 @@
 					<![CDATA[Куртки]]></param>
 			</offer>
 			<offer available="true" id="362688105">
-				<price>1299</price>
+				<price>1690</price>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635447</categoryId>
@@ -43917,7 +43917,7 @@
 					<![CDATA[Куртки]]></param>
 			</offer>
 			<offer available="true" id="362688135">
-				<price>1299</price>
+				<price>1690</price>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635447</categoryId>
@@ -48082,7 +48082,7 @@
 			</offer>
 			<offer available="true" id="363519777">
 				<price>225</price>
-				<stock_quantity>23</stock_quantity>
+				<stock_quantity>24</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4668217</categoryId>
 				<name>Детская майка для девочки Бемби МК26-900 122 см (10026021042.900)</name>
@@ -48424,6 +48424,77 @@
 					<![CDATA[4823116404304]]></param>
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[МК26-900]]></param>
+				<param name="Кількість предметів" paramid="92802" valueid="475520">
+					<![CDATA[1]]></param>
+			</offer>
+			<offer available="true" id="363520863">
+				<price>270</price>
+				<stock_quantity>1</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4668217</categoryId>
+				<name>Подростковая майка для девочки Бемби МК26-I00 140 см (10026021045.I00)</name>
+				<name_ua>Підліткова майка для дівчинки Бембі МК26-I00 140 см (10026021045.I00)</name_ua>
+				<picture>https://shop.bembi.ua/uploads/products/mk26(10)_01(i00)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/mk26(10)_01(i00)b.jpg</picture>
+				<vendor>Бемби</vendor>
+				<state>new</state>
+				<description>
+					<![CDATA[<p>Майка для девочек от <strong>Бемби</strong> пошита из практичной ткани супрем. Подходит для носки в любое время года. Классическая модель станет отличным решением для того, чтобы одеть под низ других вещей.</p>
+<p><strong>Особенности:</strong></p>
+<ul>
+<li>Ткань состоит из натурального хлопка.</li>
+<li>Материал эластичный, приятный на ощупь.</li>
+<li>Майка однотонная, без декора.</li>
+<li>Стандартный круглый воротник.</li>
+<li>Прямой пошив.</li>
+<li>Средняя длина.</li>
+</ul>
+<p><strong>Рекомендации по уходу:</strong></p>
+<ul>
+<li>Стирать в деликатном режиме при температуре 30℃.</li>
+<li>Не использовать машинную сушку, лучше выполнить эту операцию на открытом воздухе.</li>
+<li>Гладить вещи слегка влажными или воспользуйтесь отпаривателем.</li>
+</ul>]]></description>
+				<description_ua>
+					<![CDATA[<p>Майка для дівчаток від <strong>Бембі</strong> пошита з практичної тканини супрем. Підходить для носіння будь-якої пори року. Класична модель стане чудовим рішенням для того, щоб одягнути під низ інших речей.</p>
+<p><strong>Особливості:</strong></p>
+<ul>
+<li>Тканина складається з натуральної бавовни.</li>
+<li>Матеріал еластичний, приємний на дотик.</li>
+<li>Майка однотонна, без декору.</li>
+<li>Стандартний круглий комір.</li>
+<li>Пряме пошиття.</li>
+<li>Середня довжина.</li>
+</ul>
+<p><strong>Рекомендації щодо догляду:</strong></p>
+<ul>
+<li>Прати в делікатному режимі при температурі 30 градусів.</li>
+<li>Не використовувати машинне сушіння, краще виконати цю операцію на відкритому повітрі.</li>
+<li>Прасувати речі злегка вологими або скористайтеся відпарювачем.</li>
+</ul>]]></description_ua>
+				<article>10026021045.I00</article>
+				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
+					<![CDATA[Украина]]></param>
+				<param name="Колір" paramid="131559" valueid="1273448">
+					<![CDATA[Бледный лососевый]]></param>
+				<param name="Зріст" paramid="131587" valueid="1013286">
+					<![CDATA[140]]></param>
+				<param name="Дитячий вік" paramid="151000" valueid="1416624">
+					<![CDATA[10 лет]]></param>
+				<param name="Код УКТ ЗЕД" paramid="82508">
+					<![CDATA[6209200000]]></param>
+				<param name="Склад" paramid="131615">
+					<![CDATA[100% хлопок]]></param>
+				<param name="Модель для групування (МДГ)" paramid="215080">
+					<![CDATA[МК26-I00]]></param>
+				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+					<![CDATA[1]]></param>
+				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
+					<![CDATA[Украина]]></param>
+				<param name="EAN" paramid="26294">
+					<![CDATA[4823116404441]]></param>
+				<param name="Артикул моделі" paramid="256977">
+					<![CDATA[МК26-I00]]></param>
 				<param name="Кількість предметів" paramid="92802" valueid="475520">
 					<![CDATA[1]]></param>
 			</offer>
@@ -49686,7 +49757,7 @@
 			<offer available="true" id="365412825">
 				<price>369</price>
 				<price_old>559</price_old>
-				<stock_quantity>19</stock_quantity>
+				<stock_quantity>18</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636559</categoryId>
 				<name>Детский теплый свитшот для мальчика Бемби ДЖ341-Y00 134 см Черный (35341702144.Y00)</name>
@@ -54017,7 +54088,7 @@
 			</offer>
 			<offer available="true" id="372978531">
 				<price>1143</price>
-				<stock_quantity>15</stock_quantity>
+				<stock_quantity>14</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635431</categoryId>
 				<name>Подростковая ветровка для девочки Бемби КТ300-X00 158 см Серая (33300323371.X00)</name>
@@ -60259,7 +60330,7 @@
 			<offer available="true" id="393600696">
 				<price>1099</price>
 				<price_old>2210</price_old>
-				<stock_quantity>10</stock_quantity>
+				<stock_quantity>9</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635447</categoryId>
 				<name>Детская демисезонная куртка для девочки Бемби КТ315-900 128 см Светло-розовая (33315423343.900)</name>
@@ -61075,7 +61146,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393603984">
-				<price>549</price>
+				<price>449</price>
 				<price_old>714</price_old>
 				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -61150,7 +61221,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393603993">
-				<price>549</price>
+				<price>449</price>
 				<price_old>714</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -61225,7 +61296,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393603999">
-				<price>549</price>
+				<price>449</price>
 				<price_old>714</price_old>
 				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -61300,7 +61371,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393604008">
-				<price>549</price>
+				<price>449</price>
 				<price_old>714</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -61375,7 +61446,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393604017">
-				<price>639</price>
+				<price>539</price>
 				<price_old>831</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -61435,7 +61506,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393604023">
-				<price>639</price>
+				<price>539</price>
 				<price_old>831</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -61495,7 +61566,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393604032">
-				<price>639</price>
+				<price>539</price>
 				<price_old>831</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -61555,7 +61626,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393604041">
-				<price>639</price>
+				<price>539</price>
 				<price_old>831</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -62951,7 +63022,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612426">
-				<price>399</price>
+				<price>329</price>
 				<price_old>519</price_old>
 				<stock_quantity>8</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -63026,7 +63097,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612435">
-				<price>399</price>
+				<price>329</price>
 				<price_old>519</price_old>
 				<stock_quantity>6</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -63101,7 +63172,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612444">
-				<price>399</price>
+				<price>329</price>
 				<price_old>519</price_old>
 				<stock_quantity>6</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -63176,7 +63247,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612453">
-				<price>399</price>
+				<price>329</price>
 				<price_old>519</price_old>
 				<stock_quantity>5</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -63251,7 +63322,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612465">
-				<price>479</price>
+				<price>389</price>
 				<price_old>623</price_old>
 				<stock_quantity>7</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -63326,7 +63397,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612534">
-				<price>479</price>
+				<price>389</price>
 				<price_old>623</price_old>
 				<stock_quantity>5</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -63401,7 +63472,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612543">
-				<price>479</price>
+				<price>389</price>
 				<price_old>623</price_old>
 				<stock_quantity>8</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -63476,7 +63547,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612552">
-				<price>479</price>
+				<price>389</price>
 				<price_old>623</price_old>
 				<stock_quantity>12</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -63551,7 +63622,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612561">
-				<price>519</price>
+				<price>429</price>
 				<price_old>675</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -63626,7 +63697,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612570">
-				<price>519</price>
+				<price>429</price>
 				<price_old>675</price_old>
 				<stock_quantity>7</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -63986,7 +64057,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612795">
-				<price>549</price>
+				<price>449</price>
 				<price_old>714</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -64059,7 +64130,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612798">
-				<price>549</price>
+				<price>449</price>
 				<price_old>714</price_old>
 				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -64132,7 +64203,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612804">
-				<price>549</price>
+				<price>449</price>
 				<price_old>714</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -64190,7 +64261,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612810">
-				<price>549</price>
+				<price>449</price>
 				<price_old>714</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -64248,7 +64319,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612813">
-				<price>639</price>
+				<price>539</price>
 				<price_old>831</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -64321,7 +64392,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612816">
-				<price>639</price>
+				<price>539</price>
 				<price_old>831</price_old>
 				<stock_quantity>6</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -64379,7 +64450,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612825">
-				<price>639</price>
+				<price>539</price>
 				<price_old>831</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -64437,7 +64508,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612828">
-				<price>639</price>
+				<price>539</price>
 				<price_old>831</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -64510,7 +64581,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612831">
-				<price>639</price>
+				<price>539</price>
 				<price_old>831</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -64583,7 +64654,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612843">
-				<price>689</price>
+				<price>579</price>
 				<price_old>896</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -64641,7 +64712,7 @@
 					<![CDATA[август 2023]]></param>
 			</offer>
 			<offer available="true" id="393612849">
-				<price>689</price>
+				<price>579</price>
 				<price_old>896</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -67557,7 +67628,7 @@
 			</offer>
 			<offer available="true" id="404105286">
 				<price>985</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636559</categoryId>
 				<name>Подростковый теплый свитшот новогодний Бемби ДЖ350-806 158 см Синий (35350406671.806)</name>
@@ -68382,7 +68453,7 @@
 			</offer>
 			<offer available="true" id="404750691">
 				<price>2150</price>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635463</categoryId>
 				<name>Подростковое зимнее пальто для девочки Бемби КТ305 158 см Ягодное (33305423371.J00)</name>
@@ -111385,7 +111456,7 @@
 					<![CDATA[август 2024]]></param>
 			</offer>
 			<offer available="true" id="448292039">
-				<price>1199</price>
+				<price>999</price>
 				<price_old>1975</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -111434,7 +111505,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448292072">
-				<price>799</price>
+				<price>699</price>
 				<price_old>1299</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -112183,7 +112254,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448292540">
-				<price>1049</price>
+				<price>849</price>
 				<price_old>1249</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -112232,7 +112303,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448292549">
-				<price>1049</price>
+				<price>849</price>
 				<price_old>1249</price_old>
 				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -112281,7 +112352,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448292609">
-				<price>685</price>
+				<price>549</price>
 				<price_old>891</price_old>
 				<stock_quantity>5</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -112357,7 +112428,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448292615">
-				<price>685</price>
+				<price>549</price>
 				<price_old>891</price_old>
 				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -112433,7 +112504,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448292618">
-				<price>685</price>
+				<price>549</price>
 				<price_old>891</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -112509,7 +112580,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448292621">
-				<price>685</price>
+				<price>549</price>
 				<price_old>891</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -112585,7 +112656,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448292624">
-				<price>685</price>
+				<price>549</price>
 				<price_old>891</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -112661,7 +112732,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448292627">
-				<price>685</price>
+				<price>549</price>
 				<price_old>891</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -112737,7 +112808,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448292633">
-				<price>685</price>
+				<price>549</price>
 				<price_old>891</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -112813,7 +112884,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448292636">
-				<price>685</price>
+				<price>549</price>
 				<price_old>891</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -112889,7 +112960,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448292639">
-				<price>685</price>
+				<price>549</price>
 				<price_old>891</price_old>
 				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -112965,7 +113036,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448292642">
-				<price>685</price>
+				<price>549</price>
 				<price_old>891</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113041,7 +113112,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448292669">
-				<price>479</price>
+				<price>389</price>
 				<price_old>774</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113085,7 +113156,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293089">
-				<price>379</price>
+				<price>319</price>
 				<price_old>610</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113133,7 +113204,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293107">
-				<price>379</price>
+				<price>319</price>
 				<price_old>610</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113181,7 +113252,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293182">
-				<price>559</price>
+				<price>459</price>
 				<price_old>909</price_old>
 				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113230,7 +113301,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293191">
-				<price>559</price>
+				<price>459</price>
 				<price_old>909</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113279,7 +113350,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293272">
-				<price>589</price>
+				<price>479</price>
 				<price_old>948</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113325,7 +113396,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293278">
-				<price>589</price>
+				<price>479</price>
 				<price_old>948</price_old>
 				<stock_quantity>12</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113371,7 +113442,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293284">
-				<price>589</price>
+				<price>479</price>
 				<price_old>948</price_old>
 				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113417,7 +113488,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293290">
-				<price>589</price>
+				<price>479</price>
 				<price_old>948</price_old>
 				<stock_quantity>7</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113463,7 +113534,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293296">
-				<price>689</price>
+				<price>569</price>
 				<price_old>1117</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113509,7 +113580,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293347">
-				<price>510</price>
+				<price>419</price>
 				<price_old>663</price_old>
 				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113556,7 +113627,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293371">
-				<price>510</price>
+				<price>419</price>
 				<price_old>663</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113603,7 +113674,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293383">
-				<price>609</price>
+				<price>499</price>
 				<price_old>792</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113650,7 +113721,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293407">
-				<price>609</price>
+				<price>499</price>
 				<price_old>792</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113697,7 +113768,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293419">
-				<price>609</price>
+				<price>499</price>
 				<price_old>792</price_old>
 				<stock_quantity>5</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113744,7 +113815,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293431">
-				<price>659</price>
+				<price>539</price>
 				<price_old>857</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113791,7 +113862,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293605">
-				<price>319</price>
+				<price>259</price>
 				<price_old>519</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113839,7 +113910,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293635">
-				<price>379</price>
+				<price>319</price>
 				<price_old>610</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113887,7 +113958,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293641">
-				<price>379</price>
+				<price>319</price>
 				<price_old>610</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113935,7 +114006,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293686">
-				<price>379</price>
+				<price>299</price>
 				<price_old>605</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -113979,7 +114050,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293875">
-				<price>499</price>
+				<price>419</price>
 				<price_old>818</price_old>
 				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -114026,7 +114097,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="448293878">
-				<price>499</price>
+				<price>419</price>
 				<price_old>818</price_old>
 				<stock_quantity>6</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -114312,7 +114383,7 @@
 					<![CDATA[сентябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="450964961">
-				<price>1079</price>
+				<price>869</price>
 				<price_old>1741</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -114862,7 +114933,7 @@
 			</offer>
 			<offer available="true" id="453568565">
 				<price>545</price>
-				<stock_quantity>15</stock_quantity>
+				<stock_quantity>16</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив Бемби FB723-Y00 104 см Черный (24723001239.Y00)</name>
@@ -115689,7 +115760,7 @@
 					<![CDATA[октябрь 2024]]></param>
 			</offer>
 			<offer available="true" id="453569186">
-				<price>289</price>
+				<price>239</price>
 				<price_old>467</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
@@ -122337,7 +122408,7 @@
 			</offer>
 			<offer available="true" id="45616856">
 				<price>325</price>
-				<stock_quantity>26</stock_quantity>
+				<stock_quantity>25</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635623</categoryId>
 				<name>Детское боди для новорожденных Бемби БД109 68 см Белое (01109001133.100)</name>
@@ -125952,6 +126023,51 @@
 				<param name="Керування новою колекцією" paramid="248698" valueid="4760819">
 					<![CDATA[ноябрь 2024]]></param>
 			</offer>
+			<offer available="true" id="459708974">
+				<price>570</price>
+				<stock_quantity>1</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4636535</categoryId>
+				<name>Детская водолазка-гольф для мальчика Бемби GF2-G02 122 см Бежевая (02002001742.G02)</name>
+				<name_ua>Дитяча водолазка-гольф для хлопчика Бембі GF2-G02 122 см Бежева (02002001742.G02)</name_ua>
+				<picture>https://shop.bembi.ua/uploads/products/gf2(17)_01(g02).jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/gf2(17)_01(g02)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/gf2(17)_01(g02)b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/gf2(17)_01(g02)c.jpg</picture>
+				<vendor>Бемби</vendor>
+				<state>new</state>
+				<description>
+					<![CDATA[<p>Детская водолазка-гольф для мальчиков от украинского бренда <strong>Бемби</strong> &mdash; это сочетание комфорта, качества и стильного дизайна. Водолазка выполнена из натуральной хлопковой ткани с легким начесом, что делает ее мягкой и теплой, идеально подходящей для прохладной погоды.&nbsp;Застежка на кнопки на плече обеспечивает удобство при одевании и снятии, а стильный фасон прекрасно дополнит гардероб вашего ребенка.</p><p><strong>Детали:</strong></p><ul><li>Состав: 100% хлопок</li><li>Мягкая ткань с легким начесом</li><li>Высокий ребристый воротник</li><li>Ребристые манжеты</li><li>Застегивается на кнопки на плече</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Машинная стирка при температуре 30&deg;C</li><li>Не сушить в сушильной машине</li><li>Не отбеливать</li><li>Не подвергать химической чистке</li></ul>]]></description>
+				<description_ua>
+					<![CDATA[<p>Дитяча водолазка-гольф для хлопчиків від українського бренду <strong>Бембі</strong> - це поєднання комфорту, якості та стильного дизайну. Водолазка виконана з натуральної бавовняної тканини з легким начісуванням, що робить її м&#039;якою і теплою, ідеально підходить для прохолодної погоди.&nbsp;Застібка на кнопки на плечі забезпечує зручність при одяганні та знятті, а стильний фасон прекрасно доповнить гардероб вашої дитини.</p><p><strong>Деталі:</strong></p><ul><li>Склад: 100% бавовна</li><li>М&#039;яка тканина з легким начосом</li><li>Високий ребристий комір</li><li>Ребристі манжети</li><li>Застібається на кнопки на плечі</li></ul><p><strong>Рекомендації з догляду:</strong></p><ul><li>Машинне прання за температури 30&deg;C</li><li>Не сушити в сушильній машині</li><li>Не вибілювати</li><li>Не піддавати хімічному чищенню</li></ul>]]></description_ua>
+				<article>02002001742.G02</article>
+				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
+					<![CDATA[Украина]]></param>
+				<param name="Колір" paramid="131559" valueid="1008148">
+					<![CDATA[Бежевый]]></param>
+				<param name="Зріст" paramid="131587" valueid="1013160">
+					<![CDATA[122]]></param>
+				<param name="Дитячий вік" paramid="151000" valueid="1416600">
+					<![CDATA[7 лет]]></param>
+				<param name="Код УКТ ЗЕД" paramid="82508">
+					<![CDATA[6209200000]]></param>
+				<param name="Склад" paramid="131615">
+					<![CDATA[100% хлопок]]></param>
+				<param name="Модель для групування (МДГ)" paramid="215080">
+					<![CDATA[GF2-G02]]></param>
+				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+					<![CDATA[1]]></param>
+				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
+					<![CDATA[Украина]]></param>
+				<param name="Матеріал" paramid="131573" valueid="1236383">
+					<![CDATA[Интерлок]]></param>
+				<param name="Кількість предметів" paramid="92802" valueid="475520">
+					<![CDATA[1]]></param>
+				<param name="Довжина рукава" paramid="105869" valueid="638464">
+					<![CDATA[С длинными рукавами]]></param>
+				<param name="Керування новою колекцією" paramid="248698" valueid="4760819">
+					<![CDATA[ноябрь 2024]]></param>
+			</offer>
 			<offer available="true" id="459708979">
 				<price>650</price>
 				<stock_quantity>1</stock_quantity>
@@ -126128,7 +126244,7 @@
 			</offer>
 			<offer available="true" id="459709009">
 				<price>650</price>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637055</categoryId>
 				<name>Подростковая водолазка-гольф для девочки Бемби GF2-302 140 см Розовая (02002001745.302)</name>
@@ -135895,7 +136011,7 @@
 			<offer available="true" id="502463464">
 				<price>219</price>
 				<price_old>379</price_old>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636927</categoryId>
 				<name>Подростковая футболка для девочки Бемби FT37-190 146 см Белый/Светло-розовый (47037321068.190)</name>
