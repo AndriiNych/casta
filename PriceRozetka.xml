@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-23 12:10">
+<yml_catalog date="2026-11-23 18:09">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -970,7 +970,7 @@
 			</offer>
 			<offer available="true" id="163573306">
 				<price>425</price>
-				<stock_quantity>36</stock_quantity>
+				<stock_quantity>33</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635623</categoryId>
 				<name>Детский боди-гольф для мальчиков Бемби БД107 80 см Голубой меланж (01107011135.M40)</name>
@@ -1015,7 +1015,7 @@
 			</offer>
 			<offer available="true" id="163573460">
 				<price>425</price>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>5</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635623</categoryId>
 				<name>Детский боди-гольф для мальчиков Бемби БД107 86 см Голубой меланж (01107011136.M40)</name>
@@ -5352,7 +5352,7 @@
 			</offer>
 			<offer available="true" id="260958196">
 				<price>495</price>
-				<stock_quantity>18</stock_quantity>
+				<stock_quantity>8</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детские термокальсоны для мальчика Бемби SHR289-YX1 104 см Черно-серый рисунок (ROZ6400025583)</name>
@@ -5694,7 +5694,7 @@
 			</offer>
 			<offer available="true" id="264380056">
 				<price>425</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635623</categoryId>
 				<name>Детский боди-гольф для девочек Бемби BD107 M30 80 см Меланжевый розовый (01107021135.M30)</name>
@@ -114603,7 +114603,7 @@
 			</offer>
 			<offer available="true" id="453568598">
 				<price>645</price>
-				<stock_quantity>6</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детский термолонгслив Бемби FB723-Y00 140 см Черный (24723001245.Y00)</name>
@@ -114783,7 +114783,7 @@
 			</offer>
 			<offer available="true" id="453568640">
 				<price>495</price>
-				<stock_quantity>15</stock_quantity>
+				<stock_quantity>8</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>1658277</categoryId>
 				<name>Детские термокальсоны для мальчика Бемби SHR289-Y00 116 см Черные (26289001241.Y00)</name>
@@ -121479,7 +121479,7 @@
 			</offer>
 			<offer available="true" id="45616744">
 				<price>425</price>
-				<stock_quantity>16</stock_quantity>
+				<stock_quantity>12</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635623</categoryId>
 				<name>Детский боди-гольф для девочек Бемби БД107 86 см Серый меланж (01107021136.MX0)</name>
@@ -137933,7 +137933,7 @@
 			</offer>
 			<offer available="true" id="93780866">
 				<price>560</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>49</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636535</categoryId>
 				<name>Гольф школьный детский Бемби ГФ94-100 128 см Белый</name>
@@ -137970,6 +137970,50 @@
 					<![CDATA[Интерлок]]></param>
 				<param name="EAN" paramid="26294">
 					<![CDATA[4823101659429]]></param>
+				<param name="Артикул моделі" paramid="256977">
+					<![CDATA[ГФ94-100]]></param>
+				<param name="Кількість предметів" paramid="92802" valueid="475520">
+					<![CDATA[1]]></param>
+			</offer>
+			<offer available="true" id="93780872">
+				<price>560</price>
+				<stock_quantity>43</stock_quantity>
+				<currencyId>UAH</currencyId>
+				<categoryId>4636535</categoryId>
+				<name>Детская водолазка-гольф для мальчика Бемби ГФ94-100 134 см Белая (02094001144.100)</name>
+				<name_ua>Дитяча водолазка-гольф для хлопчика Бемби ГФ94-100 134 см Біла (02094001144.100)</name_ua>
+				<picture>https://shop.bembi.ua/uploads/products/gf94(11)_01(100)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/gf94(11)_01(100)b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/gf94(11)_01(100)c.jpg</picture>
+				<vendor>Бемби</vendor>
+				<state>new</state>
+				<description>
+					<![CDATA[<p>Базовая водолазка-гольф из коллекции <strong>Бемби</strong>. Модель выполнена из ткани интерлок, в составе которой натуральный хлопок. Незаменимая вещь в гардеробе вашего ребенка. Базовая модель сочетается с любым низом.</p><p><strong>Особенности</strong>:</p><ul><li>Эластичный воротник-стойка.</li><li>Водолазка-гольф прямого кроя.</li><li>Манжеты и воротник в исполнении из трикотажной резинки.</li><li>Материал с легким начесом, приятный и комфортный, практичный, идеально подойдет на прохладное время года.</li></ul><p><strong>Рекомендации по уходу:</strong></p><ul><li>Машинная стирка при температуре 30&deg;C. Режим обычный.</li><li>Не отбеливать.</li><li>Сушка без отжима в вертикальном положении.</li><li>Гладить при температуре до 110&deg;C.</li><li>Запрещено сушить в барабане.</li></ul>]]></description>
+				<description_ua>
+					<![CDATA[<p>Базова водолазка-гольф із колекції <strong>Бембі</strong>. Модель виконана з тканини інтерлок, у складі якої натуральна бавовна. Незамінна річ у гардеробі вашої дитини. Базова модель поєднується з будь-яким низом.</p><p><strong>Особливості</strong>:</p><ul><li>Еластичний комір-стійка.</li><li>Водолазка-гольф прямого крою.</li><li>Манжети і комір у виконанні з трикотажної гумки.</li><li>Матеріал з легким начосом, приємний і комфортний, практичний, ідеально підійде на прохолодну пору року.</li></ul><p><strong>Рекомендації щодо догляду:</strong></p><ul><li>Машинне прання за температури 30&deg;C. Режим звичайний.</li><li>Не відбілювати.</li><li>Сушка без віджимання у вертикальному положенні.</li><li>Прасувати за температури до 110&deg;C.</li><li>Заборонено сушити в барабані.</li></ul>]]></description_ua>
+				<article>02094001144.100</article>
+				<param name="Країна-виробник товару" paramid="98900" valueid="544338">
+					<![CDATA[Украина]]></param>
+				<param name="Колір" paramid="131559" valueid="1008176">
+					<![CDATA[Белый]]></param>
+				<param name="Зріст" paramid="131587" valueid="1013139">
+					<![CDATA[134]]></param>
+				<param name="Дитячий вік" paramid="151000" valueid="1416616">
+					<![CDATA[9 лет]]></param>
+				<param name="Код УКТ ЗЕД" paramid="82508">
+					<![CDATA[6209200000]]></param>
+				<param name="Склад" paramid="131615">
+					<![CDATA[100% хлопок]]></param>
+				<param name="Модель для групування (МДГ)" paramid="215080">
+					<![CDATA[ГФ94-100]]></param>
+				<param name="Кількість вантажних місць" paramid="72961" valueid="311769">
+					<![CDATA[1]]></param>
+				<param name="Країна реєстрації бренда" paramid="87790" valueid="429058">
+					<![CDATA[Украина]]></param>
+				<param name="Матеріал" paramid="131573" valueid="1236383">
+					<![CDATA[Интерлок]]></param>
+				<param name="EAN" paramid="26294">
+					<![CDATA[4823101659436]]></param>
 				<param name="Артикул моделі" paramid="256977">
 					<![CDATA[ГФ94-100]]></param>
 				<param name="Кількість предметів" paramid="92802" valueid="475520">
