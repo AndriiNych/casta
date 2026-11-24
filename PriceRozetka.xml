@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-24 12:10">
+<yml_catalog date="2026-11-24 20:09">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -1246,6 +1246,7 @@
 			</offer>
 			<offer available="true" id="215219239">
 				<price>39</price>
+				<price_old>120</price_old>
 				<stock_quantity>13</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4669759</categoryId>
@@ -1288,6 +1289,7 @@
 			</offer>
 			<offer available="true" id="215220181">
 				<price>39</price>
+				<price_old>120</price_old>
 				<stock_quantity>131</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4669759</categoryId>
@@ -6740,6 +6742,7 @@
 			</offer>
 			<offer available="true" id="275525083">
 				<price>39</price>
+				<price_old>120</price_old>
 				<stock_quantity>111</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4669759</categoryId>
@@ -6780,6 +6783,7 @@
 			</offer>
 			<offer available="true" id="275525108">
 				<price>39</price>
+				<price_old>120</price_old>
 				<stock_quantity>108</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4669759</categoryId>
@@ -6822,6 +6826,7 @@
 			</offer>
 			<offer available="true" id="275525123">
 				<price>39</price>
+				<price_old>120</price_old>
 				<stock_quantity>96</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4669759</categoryId>
@@ -6864,6 +6869,7 @@
 			</offer>
 			<offer available="true" id="275525133">
 				<price>39</price>
+				<price_old>120</price_old>
 				<stock_quantity>137</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4669759</categoryId>
@@ -6906,6 +6912,7 @@
 			</offer>
 			<offer available="true" id="275525138">
 				<price>39</price>
+				<price_old>120</price_old>
 				<stock_quantity>130</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4669759</categoryId>
@@ -6948,6 +6955,7 @@
 			</offer>
 			<offer available="true" id="275525143">
 				<price>39</price>
+				<price_old>120</price_old>
 				<stock_quantity>140</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4669759</categoryId>
@@ -6990,6 +6998,7 @@
 			</offer>
 			<offer available="true" id="275525148">
 				<price>39</price>
+				<price_old>120</price_old>
 				<stock_quantity>148</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4669759</categoryId>
@@ -43413,7 +43422,8 @@
 					<![CDATA[1]]></param>
 			</offer>
 			<offer available="true" id="361513404">
-				<price>860</price>
+				<price>499</price>
+				<price_old>860</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636559</categoryId>
@@ -43456,7 +43466,8 @@
 					<![CDATA[1]]></param>
 			</offer>
 			<offer available="true" id="361513419">
-				<price>860</price>
+				<price>499</price>
+				<price_old>860</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636559</categoryId>
@@ -43501,7 +43512,8 @@
 					<![CDATA[1]]></param>
 			</offer>
 			<offer available="true" id="361513587">
-				<price>1010</price>
+				<price>599</price>
+				<price_old>1010</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636559</categoryId>
@@ -43555,7 +43567,8 @@
 					<![CDATA[1]]></param>
 			</offer>
 			<offer available="true" id="361513605">
-				<price>1010</price>
+				<price>599</price>
+				<price_old>1010</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636559</categoryId>
@@ -43608,7 +43621,8 @@
 					<![CDATA[1]]></param>
 			</offer>
 			<offer available="true" id="361513617">
-				<price>1010</price>
+				<price>599</price>
+				<price_old>1010</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636559</categoryId>
@@ -49184,7 +49198,8 @@
 					<![CDATA[1]]></param>
 			</offer>
 			<offer available="true" id="365314332">
-				<price>475</price>
+				<price>389</price>
+				<price_old>475</price_old>
 				<stock_quantity>6</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635767</categoryId>
@@ -49229,7 +49244,8 @@
 					<![CDATA[2]]></param>
 			</offer>
 			<offer available="true" id="365314338">
-				<price>475</price>
+				<price>389</price>
+				<price_old>475</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4635767</categoryId>
@@ -66998,7 +67014,8 @@
 					<![CDATA[1]]></param>
 			</offer>
 			<offer available="true" id="404104071">
-				<price>860</price>
+				<price>499</price>
+				<price_old>860</price_old>
 				<stock_quantity>2</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637103</categoryId>
@@ -67040,7 +67057,8 @@
 					<![CDATA[Новогодний ДЖ337-705]]></param>
 			</offer>
 			<offer available="true" id="404104074">
-				<price>860</price>
+				<price>499</price>
+				<price_old>860</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636559</categoryId>
@@ -67084,7 +67102,8 @@
 					<![CDATA[1]]></param>
 			</offer>
 			<offer available="true" id="404104077">
-				<price>860</price>
+				<price>499</price>
+				<price_old>860</price_old>
 				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637103</categoryId>
@@ -67126,7 +67145,8 @@
 					<![CDATA[Новогодний ДЖ337-705]]></param>
 			</offer>
 			<offer available="true" id="404104095">
-				<price>1010</price>
+				<price>599</price>
+				<price_old>1010</price_old>
 				<stock_quantity>11</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637103</categoryId>
@@ -67168,7 +67188,8 @@
 					<![CDATA[Новогодний ДЖ337-705]]></param>
 			</offer>
 			<offer available="true" id="404104107">
-				<price>1010</price>
+				<price>599</price>
+				<price_old>1010</price_old>
 				<stock_quantity>8</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637103</categoryId>
@@ -67210,7 +67231,8 @@
 					<![CDATA[Новогодний ДЖ337-705]]></param>
 			</offer>
 			<offer available="true" id="404104917">
-				<price>985</price>
+				<price>589</price>
+				<price_old>985</price_old>
 				<stock_quantity>11</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637103</categoryId>
@@ -67254,7 +67276,8 @@
 					<![CDATA[Новогодний ДЖ350-205]]></param>
 			</offer>
 			<offer available="true" id="404105166">
-				<price>985</price>
+				<price>589</price>
+				<price_old>985</price_old>
 				<stock_quantity>3</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637103</categoryId>
@@ -67298,7 +67321,8 @@
 					<![CDATA[Новогодний ДЖ350-205]]></param>
 			</offer>
 			<offer available="true" id="404105286">
-				<price>985</price>
+				<price>589</price>
+				<price_old>985</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636559</categoryId>
@@ -67344,7 +67368,8 @@
 					<![CDATA[1]]></param>
 			</offer>
 			<offer available="true" id="404106810">
-				<price>1010</price>
+				<price>599</price>
+				<price_old>1010</price_old>
 				<stock_quantity>1</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636559</categoryId>
@@ -137936,7 +137961,7 @@
 			</offer>
 			<offer available="true" id="93780866">
 				<price>560</price>
-				<stock_quantity>49</stock_quantity>
+				<stock_quantity>48</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636535</categoryId>
 				<name>Гольф школьный детский Бемби ГФ94-100 128 см Белый</name>
@@ -137980,7 +138005,7 @@
 			</offer>
 			<offer available="true" id="93780872">
 				<price>560</price>
-				<stock_quantity>43</stock_quantity>
+				<stock_quantity>41</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4636535</categoryId>
 				<name>Детская водолазка-гольф для мальчика Бемби ГФ94-100 134 см Белая (02094001144.100)</name>
