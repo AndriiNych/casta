@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-23 18:09">
+<yml_catalog date="2026-11-24 12:10">
 	<shop>
 		<name>Modern Children</name>
 		<company>ФОП Чернега Тетяна Петрівна</company>
@@ -10061,8 +10061,9 @@
 				<categoryId>4637055</categoryId>
 				<name>Детская водолазка-гольф Бемби City collection GF117-400 128 см Голубая (02117006343.400)</name>
 				<name_ua>Дитяча водолазка-гольф Бембі City collection GF117-400 128 см Блакитна (02117006343.400)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/gf117(63)_01(400)a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/gf117(63)_01(400)b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/gf117(63)_02(400)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/gf117(63)_02(400)b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/gf117(63)_02(400)c.jpg</picture>
 				<vendor>Бемби</vendor>
 				<state>new</state>
 				<description>
@@ -10104,8 +10105,9 @@
 				<categoryId>4637055</categoryId>
 				<name>Детская водолазка-гольф Бемби City collection GF117-400 134 см Голубая (02117006344.400)</name>
 				<name_ua>Дитяча водолазка-гольф Бембі City collection GF117-400 134 см Блакитна (02117006344.400)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/gf117(63)_01(400)a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/gf117(63)_01(400)b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/gf117(63)_02(400)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/gf117(63)_02(400)b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/gf117(63)_02(400)c.jpg</picture>
 				<vendor>Бемби</vendor>
 				<state>new</state>
 				<description>
@@ -10190,8 +10192,9 @@
 				<categoryId>4637055</categoryId>
 				<name>Подростковая водолазка-гольф для девочки Бемби City collection GF117-900 158 см Розовая (02117006371.900)</name>
 				<name_ua>Підліткова водолазка-гольф для дівчинки Бемби City collection GF117-900 158 см Рожева (02117006371.900)</name_ua>
-				<picture>https://shop.bembi.ua/uploads/products/gf117(63)_01(900)a.jpg</picture>
-				<picture>https://shop.bembi.ua/uploads/products/gf117(63)_01(900)b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/gf117(63)_02(900)a.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/gf117(63)_02(900)b.jpg</picture>
+				<picture>https://shop.bembi.ua/uploads/products/gf117(63)_02(900)c.jpg</picture>
 				<vendor>Бемби</vendor>
 				<state>new</state>
 				<description>
@@ -42289,7 +42292,7 @@
 			</offer>
 			<offer available="true" id="360380976">
 				<price>609</price>
-				<stock_quantity>14</stock_quantity>
+				<stock_quantity>13</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637103</categoryId>
 				<name>Детский свитшот для девочки Бемби ДЖ325 35325406643.G05 128 см Коричневый (4823116462083)</name>
@@ -42333,7 +42336,7 @@
 			<offer available="true" id="360381786">
 				<price>299</price>
 				<price_old>752</price_old>
-				<stock_quantity>16</stock_quantity>
+				<stock_quantity>15</stock_quantity>
 				<currencyId>UAH</currencyId>
 				<categoryId>4637103</categoryId>
 				<name>Подростковый свитшот для девочки Бемби ДЖ325 35325406668.G05 146 см Коричневый (4823116462113)</name>
